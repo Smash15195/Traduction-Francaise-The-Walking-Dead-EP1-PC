@@ -1,0 +1,140 @@
+1)  
+Game Title
+2)  
+Game Details
+3)  
+name_WalkingDead101_Slug
+4)  
+desc_achieved_WalkingDead101_Slug
+5)  
+desc_unachieved_WalkingDead101_Slug
+6)  
+name_KillCop
+7)  
+desc_achieved_KillCop
+8)  
+desc_unachieved_KillCop
+9)  
+Out of the Frying Pan
+10)  
+Freed From Your Cuffs, But...
+11)  
+Enter Clementine's back yard after killing the cop.
+12)  
+name_KillBabysitter
+13)  
+desc_achieved_KillBabysitter
+14)  
+desc_unachieved_KillBabysitter
+15)  
+Adventures in Babysitting
+16)  
+Entered Clementine's back yard after killing the babysitter.
+17)  
+Complete Chapter 2 of Episode 1.
+18)  
+name_ChetOrMitchell
+19)  
+desc_achieved_ChetOrMitchell
+20)  
+desc_unachieved_ChetOrMitchell
+21)  
+In Your Charge
+22)  
+Arrived at Hershel's farm after escaping with Shawn Greene and Chet or Mitchell.
+23)  
+Arrive at Hershel's farm after escaping with Shawn Greene and Chet or Mitchell.
+24)  
+name_ShawnOrDuck
+25)  
+desc_achieved_ShawnOrDuck
+26)  
+desc_unachieved_ShawnOrDuck
+27)  
+Rock and a Hard Place
+28)  
+Arrived at the drugstore after making the choice between helping Shawn or Duck.
+29)  
+Complete Chapter 4 of Episode 1.
+30)  
+name_IreneSuicide
+31)  
+desc_achieved_IreneSuicide
+32)  
+desc_unachieved_IreneSuicide
+33)  
+It's Just One Bullet
+34)  
+Entered the drugstore after Irene’s suicide.
+35)  
+Enter the drugstore after Irene’s suicide.
+36)  
+Kill the zombie cop.
+37)  
+Killed the zombie babysitter.
+38)  
+Chose to help Shawn or Duck.
+39)  
+Witnessed Irene’s suicide.
+40)  
+Witness Irene’s suicide.
+41)  
+name_KillBrother
+42)  
+desc_achieved_KillBrother
+43)  
+desc_unachieved_KillBrother
+44)  
+Hey, Bud
+45)  
+Killed Lee's zombie brother.
+46)  
+Complete Chapter 6 of Episode 1.
+47)  
+name_DougOrCarley
+48)  
+desc_achieved_DougOrCarley
+49)  
+desc_unachieved_DougOrCarley
+50)  
+name_CompleteEpisode
+51)  
+desc_achieved_CompleteEpisode
+52)  
+desc_unachieved_CompleteEpisode
+53)  
+Everything's Going to be Okay
+54)  
+Completed Episode 1: "A New Day"
+55)  
+Complete Episode 1: "A New Day"
+56)  
+Two Enter, One Leaves
+57)  
+Saved Doug or Carley.
+58)  
+Complete Chapter 7 of Episode 1.
+59)  
+Complete Chapter 1 of Episode 1.
+60)  
+Complete Chapter 3 of Episode 1.
+61)  
+Complete Chapter 5 of Episode 1.
+62)  
+Escaped from Sandra and met Clementine.
+63)  
+Found Help and are Now Responsible for a Little Girl.
+64)  
+Chose Between Two Sons.
+65)  
+Met a Girl at the End of Her Rope.
+66)  
+Finally Reunited With Your Brother.
+67)  
+Chose Between Friends.
+68)  
+The Walking Dead
+69)  
+The Walking Dead
+70)  
+Congratulations. You're the New Babysitter.

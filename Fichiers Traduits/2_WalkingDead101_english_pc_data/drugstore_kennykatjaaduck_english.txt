@@ -1,0 +1,340 @@
+1)  LEE
+{HappyA}{body-A}Qu'est-ce qu'on fait ?
+2)  LEE
+{HappyA}{body-C}Hé, les gars.
+3)  LEE
+{ThinkingA}Ouais ?
+4)  KENNY
+{SadB}{Body-StandB}A la ferme d'Hershel...
+5)  KENNY
+{SadA}{Body-StandA}Lee, vous avez une seconde ?
+6)  LEE
+{NormalA}{body-A}Bien sûr.
+7)  KENNY
+{SadB}J'ai paniqué, vous savez. {FearB}Et j'en suis pas fier.
+8)  LEE
+{SadA}{body-E}Ca arrive.
+9)  
+Ca arrive.
+10)  LEE
+{AngryA}{body-E}Vous avez laissé ce garçon mourir.
+11)  
+Vous avez laisse ce garcon mourir.
+12)  KENNY
+{SadB}Je crois.
+13)  LEE
+[distant] {fearA}Ouais, c'est...pas simple.
+14)  KENNY
+{AngryA}J'ai tué ce garçon. {AngryB}Nous aurions pu le sauver ensemble.
+15)  KENNY
+{SadA}Je suppose, {FearA}mais je n'arrête pas de penser à lui.
+33)  KENNY
+{SadA}Je suppose, {FearA}mais je n'arrête pas de penser à lui.
+16)  LEE
+{AngryA}Vous n'aviez pas le choix.
+17)  
+Reconforter ?
+39)  
+Reconforter ?
+18)  
+Laisser le partir.
+41)  
+Laisser le partir.
+19)  LEE
+{FearA}Essayez d'oublier.
+40)  LEE
+{FearA}Essayez d'oublier.
+20)  KENNY
+[torn up] {FearC}C'est pour ça que je n'arrête pas d'y penser...{FearA}Je n'arrête pas de voir son visage.
+44)  KENNY
+[torn up] {FearC}C'est pour ça que je n'arrête pas d'y penser...{FearA}Je n'arrête pas de voir son visage.
+21)  KENNY
+[torn up] {SadB}Je sais. Je sais...
+43)  KENNY
+[torn up] {SadB}Je sais. Je sais...
+22)  LEE
+{sadA}Qu'est-ce que ça aurait changé ? {AngryA}Vous avez libéré Duck, vous n'avez rien à vous reprocher, {AngryB}et nous avons tenté de retirer ce tracteur de sa jambe.
+23)  LEE
+{AngryB}{body-e}Bien. Vous devriez. {angryB}Nous devrions pouvoir compter les un sur les autres.
+46)  LEE
+{AngryB}{body-e}Bien. Vous devriez. {angryB}Nous devrions pouvoir compter les un sur les autres.
+24)  KENNY
+{SadA}Je veux dire, c'est ma faute, pas vrai ?{FearA} J'aurai dû aider.
+[reshow choices]
+133)  KENNY
+{SadA}Je veux dire, c'est ma faute, pas vrai ?{FearA} J'aurai dû aider.
+[reshow choices]
+136)  KENNY
+{SadA}Je veux dire, c'est ma faute, pas vrai ?{FearA} J'aurai dû aider.
+[reshow choices]
+25)  KENNY
+{SadA}Allez, dites quelque chose. {SadB}La culpabilité me tue.
+[reshow choices]
+134)  KENNY
+{SadA}Allez, dites quelque chose. {SadB}La culpabilité me tue.
+[reshow choices]
+137)  KENNY
+{SadA}Allez, dites quelque chose. {SadB}La culpabilité me tue.
+[reshow choices]
+26)  KENNY
+{AngryB}Super. Vous êtes un putian de héros. {AngryC}Vous avez essayer. {AngryB}Super.
+135)  KENNY
+{AngryB}Super. Vous êtes un putian de héros. {AngryC}Vous avez essayer. {AngryB}Super.
+138)  KENNY
+{AngryB}Super. Vous êtes un putian de héros. {AngryC}Vous avez essayer. {AngryB}Super.
+27)  KENNY
+Nous n'avons même pas essayé de le sauver. Son sang est sur nos mains, vous voyez ?
+28)  
+C'est arrivé tellement vite.
+29)  LEE
+{SadB}{body-C}C'est arrivé tellement vite.
+30)  
+Nous avons laissé ce garcon mourir.
+31)  LEE
+{FearA}{body-B}Nous avons laissé ce garçon mourir.
+32)  
+Silence
+34)  LEE
+{FearA}Nous ne devons pas nous laisser abattre.
+35)  KENNY
+{AngryA}NOUS avons tué ce garçon. {AngryB}Nous aurions pu le sauver ensemble.
+36)  LEE
+{AngryA}Nous avons fait ce que nous pouvions. {ThinkingA}De mauvaises choses arrivent. {SadB}Nous n'avons pas fait un choix qui a tuer Shawn.
+37)  LEE
+Vous pensez que vous le pouvez, maintenant que vous y repensez. {AngryB}Mais sur le moment ? Quand les choses sont vraiment hors de contrôle ? {AngryA}Vous n'avez aucun choix.
+42)  LEE
+Vous pensez que vous le pouvez, maintenant que vous y repensez. {AngryB}Mais sur le moment ? Quand les choses sont vraiment hors de contrôle ? {AngryA}Vous n'avez aucun choix.
+38)  KENNY
+{SadA}Je crois.
+45)  LEE
+{SadB}Il en aurait pas fallu beaucoup plus.
+47)  
+Ignorer ?
+48)  
+Reprimander ?
+49)  LEE
+[very stern]{AngryA} Qu'y at-il d'autre à faire ?
+50)  LEE
+{DisgustA}{Body-E}[disgust] Hmph.
+51)  KENNY
+{FearA}Mec, regardez moi. {FearB}Je ne sait pas si je peux supporter ça.
+52)  
+Comment va Duck ?
+53)  KATJAA
+{NormalB}Il va bien, {SadA}ça l'a juste choqué..
+54)  LEE
+{SadA}{body-E}Comment va Duck ?
+55)  LEE
+{HappyA}Sans blague.
+56)  KENNY
+{AngryA}Nous sommes chanceux que personnes n'aient été attrapés en chemin.
+57)  KATJAA
+{NormalC}Comment va t-elle ?
+58)  LEE
+{SadA}{body-C}Elle va bien, je pense.
+59)  LEE
+{ThinkingB}{body-E}Et bien, ça famille est morte, alors...
+60)  LEE
+{AngryA}{body-E}Comment je pourrais le savoir ?
+61)  
+Elle va bien, je pense.
+62)  
+Ca famille est morte.
+63)  
+Comment je pourrais le savoir ?
+64)  KENNY
+{HappyA}Pas n'importe quel petite fille peut le faire.
+65)  LEE
+{NormalA}C'est vrai.
+66)  KENNY
+{FearA}C'est une dur à cuire.
+67)  KATJAA
+{AngryA}C'est juste une petite fille, Ken.
+71)  KATJAA
+{AngryA}C'est juste une petite fille, Ken.
+68)  KENNY
+{ThinkingA}Qu'est-ce que vous disiez, Lee, elle a passée {SurprisedA}des jours a survivre {ThinkingA}toute seule ?
+69)  KATJAA
+{AngryA}Mais tu n'as aucune idée {AngryB}des dégats émotionel qu'elle vit {SadA}chaque seconde depuis que sa famille à disparue.
+70)  KATJAA
+{FearA}C'est horrible, Lee.
+72)  KENNY
+{SadA}Ouais, et bien... [he has a point]
+73)  KENNY
+{ThinkingA}Lee dit qu'elle a passée des jours à survivre seule. {HappyA}Ca demande de la ténacité.
+74)  KENNY
+{HappyA}Elle semble pouvoir très bien s'occuper d'elle.
+75)  KATJAA
+{AngryB}Et bien, demandez-lui.
+76)  LEE
+{AngryA}J'essaye juste de faire de mon mieux.
+83)  LEE
+{AngryA}J'essaye juste de faire de mon mieux.
+77)  KATJAA
+{FearA}Vous êtes tout ce qu'elle a. {SadA}Et à première vue,{ThinkingA} c'est réciproque.
+81)  KATJAA
+{FearA}Vous êtes tout ce qu'elle a. {SadA}Et à première vue,{ThinkingA} c'est réciproque.
+78)  KENNY
+{AngryA}Katjaa, laisse-le tranquille...
+84)  KENNY
+{AngryA}Katjaa, laisse-le tranquille...
+79)  KATJAA
+{AngryB}Non, Ken. Nous savons pas combien de temps ça va durer. {AngryA}Cette fille a besoin de quelqu'un qui soit là pour elle et non qui en donne l'impression, {ThinkingA}Lee pourrait faire de même.
+82)  KATJAA
+{AngryB}Non, Ken. Nous savons pas combien de temps ça va durer. {AngryA}Cette fille a besoin de quelqu'un qui soit là pour elle et non qui en donne l'impression, {ThinkingA}Lee pourrait faire de même.
+80)  KATJAA
+{AngryA}Et bien, quelqu'un doit lui demander.
+85)  
+Quel est le plan ?
+86)  LEE
+{FearA}{body-B}c'est vrai.
+87)  KATJAA
+{ThinkingA}Où sont-ils ? {FearA}Faut-il aller les chercher ?
+88)  KENNY
+{SadB}Ca va être tendu, j'imagine. {FearA}Ca semble assez dangereux là-bas, so {SadA}on devrait attendre que les choses s'éclaircissent.
+89)  KATJAA
+{ThinkingB}Vous avez dis que votre famille était de Macon ?
+90)  LEE
+{ThinkingA}{body-A}Quel est le plan?
+91)  
+Je sais pas.
+92)  
+Ils sont partis.
+93)  
+Ils etaient proprietaires de cet endroit.
+94)  LEE
+{SadB}{body-A}Je sais pas.
+95)  LEE
+{SadC}{body-E}Ils sont... partis.
+107)  LEE
+{SadC}{body-E}Ils sont... partis.
+96)  LEE
+{SadB}{body-A}Ils étaient propriétaires de cet endroit.
+97)  KATJAA
+{ThinkingA}Et bien, {SadA}ils seraient pas dans leur maison ou un endroit comme ça ?
+98)  KATJAA
+{FearA}Bien, vous ne savez simplement pas.
+99)  LEE
+{FearB}{body-C}Je... Je suis pas sûr qu'ils l'ont fait. Nous avons passé quelques maisons sur la route... et... {SadA}les choses se sont assez mal passée dans le coin.
+100)  KENNY
+{AngryB}Kat, ce sont pas tes affaires.
+103)  KENNY
+{AngryB}Kat, ce sont pas tes affaires.
+101)  LEE
+{AngryC}Je crois, d'accord ?
+102)  KATJAA
+{FearB}Oh mon dieu, {SadA}vous croyez ? {SadB}Comment ?
+104)  LEE
+{SadC}Ils ont sortis des corps en-dehors du bureau avant que l'on arrive ici.
+105)  LEE
+C'étaient de braves gens. {SadA}Je n'étais pas souvent présent, mais, {SadC}ils sont morts.
+106)  KENNY
+{SadB}Kat...
+108)  KATJAA
+[hearbroken for the players loss] {SadB}Oh chéri...
+109)  KENNY
+{SadA}Je suis sûr que peut importe où ils sont, {HappyA}ils vont mieux que nous. [gives Lee a knowing look].
+110)  KENNY
+{AngryA}Kat, ce sont pas tes affaires.
+111)  
+Vous allez bien ?
+113)  
+Vous allez bien ?
+112)  LEE
+{NormalD}{body-A}Vous allez bien ?
+114)  LEE
+{HappyA}Comment va Duck ?
+115)  KENNY
+{NormalC}On va très bien, {HappyA}compte tenu des évenements.
+116)  KATJAA
+{SadA}Nous avons tous vécu des instants difficile.
+117)  
+Partir
+118)  KENNY
+{ThinkingA}Hmmph. {AngryA}Prenez votre temps.
+119)  LEE
+{ThinkingB}{body-B}On ferait mieux de revenir prendre des médoc de ce type.
+120)  LEE
+{AngryA}Très bien.
+121)  LEE
+{NormalC}Pigé.
+122)  KENNY
+{thinkingA}Si cela ne vous fait rien, {SadA}Je pense que ma famille et moi allons nous reposer un peu. {ThinkingA}Faites moi savoir si  {angryA}ce connard là-bas {thinkingA}fait des siennes.
+123)  KENNY
+{HappyA}Je sais, chérie.
+124)  KATJAA
+{FearA}Nous ne pouvons pas laisser quelque chose arriver à Ducky.
+125)  KENNY
+{FearA}On fera tout notre possible.
+126)  KATJAA
+{SadA}On a besoin de revenir à Fort Lauderdale.
+127)  KATJAA
+{AngryA}Comment puis-je {FearA}avec ces choses dehors ?
+128)  KENNY
+{NormalA}Essaie de te reposer un peu, chérie.
+129)  LEE
+{SadA}C'est pas beaucoup, mais voilà.
+130)  LEE
+{HappyA}Pour le petit.
+131)  KENNY
+{HappyB}Oh, merci Lee. Il apprécie.
+132)  KATJAA
+{HappyA}C'est gentil, Lee.
+139)  KENNY
+[pickup1] Génial, rien à foutre.
+140)  KATJAA
+[pickup1] {happyA}Merci, Lee.
+148)  KATJAA
+[pickup1] {happyA}Merci, Lee.
+141)  KENNY
+[pickup1] {thinkingA}Dit le gars qui n'a pas prit son coup de poing dans la tronche.
+142)  KENNY
+[pickup1] {happyA}Bref, nous, Kat et moi, apprécions votre aide.
+145)  KENNY
+[pickup1] {happyA}Bref, nous, Kat et moi, apprécions votre aide.
+143)  KENNY
+[pickup1] {angryA}Hé Lee; lui en mettre une n'était peut-être pas une bonne idée.
+144)  LEE
+[pickup1]{disgustA} [conversational] Il y a des plans bien pire.
+146)  LEE
+[pickup1] {angryA}Ouais. On y a été{surpriseA}poussé, vous savez.
+147)  KENNY
+[pickup1] Vous n'avez pas besoin de le dire; J'étais a deux doigts de lui arracher la tête.
+149)  KENNY
+[pickup1] {surprisedA}Hé Lee; vous avez vraiment foutu une trouille d'enfer au vioque.
+150)  KATJAA
+[pickup1] {fearB}Quoi si... il...{sadA}C'est bon Lee.
+151)  KENNY
+[pickup1] {surprisedA}A partir de maintenant {angryA}Lee, j'ai besoin de savoir que vous êtes de mon côté.
+152)  LEE
+[pickup1] {fearB}Je suis désolé, Katjaa.
+153)  KATJAA
+[pickup1] {angryB}Arrête ça, Kenny. Nous avons tous été effrayés. Même moi, je pensais que {sadA}peut-être, [getting emotional]peut-être que nous allions perdre notre fils.
+154)  KATJAA
+[pickup1]{angryA}[stopping him from getting angry at lee] Kenny...
+155)  KENNY
+[pickup1] {angryB}N'essayez même pas de venir par ici.
+156)  KENNY
+[pickup1] Non, Kat. Ce {angryC}fils de pute aurait laissé cet homme donner notre fils a bouffer aux loups.
+157)  
+Je le suis.
+158)  
+Non.
+159)  KENNY
+[pickup1] {thinkingA}Bien. Merci.
+160)  LEE
+[pickup1] {surpriseA}Ouais, Je le suis;{fearA} bien sûr.
+161)  KENNY
+[pickup1] {angryA}Bien. Oubliez ça alors.
+162)  KATJAA
+[pickup1] {thinkingA}Kenny, Lee's est un homme bon. Et nous sommes tous des étrangers ici.
+163)  KENNY
+[pickup1] {thinkingA}Je crois que tu as raison, chérie. De toute manière, {angryA}Lee, qu'est-ce que c'était ?
+164)  LEE
+[pickup1] {angryA}C'est pas aussi simple.
+165)  KENNY
+[pickup1]{angryB}[soupir, begrudingly agreeing]
+166)  
+Parler à
+167)  
+Donner Nourriture à

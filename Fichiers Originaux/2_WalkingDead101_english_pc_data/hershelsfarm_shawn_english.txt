@@ -1,0 +1,216 @@
+1)  DUCK
+{happyB} Good! I'm gonna drive the tractor!
+2)  DUCK
+{happyC} I'm the foreman! [to shawn]Lift with your back, Shawn!
+3)  LEE
+{happyA} How you doing, Duck?
+4)  
+Look at
+5)  DUCK
+DON'T LET 'EM TAKE ME!
+6)  DUCK
+THEY'RE GONNA EAT ME!
+7)  DUCK
+LEE, HELP!
+8)  DUCK
+NO, PLEASE PLEASE NO!
+9)  DUCK
+AHH!
+10)  DUCK
+DAD! HELP!
+11)  SHAWN
+[working, manual labor] Hey, Lee.
+12)  
+Need a hand?
+13)  
+Hey.
+17)  LEE
+Hey.
+14)  
+Leave
+15)  LEE
+{thinkingA} I'm gonna go uhh... check on the others.
+16)  SHAWN
+{HappyA} Whatever you want, man.
+18)  SHAWN
+{HappyB} That'd be great. {SadA} If you could cut those two-bys to length, that'd sure speed things up.
+109)  SHAWN
+{HappyB} That'd be great. {SadA} If you could cut those two-bys to length, that'd sure speed things up.
+19)  LEE
+{happyA} Need a hand?
+110)  LEE
+{happyA} Need a hand?
+111)  LEE
+{happyA} Need a hand?
+20)  LEE
+{happyA} Still need a hand?
+112)  LEE
+{happyA} Still need a hand?
+21)  SHAWN
+That'd be great.
+22)  SHAWN
+{HappyA} I'm good. Maybe go check on my dad in the barn?
+23)  SHAWN
+{SadA} My dad doesn't know how bad it is.
+24)  LEE
+{sadA} No, he doesn't.
+25)  SHAWN
+{FearA} I saw a guy in Atlanta kill a kid. A boy. Just shot him right in the face.
+26)  
+Silence
+27)  
+Sometimes it's kill or be killed.
+28)  LEE
+{fearA} Damn.
+29)  LEE
+{thinkingA} You gotta do what you can to survive.
+30)  LEE
+{disgustA} Was the boy one of the walkers?
+31)  
+Damn.
+32)  
+You gotta do what you gotta do.
+47)  LEE
+You gotta do what you gotta do.
+33)  
+Was the boy one of the walkers?
+34)  SHAWN
+{SadA} No shit, damn.
+35)  SHAWN
+{fearA} Like put a gun to that kid's head and pull the trigger? {disgustA} Fuck that, man.
+36)  SHAWN
+{thinkingA} I don't even know. He was either attacking the guy or asking for help.
+37)  SHAWN
+{angryA} You don't see things like that. {normalB} It's not like in the movies.
+38)  SHAWN
+{FearA} He didn't even hesitate. He just turned, put the barrel of the gun right between this kid's eyes {sadB}and pulled the trigger.
+39)  LEE
+{normalD} Oh, uh...
+40)  SHAWN
+{sadA} Did you have to do it?
+41)  LEE
+{thinkingA} Do what?
+42)  SHAWN
+{thinkingB} Yeah. It's not like a rag doll or a puppet without strings. It's heavy.
+43)  LEE
+{normalC} They don't fall like you think.
+44)  SHAWN
+{thinkingA} Kill. Have you had to off one yet?
+45)  LEE
+{thinkingA} I had to shoot one.
+46)  LEE
+{disgustB} I bashed a poor girl's brains in.
+48)  LEE
+{normalD} Sometimes it's kill {angryA}or be killed.
+49)  
+I had to shoot one.
+50)  
+I bashed a poor girl's brains in.
+52)  SHAWN
+{thinkingA} It's cool, don't worry about it.
+106)  SHAWN
+{thinkingA} It's cool, don't worry about it.
+53)  SHAWN
+{thinkingA} I could shoot one, maybe. {sadA} If it were far away.
+54)  SHAWN
+{fearB} Whoa, I couldn't do that.
+55)  SHAWN
+{sadA} I guess. {thinkingA} I don't think I'd sleep good after that.
+56)  SHAWN
+{normalC} How about yours? How's your family?
+91)  SHAWN
+{normalC} How about yours? How's your family?
+57)  SHAWN
+{happyA} I'm just glad we're getting this fence built. {sadA} Dad just wants to keep the family safe and thinks inviting people in is a bigger threat than {thinkingA}whatever's out there.
+58)  LEE
+{normalC} My brother and parents are in Macon, {sadA}I hope.
+59)  LEE
+{thinkingA} I'm not quite sure where my ex-wife is.
+60)  LEE
+{normalD} I'm not too close with my family.
+61)  
+My parents are in Macon with my brother.
+62)  
+I don't know where my ex-wife is.
+63)  
+I don't know where my ex-wife is.
+64)  
+I'm not too close with my family.
+65)  SHAWN
+{thinkingA} Oh man, I hope so too. {fearA} Maybe it's not too bad there.
+66)  SHAWN
+[awkard ex-wife talk] {happyB} Ah. {thinkingB} Oh. {sadA} Yeah. For sure.
+67)  SHAWN
+{thinkingA} Oh. Well, they weren't in Atlanta, right? {sadB} So that's good.
+68)  SHAWN
+[filling awkward silence] {thinkingB} Well, whoever they are, wherever they are, {happyB} I hope they're ok.
+107)  SHAWN
+[filling awkward silence] {thinkingB} Well, whoever they are, wherever they are, {happyB} I hope they're ok.
+69)  LEE
+{normalD} Thanks.
+108)  LEE
+{normalD} Thanks.
+70)  SHAWN
+{normalB} That's probably all I need cut for now. Thanks.
+71)  SHAWN
+{sadA} Maybe you can help my dad out in the barn?
+72)  LEE
+{happyA} I like doing the work.
+73)  LEE
+{normalB} I'll go see.
+74)  LEE
+Shit! They're gonna get him.
+75)  LEE
+He's trapped under the tractor!
+76)  LEE
+I got to get that thing off of him!
+77)  LEE
+They're coming under the fence!!!
+78)  LEE
+Shawn's still working on that fence.
+79)  SHAWN
+My leg is stuck!
+80)  SHAWN
+Fuck, it's crushed! Move this thing!
+81)  SHAWN
+KENNY! FUCK! HELP ME!
+82)  SHAWN
+LEE, please help me!
+83)  SHAWN
+HELP! FUCK! HELP!
+84)  SHAWN
+Get it off of me!
+85)  LEE
+We're gonna get this thing off you!
+86)  SHAWN
+Fuck, they're coming man, they're coming!
+87)  DUCK
+[a bunch of panicked/trapped/I don't want to die sounds1]
+88)  DUCK
+[a bunch of panicked/trapped/I don't want to die sounds1]
+89)  DUCK
+[scream1]
+90)  DUCK
+[scream2]
+92)  SHAWN
+{happyA} I'm just glad we're getting this fence built. {sadA} Dad just wants to keep the family safe and thinks inviting people in is a bigger threat than {thinkingA} whatever is out there.
+93)  
+Talk to
+95)  
+Talk to
+94)  
+Look At
+96)  
+Look At
+100)  SHAWN
+[pickup1] {sadA} Thanks, I appreciate it.
+101)  SHAWN
+[pickup1] Anyway, when you see my dad around, he might want some help in the barn.
+105)  SHAWN
+[pickup1] Anyway, when you see my dad around, he might want some help in the barn.
+102)  LEE
+[pickup3] {sadA} I'm sorry about your friend.
+103)  LEE
+[pickup3] {normalD} And Shawn, thanks again for the ride.
+104)  SHAWN
+[pickup1] {happyA} No problem, Lee. Couldn't leave you behind.

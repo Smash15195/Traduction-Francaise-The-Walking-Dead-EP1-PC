@@ -1,0 +1,144 @@
+1)  HERSHEL
+{normalC} A man asks you your name, you give it. {disgustA} Unless that name is no good.
+2)  HERSHEL
+{angryA} You should know that if you weren't leaving with Kenny today, {disgustA} I wouldn't stand for your lack of honesty last night.
+3)  LEE
+{thinkingB} I'm not sure I follow.
+4)  HERSHEL
+{disgustA} How'd you get out of Atlanta?
+5)  LEE
+{sadA} ...On foot. I headed south and {fearA}hoofed it out of there. [sets logic liar]
+6)  LEE
+{normalD} ...I got a ride and then I was in a wreck. I walked until your boy found me.
+7)  LEE
+{normalD} ...I was on my way out anyway. Timing of all this just happened to be right. [sets logic liar]
+8)  
+On foot.
+9)  
+I got a ride.
+10)  
+I was on my way out anyway.
+11)  
+I was on my way out anyway.
+12)  
+[Remain Silent]
+29)  
+[Remain Silent]
+35)  
+[Remain Silent]
+50)  
+[Remain Silent]
+13)  HERSHEL
+{thinkingA} That's a long walk.
+14)  HERSHEL
+{thinkingA} Hmm. Well you're no worse for wear.
+15)  HERSHEL
+{thinkingA} Ha, if there ever is a good time for the supposed "apocalypse."
+16)  HERSHEL
+[incredulous] {thinkingA} Well, I'm sure it was complicated.
+70)  HERSHEL
+[incredulous] {thinkingA} Well, I'm sure it was complicated.
+17)  LEE
+{thinkingA} Was brought up to, yes.
+18)  LEE
+[trying to change the subject] {fearA}{body-C} This {happyB}farm's a nice plot of land.
+19)  HERSHEL
+{sadA} Never was the plan, having a place like this. It was in the family, and I guess so was I. {happyA} Family's important; it's all that matters. {thinkingA}You agree with that?
+20)  HERSHEL
+{thinkingA} Where's your family now? Parents? Wife? Girlfriend?
+21)  HERSHEL
+{thinkingA} Heh, had you told me twenty years ago I'd be still be doing this,{happyA} I would told you that you were full of crap.
+22)  LEE
+{normalD} My parents are in Macon, with my brother.
+23)  LEE
+{normalD} No wife, not anymore. I think she's up in Virginia, maybe.
+24)  LEE
+{normalD} No family. {happyA}I had a beta fish on my desk at the University.
+25)  LEE
+...
+26)  
+My parents are in Macon.
+27)  
+No wife anymore.
+28)  
+No family.
+30)  HERSHEL
+{happyA} Well I hope they're all right.
+31)  HERSHEL
+{sadA} Sorry to hear it.
+32)  HERSHEL
+{sadA} I hope someone remembered to feed him.
+33)  HERSHEL
+{angryA} Fine. Keep your mouth shut. {disgustA} Rude as hell, but what's a man to do.
+71)  HERSHEL
+{angryA} Fine. Keep your mouth shut. {disgustA} Rude as hell, but what's a man to do.
+34)  HERSHEL
+{sadA}{body-D} But now you've got this little girl to take care of.{body-handships} Clementine, is it? {thinkingA}You just stumbled up-on her?
+36)  LEE
+{normalC}{body-A} Yeah, I was looking for help in her house.
+37)  LEE
+{normalC}{body-A} I was being attacked and she came to my rescue.
+38)  LEE
+{thinkingA}{body-A} What are you getting at?
+39)  
+I was looking for help in her house.
+40)  
+I was being attacked and she came to my rescue.
+41)  
+What are you getting at?
+42)  HERSHEL
+[judgmental, distrusting] {disgustA} Hmmph. [like, is that so]
+43)  HERSHEL
+{angryA} Can I give you a piece of advice?
+44)  LEE
+{normalB} Sure.
+45)  LEE
+{angryA}{body-C} What is it.
+46)  LEE
+{angryB}{body-C} Mind your own business.
+47)  
+Sure.
+48)  
+What is it?
+49)  
+Mind your own business.
+51)  HERSHEL
+{normalC}{body-D} I don't know who you are or what you did.
+52)  HERSHEL
+{thinkingA}{body-D} But you better become a better liar, and fast.
+53)  HERSHEL
+{thinkingA} But you better figure out your story. Or at least what you want your story to be.
+54)  HERSHEL
+{fearA} Let's say things don't get better back in the cities. {normalB} Or they get worse before they do. {thinkingA} You're going to have to depend on the honesty of strangers if you're going to make it. {sadA} And if those same people get to questioning yours, you're going to be in trouble.
+67)  HERSHEL
+{fearA} Let's say things don't get better back in the cities. {normalB} Or they get worse before they do. {thinkingA} You're going to have to depend on the honesty of strangers if you're going to make it. {sadA} And if those same people get to questioning yours, you're going to be in trouble.
+69)  HERSHEL
+{fearA} Let's say things don't get better back in the cities. {normalB} Or they get worse before they do. {thinkingA} You're going to have to depend on the honesty of strangers if you're going to make it. {sadA} And if those same people get to questioning yours, you're going to be in trouble.
+55)  HERSHEL
+{disgustA} So whoever you are, and whatever you did, keep it to your damn self.
+68)  HERSHEL
+{disgustA} So whoever you are, and whatever you did, keep it to your damn self.
+56)  HERSHEL
+[a hmmph, kind of to yourself] {happyA} But at least you have the common sense to listen to a man giving you advice.
+57)  HERSHEL
+{fearA} Oh, and {angryA}I'd start checking the attitude, friend.
+58)  HERSHEL
+{sadA} Oh, and {angryA}trying to be less of an asshole would serve you just fine.
+59)  HERSHEL
+{angryA} And another thing: {thinkingA} you're going to have to figure out how to answer a goddamn question when someone asks.
+60)  HERSHEL
+{surprisedA} GO! I'll get my gun.
+61)  SHAWN
+[super far away scream] SHIT THEY'RE HERE! [gets leg trapped] AHH! HELP!
+62)  CLEMENTINE
+[SCREAM!] AHHHHHH!
+63)  LEE
+{fearC} What the?!--
+64)  HERSHEL
+[pickup1] And honestly, I don't even want to know.
+65)  HERSHEL
+[pickup1] {disgustA} I ain't dumb. I caught you in that lie last night; about who were with in that car.
+66)  HERSHEL
+[pickup1] HMMPH. [pissed]
+72)  HERSHEL
+[pickup1] HMMPH. [pissed]

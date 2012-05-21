@@ -1,0 +1,220 @@
+1)  
+To pilot Lee around like a little boat, waggle the stick or push WASD. Do this until you want Lee to stop moving.
+2)  
+Did you know you can click on stuff? Click on stuff! Try it!
+3)  
+Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+5)  
+Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+7)  
+Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+9)  
+Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+11)  
+Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+4)  
+Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+6)  
+Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+8)  
+Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+10)  
+Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+12)  
+Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+13)  
+Get to the shelf (Press W)
+14)  
+Get to the shelf (Press L-Stick)
+15)  
+Push the shelf (Mouse over to look, L-click to select)
+16)  
+Push the shelf (Press R-stick to look, A to select)
+17)  
+Do a thing. (Probably in cop car) (Scroll wheel to icon)
+18)  
+Do a thing. (Probably in cop car) (Directional pad)
+19)  
+Get to the window
+20)  
+Get to the window
+21)  
+Reinforce the boards (L-click)
+22)  
+Reinforce the boards (A)
+23)  
+Get to the door
+24)  
+Get to the door
+25)  
+Hold the door shut
+26)  
+Hold the door shut
+27)  
+Take the cane.
+28)  
+Take the cane.
+29)  
+Put the cane on the door handles
+30)  
+Put the cane on the door handles
+31)  
+Save Doug or Carley
+32)  
+Save Doug or Carley
+33)  
+Run!
+34)  
+Run!
+35)  
+Answer the cop (Mouse wheel, L-click to choose)
+36)  
+Answer the cop
+37)  
+If choices fade out, you will stay quiet
+38)  
+If choices fade out, you will stay quiet
+39)  
+Peek over the wall (W)
+40)  
+Peek over the wall (left stick up)
+41)  
+Peek for too long and you will be seen
+42)  
+Peek for too long and you will be seen
+43)  
+Select other actions. (Scroll wheel to icon)
+44)  
+Select other actions. (Directional pad)
+45)  
+Free Clementine
+46)  
+Free Clementine
+47)  
+“Life is a sum of all our choices.”
+48)  
+--Albert Camus
+49)  
+Every choice you make from this point on…
+50)  
+Use the buttons to choose your reply...
+51)  
+Click to choose your reply...
+52)  
+Tap to choose your reply...
+53)  
+Or wait for the timer to run out, and choose silence as your answer.
+54)  
+Good.  
+Remember... Your choices will influence the people you meet, and shape your chances for survival.
+55)  
+Your choices...once made, cannot be undone.
+56)  
+Cannot be undone.
+57)  
+Now.  Use the right stick to take a look around.
+58)  
+Good.  Now aim the target at the rearview mirror.
+59)  
+You’ll notice a small icon. Press the button to make eye contact with the cop.
+60)  
+Experiment with the different actions to see what happens.
+61)  
+Good.  Now press the Talk Icon to talk to him.
+62)  
+will define your story for the rest of the game.
+63)  
+Look around, using the right stick, and find a way out of the car.
+64)  
+Look around, using the mouse, and find a way out of the car.
+65)  
+Look around, using the mouse, and find a way out of the car.
+66)  
+Good.  Now MOVE toward the window, using the left joystick again.
+67)  
+Look at the door, and use the hand icon to haul yourself out.
+68)  
+Good!  Again!
+69)  
+Use left stick to move along the car.
+70)  
+Now MOVE toward the window, using the left stick.
+71)  
+Use the left stick to get away!
+72)  
+CONTINUE
+73)  
+Good.  Now aim the target at the rearview mirror to make eye contact with that cop.
+74)  
+CHOICE:
+You answered the officer.
+75)  
+You chose to answer the officer.
+76)  
+CHOICE:  
+You ignored the cop.
+77)  
+P
+78)  
+Good.  Now the next dialog will be timed.  Get ready.
+79)  
+Good.  Now watch the timer.  Lee won't speak if you don't choose an option.
+80)  
+PLAYING DEAD:
+Use the [left joystick icon] to move Lee and explore the world.
+The [right joystick icon] allows you to look around and interact with the things you see.
+Push the [a button], [b button], [x button], and [y button] to choose actions or replies and occasionally blow a zombie's head off.
+And to exit to the Main Menu, press [start].
+81)  
+Now watch the timer.  Lee won't speak if you don't choose an option.
+82)  
+Use left stick to move Lee, and right stick to interact with the world.
+83)  
+Welcome to The Walking Dead...
+84)  
+You’ll notice a small icon. Press the X Button to make eye contact with the cop.
+85)  
+You’ll notice a small icon. Press the A Button to make eye contact with the cop.
+86)  
+iPad text should go here.
+87)  
+Mouse text should go here.
+88)  
+Use right stick to look around and find a way out of the car.
+89)  
+Tap to look around and find a way out of the car.
+90)  
+Use the mouse to look around and find a way out of the car.
+91)  
+You have limited time to choose a dialog option.
+92)  
+You have a limited amount of time to make a choice.
+93)  
+Press the button to make eye contact with the cop.
+94)  
+Now aim the target at the rearview mirror.
+95)  
+Use the right stick to take a look around.
+96)  
+Silence is a valid option.
+97)  
+You choose to say nothing if time expires.
+98)  
+Go find out if Kenny or Hershel needs any help.
+99)  
+Be sure to check in with everyone you've met so far.
+100)  
+Now MOVE toward the window, using the W (forward) key.
+101)  
+Use the W (forward) key to move along the car.
+102)  
+Use the S (back) key to get away!
+103)  
+Use the mousewheel to select a choice and the left mouse button to confirm it.
+Alternatively, use the number keys 1-4 to choose a choice.
+104)  
+Use the mouse to take a look around.
+105)  
+Use the mouse wheel (or number keys 1-4) to select a response.
+106)  
+Look at the door, and use the mouse wheel (or number keys 1-2) to select an action.

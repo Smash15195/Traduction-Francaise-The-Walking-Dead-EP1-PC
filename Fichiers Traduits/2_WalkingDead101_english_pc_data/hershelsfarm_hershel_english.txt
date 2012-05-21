@@ -1,0 +1,144 @@
+1)  HERSHEL
+{normalC} Un homme vous demande votre nom, vous le lui donnez. {disgustA} A moins que ce nom ne pose problème.
+2)  HERSHEL
+{angryA} Vous devriez savoir que si vous n'étiez pas venu avec Kenny, {disgustA} je n'aurais pas accepté votre manque d'honnêteté la nuit dernière.
+3)  LEE
+{thinkingB} Je ne suis pas sûr de vous suivre.
+4)  HERSHEL
+{disgustA} Comment avez-vous pu partir d'Atlanta ?
+5)  LEE
+{sadA} ...A pied. J'ai pris vers le sud et {fearA}marché pour m'en tirer. [sets logic liar]
+6)  LEE
+{normalD} ...J'ai fait un bout de chemin en voiture, puis je me suis retrouvé dans un accident. J'ai marché jusqu'a ce que votre garçon me trouve.
+7)  LEE
+{normalD} ...Je m'en allais de toute façon. Tout s'est goupillé pour que ça se passe au mieux. [sets logic liar]
+8)  
+A pied.
+9)  
+J'ai fait un bout de chemin en voiture.
+10)  
+Je m'en allais de toute facon.
+11)  
+Je m'en allais de toute facon.
+12)  
+[Remain Silent]
+29)  
+[Remain Silent]
+35)  
+[Remain Silent]
+50)  
+[Remain Silent]
+13)  HERSHEL
+{thinkingA} En voilà, une longue marche.
+14)  HERSHEL
+{thinkingA} Humm. Eh bien, vous vous êtes pas mal usé.
+15)  HERSHEL
+{thinkingA} Ha, s'il est jamais un bon moment pour la supposée "apocalypse"...
+16)  HERSHEL
+[incredulous] {thinkingA} Eh bien, je suis sur que c'était compliqué.
+70)  HERSHEL
+[incredulous] {thinkingA} Eh bien, je suis sur que c'était compliqué.
+17)  LEE
+{thinkingA} J'y ai été amené, oui.
+18)  LEE
+[trying to change the subject] {fearA}{body-C} Cette {happyB}ferme a une jolie parcelle de terrain.
+19)  HERSHEL
+{sadA} Ca n'a jamais été un projet, d'avoir un endroit comme ça. C'était dans la famille et je crois que moi aussi. {happyA} La famille, c'est important; c'est tout ce qui compte. {thinkingA}Vous êtes d'accord avec ça ?
+20)  HERSHEL
+{thinkingA} Ou se trouve votre famille a présent ? Des parents ? Une femme ? Une petite copine ?
+21)  HERSHEL
+{thinkingA} Eh, vous m'auriez dit y'a vingt ans que je ferais toujours ça,{happyA} je vous aurais dit que vous vous vous mettiez le doigt dans l'oeil.
+22)  LEE
+{normalD} Mes parents sont de Macon, avec mon frère.
+23)  LEE
+{normalD} Pas de femme, j'en ai plus. Je crois qu'elle est montée en Virginie.
+24)  LEE
+{normalD} Pas de famille. {happyA}J'avais un poisson combattant sur mon bureau a l'Université.
+25)  LEE
+...
+26)  
+Mes parents sont a Macon.
+27)  
+Plus de femme.
+28)  
+Pas de famille.
+30)  HERSHEL
+{happyA} Eh bien, j'espère qu'ils vont bien.
+31)  HERSHEL
+{sadA} Navré de l'apprendre.
+32)  HERSHEL
+{sadA} J'espère que quelqu'un s'est rappelé de le nourrir.
+33)  HERSHEL
+{angryA} Bien. N'ouvrez pas la bouche. {disgustA} C'est diablement grossier, mais c'est ce qu'un homme est censé faire.
+71)  HERSHEL
+{angryA} Bien. N'ouvrez pas la bouche. {disgustA} C'est diablement grossier, mais c'est ce qu'un homme est censé faire.
+34)  HERSHEL
+{sadA}{body-D} Mais maintenant vous avez cette petite fille dont il faut prendre soin.{body-handships} Clementine, c'est ça ? {thinkingA}Vous êtes simplement tombé sur elle ?
+36)  LEE
+{normalC}{body-A} Ouais, je cherchais de l'aide chez elle.
+37)  LEE
+{normalC}{body-A} J'étais attaqué et elle est venue à mon secours.
+38)  LEE
+{thinkingA}{body-A} Où voulez-vous en venir ?
+39)  
+Je cherchais de l'aide chez elle.
+40)  
+J'etais attaque et elle est venue a mon secours.
+41)  
+Ou voulez-vous en venir ?
+42)  HERSHEL
+[judgmental, distrusting] {disgustA} Hmm. [like, is that so]
+43)  HERSHEL
+{angryA} Je peux vous donner un conseil ?
+44)  LEE
+{normalB} Bien sûr.
+45)  LEE
+{angryA}{body-C} De quoi s'agit-il ?
+46)  LEE
+{angryB}{body-C} Occupez-vous de vos affaires.
+47)  
+Bien sur.
+48)  
+De quoi s'agit-il ?
+49)  
+Occupez-vous de vos affaires.
+51)  HERSHEL
+{normalC}{body-D} J'ignore qui vous êtes ou ce que vous avez fait.
+52)  HERSHEL
+{thinkingA}{body-D} Mais vous feriez mieux de devenir meilleur menteur, et vite.
+53)  HERSHEL
+{thinkingA} Mais vous feriez mieux de bien raconter votre histoire. Ou tout au moins ce que vous voulez qu'elle soit.
+54)  HERSHEL
+{fearA} Disons que les choses ne s'améliorent pas dans les villes. {normalB} Disons même qu'elles se détériorent. {thinkingA} Il va vous falloir dépendre de l'honnêteté d'étrangers si vous voulez vous en sortir. {sadA} Et si ces mêmes gens se mettent à vous questionner, vous allez avoir des ennuis.
+67)  HERSHEL
+{fearA} Disons que les choses ne s'améliorent pas dans les villes. {normalB} Disons même qu'elles se détériorent. {thinkingA} Il va vous falloir dépendre de l'honnêteté d'étrangers si vous voulez vous en sortir. {sadA} Et si ces mêmes gens se mettent à vous questionner, vous allez avoir des ennuis.
+69)  HERSHEL
+{fearA} Disons que les choses ne s'améliorent pas dans les villes. {normalB} Disons même qu'elles se détériorent. {thinkingA} Il va vous falloir dépendre de l'honnêteté d'étrangers si vous voulez vous en sortir. {sadA} Et si ces mêmes gens se mettent à vous questionner, vous allez avoir des ennuis.
+55)  HERSHEL
+{disgustA} Alors qui que vous soyez, et quoi que vous ayez fait, gardez-le donc pour vous.
+68)  HERSHEL
+{disgustA} Alors qui que vous soyez, et quoi que vous ayez fait, gardez-le donc pour vous.
+56)  HERSHEL
+[a hmmph, kind of to yourself] {happyA} Mais au moins, vous avez le bon sens d'écouter un homme qui vous donne un conseil.
+57)  HERSHEL
+{fearA} Oh, et {angryA}je commencerais à surveiller mon attitude (checking the attitude), l'ami.
+58)  HERSHEL
+{sadA} Oh, et {angryA}essayer d'être moins con, ça vous rendrait bien service.
+59)  HERSHEL
+{angryA} Encore une chose : {thinkingA} vous allez devoir apprendre à répondre à une question toute bête quand on vous la pose.
+60)  HERSHEL
+{surprisedA} ALLEZ-Y ! Je vais prendre mon fusil.
+61)  SHAWN
+[super far away scream] MERDE, LES VOILA ! [gets leg trapped] AHH ! A L'AIDE !
+62)  CLEMENTINE
+[SCREAM!] AHHHHHH !
+63)  LEE
+{fearC} Qu'est-ce que... ?!
+64)  HERSHEL
+[pickup1] Et honnêtement, je ne veux même pas savoir.
+65)  HERSHEL
+[pickup1] {disgustA} Chuis pas demeuré. Je vous ai pris en plein mensonge la nuit dernière; sur ceux qui étaient dans cette voiture.
+66)  HERSHEL
+[pickup1] HMMPH. [pissed]
+72)  HERSHEL
+[pickup1] HMMPH. [pissed]

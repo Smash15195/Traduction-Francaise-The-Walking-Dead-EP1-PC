@@ -1,0 +1,283 @@
+1)  KENNY
+We gotta get food, Lee. Soon.
+33)  KENNY
+We gotta get food, Lee. Soon.
+64)  KENNY
+We gotta get food, Lee. Soon.
+119)  KENNY
+We gotta get food, Lee. Soon.
+2)  ANDY
+[to Lee] Howdy. I'm Andrew St. John.
+3)  ANDY
+We're from St. John's Dairy.
+53)  ANDY
+We're from St. John's Dairy.
+73)  ANDY
+We're from St. John's Dairy.
+4)  LEE
+It's beautiful.
+56)  LEE
+It's beautiful.
+72)  LEE
+It's beautiful.
+5)  MARK
+I could see myself staying here for a long time.
+6)  BANDIT
+You fucked with us.
+7)  KENNY
+Something's coming, Lee. There's gonna be a war.
+46)  KENNY
+Something's coming, Lee. There's gonna be a war.
+77)  KENNY
+Something's coming, Lee. There's gonna be a war.
+8)  MARK
+[hit by arrow] Gaaaahhh!
+9)  BEN
+[panic]There's too many of 'em!!
+10)  BEN
+[distraught]This isnt happening!
+11)  CLEMENTINE
+[Scared!] Nooo!!
+12)  DAVID
+[Having is leg severed with an axe: (Please get it over with)] Lee!  Please!!!
+13)  DAVID
+[Having is leg severed with an axe] [crying in pain]
+14)  LILLY
+[furious] You've NEVER liked my dad! Even back at the drug store when everyone thought Kenny's kid was bit, you went out of your way to side against him...
+15)  KENNY
+When you all thought Duck was bitten...
+16)  KENNY
+Well, I'm just doing the same thing.
+17)  LEE
+The walkers don't worry me as much as the bandits.
+44)  LEE
+The walkers don't worry me as much as the bandits.
+81)  LEE
+The walkers don't worry me as much as the bandits.
+18)  KATJAA
+I never did thank you for saving Duck from the walkers back at Hershel's farm.[Recorded during 101 pickups]
+19)  KATJAA
+[cont.]You choose the kids this time.[Recorded during 101 pickups]
+20)  KATJAA
+Don't repeat what happened with the walkers at Hershel's farm.[Recorded during 101 pickups]
+21)  LEE
+How are you doing, Clementine?
+24)  LEE
+How are you doing, Clementine?
+22)  CLEMENTINE
+I'm really hungry, Lee.
+23)  CLEMENTINE
+I'm really hungry, Lee.
+25)  DOUG
+{ThinkingA}You look like crap, Lee. {FearA}When was the last time you ate?
+26)  LEE
+{HappyA}Keep it.
+27)  DOUG
+{HappyA}Hey, I owe you a lot more than a half eaten candy bar. {ThinkingA} Take it.
+28)  CARLEY
+{ThinkingA} I want you to have this, okay? In case you or Clementine starts feeling weak.
+29)  LEE
+{NormalB} You don't owe me anything, Carley.
+30)  LEE
+I thought we'd be fine if we survived the walkers. Never expected that they'd starve us out.
+31)  LEE
+I thought we'd be fine if we survived the walkers. Never expected that they'd starve us out.
+32)  MARK
+I thought we'd be fine if we survived the Walkers. Never expected that they'd starve us out.
+65)  MARK
+I thought we'd be fine if we survived the Walkers. Never expected that they'd starve us out.
+93)  MARK
+I thought we'd be fine if we survived the Walkers. Never expected that they'd starve us out.
+34)  KENNY
+On the way over here, I was gettin' dizzy, hands shakin', cold sweats. Thought I was gonna pass out.
+66)  KENNY
+On the way over here, I was gettin' dizzy, hands shakin', cold sweats. Thought I was gonna pass out.
+120)  KENNY
+On the way over here, I was gettin' dizzy, hands shakin', cold sweats. Thought I was gonna pass out.
+35)  LILLY
+If the hunting trips nearby don't work, we'll just have to head farther out.
+63)  LILLY
+If the hunting trips nearby don't work, we'll just have to head farther out.
+36)  ANDY
+We've got some food we could share.
+67)  ANDY
+We've got some food we could share.
+37)  LILY
+These boys came by to trade for some gasoline.
+70)  LILY
+These boys came by to trade for some gasoline.
+38)  DANNY
+Looks like y'all could use it.
+39)  ANDY
+[to Lee] Howdy. I'm Andrew St. John, this is my brother Dan.
+69)  ANDY
+[to Lee] Howdy. I'm Andrew St. John, this is my brother Dan.
+40)  KENNY
+[quietly] If they got a supply of food somewhere, we've gotta know where it is and how to get it.
+75)  KENNY
+[quietly] If they got a supply of food somewhere, we've gotta know where it is and how to get it.
+121)  KENNY
+[quietly] If they got a supply of food somewhere, we've gotta know where it is and how to get it.
+41)  KENNY
+[quietly] In case something happens.
+76)  KENNY
+[quietly] In case something happens.
+122)  KENNY
+[quietly] In case something happens.
+42)  LEE
+This place isn't safe.
+78)  LEE
+This place isn't safe.
+43)  KENNY
+Maybe, maybe not. Once we get our food, we can do a better job of defending it.
+80)  KENNY
+Maybe, maybe not. Once we get our food, we can do a better job of defending it.
+45)  BANDIT
+Don't think I can't see you!
+47)  BRENDA
+Just you wait, Lee, things are gonna seem so much nicer once you've all had supper and a good night's rest.
+74)  BRENDA
+Just you wait, Lee, things are gonna seem so much nicer once you've all had supper and a good night's rest.
+125)  BRENDA
+Just you wait, Lee, things are gonna seem so much nicer once you've all had supper and a good night's rest.
+48)  BRENDA
+That's the world we're living in now, I guess.
+124)  BRENDA
+That's the world we're living in now, I guess.
+49)  BRENDA
+Sittin' out here, looking over the farm, I can pretend that things are like they used to be.
+123)  BRENDA
+Sittin' out here, looking over the farm, I can pretend that things are like they used to be.
+50)  LILLY
+[furious] You've NEVER liked my dad! Even back at the drug store when everyone thought Kenny's kid was bit, you went out of your way to side against him... But this?! You have no right!!
+104)  LILLY
+[furious] You've NEVER liked my dad! Even back at the drug store when everyone thought Kenny's kid was bit, you went out of your way to side against him... But this?! You have no right!!
+51)  KENNY
+Well I'm just doing the same thing.  Except Duck wasn't bitten, and we KNOW this guy's not gonna make it.
+something heavy and spies the Salt lick blocks.
+52)  KENNY
+Don't think I forgot about what you said at the drug store... when you all thought Duck was bitten...
+108)  KENNY
+Don't think I forgot about what you said at the drug store... when you all thought Duck was bitten...
+54)  LEE
+Where do you fellas come from?
+68)  LEE
+Where do you fellas come from?
+55)  DANNY
+What do you think of the place?
+71)  DANNY
+What do you think of the place?
+57)  DOUG
+Hey, I owe you a lot more than a half eaten candy bar.  Take it.
+130)  DOUG
+Hey, I owe you a lot more than a half eaten candy bar.  Take it.
+58)  DOUG
+You look like crap, Lee. When was the last time you ate?
+128)  DOUG
+You look like crap, Lee. When was the last time you ate?
+59)  LEE
+Keep it.
+129)  LEE
+Keep it.
+60)  CARLEY
+Well...If you want it, I'll have it for you, okay?
+134)  CARLEY
+Well...If you want it, I'll have it for you, okay?
+61)  CARLEY
+I want you to have this, okay? In case you or Clementine starts feeling weak.
+132)  CARLEY
+I want you to have this, okay? In case you or Clementine starts feeling weak.
+62)  LEE
+You don't owe me anything, Carley.
+133)  LEE
+You don't owe me anything, Carley.
+79)  KENNY
+That's what I'm sayin'.
+82)  BRENDA
+I know y'all are hungry, but just hang on one minute. I've got a big surprise commin'!
+83)  DOUG
+What if these people come back?
+84)  CARLEY
+If we take this, we're just as bad as the bandits.
+85)  CARLEY
+We don't know these people are dead.
+86)  DOUG
+So we're just like the bandits now?
+87)  CLEMENTINE
+Lee, we can't steal their food.
+88)  CLEMENTINE
+Lee, we can't steal their food.
+89)  MARK
+That's bullshit. You've saved his life -- hell, all our lives -- plenty of times in the last few months.
+90)  MARK
+Things can, uh, get tense back at camp. Lily and Kenny sure got different ways of doing things. It wouldn't have been that way back on Robins.
+91)  MARK
+I mean -- when you found Clementine, why'd you take on that responsibility?
+92)  MARK
+So why did you do it, Lee?
+94)  MARK
+And Larry's not helping. What's that guy's deal?
+95)  LEE
+She would've died without me.
+96)  LEE
+He thinks I'm a danger to the group.
+97)  BEN
+[freaking out] Oh man, oh man....
+98)  BEN
+[freaking out] This can't be happening!
+99)  KENNY
+How the hell did he lose this much blood? Was he bitten?
+100)  BEN
+Bitten? No! I swear!
+101)  KENNY
+All that blood and screaming... We're gonna be surrounded any minute.
+102)  BEN
+[freaking out] Come on, DO something!
+103)  TEST
+This is a test line for lipsync/wav data.
+105)  LEE
+Look, Kenny... Back at the drug store when we all thought Duck was bitten... I gave him the benefit of the doubt... Maybe we should do the same now.
+106)  KENNY
+That was different.  Duck wasn't bitten. But, come on,  we KNOW this guy's not gonna make it.
+107)  LEE
+Kenny, listen-
+109)  LEE
+The wall's looking good, Doug.
+110)  DOUG
+Thanks. I also worked up a little "early warning system" for outside.
+111)  LEE
+Early warning system?
+112)  DOUG
+Well... it's just string with some cans attached, buy hey, it works.
+113)  LEE
+Thanks for keeping the kids over here.
+114)  CARLEY
+Yeah, well, my instinct was to run over and get the story.  But ... yeah... the kids didn't need to see that.
+115)  CARLEY
+Oh, and do me a favor and talk to Lilly about getting some rest.  You and I are supposed to be on watch together tonight.  I need you sharp.
+116)  KENNY
+[furious] You said he wasn't bitten!
+117)  BEN
+It's not the bite that does it! Yeah, the bite will kill you, but...
+118)  BEN
+You come back no matter how you die.  If you don't destroy the brain, that's just what happens.  That's what's gonna to happen to ALL of us.
+126)  LEE
+These folks are just delaying the inevitable.
+127)  LEE
+This place is going to fall apart, just like everywhere else.
+131)  LEE
+Thanks. I appreciate it.
+135)  LEE
+I appreciate it.
+136)  KENNY
+We know this guy's not gonna make it.
+137)  BANDIT
+Now we'll take what we want.
+138)  DAVID
+...
+139)  DAVID
+...
+140)  DAVID
+not!
+141)  DAVID
+NO

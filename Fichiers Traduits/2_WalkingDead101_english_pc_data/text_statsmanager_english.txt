@@ -1,0 +1,140 @@
+1)  
+Game Title
+2)  
+Game Details
+3)  
+name_WalkingDead101_Slug
+4)  
+desc_achieved_WalkingDead101_Slug
+5)  
+desc_unachieved_WalkingDead101_Slug
+6)  
+name_KillCop
+7)  
+desc_achieved_KillCop
+8)  
+desc_unachieved_KillCop
+9)  
+Out of the Frying Pan
+10)  
+Libérez-vous de vos menottes, mais...
+11)  
+Entrer dans l'arrière-cour de Clémentine après avoir tué le flic.
+12)  
+name_KillBabysitter
+13)  
+desc_achieved_KillBabysitter
+14)  
+desc_unachieved_KillBabysitter
+15)  
+Mésaventure de Babysitting
+16)  
+Entrer dans arrière-cour de Clémentine après avoir tué la baby-sitter.
+17)  
+Complete Chapter 2 of Episode 1.
+18)  
+name_ChetOrMitchell
+19)  
+desc_achieved_ChetOrMitchell
+20)  
+desc_unachieved_ChetOrMitchell
+21)  
+À Vos Frais
+22)  
+Arrivé à la ferme de Hershel, après avoir fuit avec Shawn Greene et Chet ou Mitchell.
+23)  
+Arrivé à la ferme de Hershel, après avoir fuit avec Shawn Greene et Chet ou Mitchell.
+24)  
+name_ShawnOrDuck
+25)  
+desc_achieved_ShawnOrDuck
+26)  
+desc_unachieved_ShawnOrDuck
+27)  
+Entre le Marteau et l'Enclume
+28)  
+Arrivé à la pharmacie après avoir fait le choix entre aider Shawn ou Duck.
+29)  
+Chapitre 4 de l'épisode 1 terminé.
+30)  
+name_IreneSuicide
+31)  
+desc_achieved_IreneSuicide
+32)  
+desc_unachieved_IreneSuicide
+33)  
+C'est Juste une Balle
+34)  
+Entrer dans le drugstore après le suicide d'Irène.
+35)  
+Entrer dans le drugstore après le suicide d'Irène.
+36)  
+Tuer le flic zombie.
+37)  
+Tué la babysitter zombie.
+38)  
+Choisir d'aider Shawn ou Duck.
+39)  
+Témoin du suicide d'Irène.
+40)  
+Témoin du suicide d'Irène.
+41)  
+name_KillBrother
+42)  
+desc_achieved_KillBrother
+43)  
+desc_unachieved_KillBrother
+44)  
+Hé, Bud
+45)  
+Tuer le frère de zombie Lee.
+46)  
+Terminer le Chapitre 6 de l'épisode 1.
+47)  
+name_DougOrCarley
+48)  
+desc_achieved_DougOrCarley
+49)  
+desc_unachieved_DougOrCarley
+50)  
+name_CompleteEpisode
+51)  
+desc_achieved_CompleteEpisode
+52)  
+desc_unachieved_CompleteEpisode
+53)  
+Tout Va Très Bien se Passer
+54)  
+Episode 1: "Un Nouveau Jour" Terminé
+55)  
+Terminer Episode 1: "Un Nouveau Jour"
+56)  
+Deux Rentre, Un Reste
+57)  
+Sauver Doug ou Carley.
+58)  
+Terminer le chapitre 7 de l'épisode 1.
+59)  
+Terminer le chapitre 1 de l'épisode 1.
+60)  
+Terminer le Chapitre 3 de l'épisode 1.
+61)  
+Terminer le Chapitre 5 de l'épisode 1.
+62)  
+Échapper à Sandra et rencontrer Clémentine.
+63)  
+Trouver de l'aide, vous êtes maintenant responsables d'une petite fille.
+64)  
+Choisir Entre Deux Fils.
+65)  
+Rencontrer Une Fille au Bout de sa Corde.
+66)  
+Enfin Réunis Avec Votre Frère.
+67)  
+Choisir Entre Ses Amis.
+68)  
+The Walking Dead
+69)  
+The Walking Dead
+70)  
+Félicitations. Vous êtes la Nouvelle Babysitter.

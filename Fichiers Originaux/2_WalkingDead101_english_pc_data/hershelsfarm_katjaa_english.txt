@@ -1,0 +1,164 @@
+1)  KATJAA
+You have such pretty hair!
+2)  CLEMENTINE
+It gets lots of tangles.
+3)  KATJAA
+Did your daddy give you that hat?
+4)  CLEMENTINE
+Mmhmm.
+5)  CLEMENTINE
+I have a goldfish named Peanut. Mom doesn't like dogs.
+6)  KATJAA
+Do you have any pets?
+7)  KATJAA
+Oh, well we have a lab named Franklin back in Fort Lauderdale.
+8)  KATJAA
+What's your favorite color?
+9)  CLEMENTINE
+Purple.
+10)  CLEMENTINE
+They're my favorite.
+11)  KATJAA
+Ooh, I like your shoes!
+12)  LEE
+Hey there, girls.
+13)  LEE
+[warm] Hey.
+14)  
+You two actually looked relaxed.
+15)  LEE
+{thinkingB} Well, yeah.[like "duh"]
+16)  KATJAA
+{normalA} Anyway, it's almost like {thinkingA}we didn't see people eating each other for the past three days. {happyA}It's peaceful here, no?
+17)  CLEMENTINE
+{happyB} It's easy.
+18)  LEE
+{thinkingA} Oh, uh, {happyB} how is that?
+19)  LEE
+{fearA} Sooo you're {happyB}good?
+20)  KATJAA
+{happyB} I think we're doing just fine. {happyC} Clementine was just telling me about first grade.
+21)  LEE
+{normalC} You two actually looked relaxed.
+22)  
+How was the city?
+23)  LEE
+{normalD} How did you handle getting through the city?
+24)  KATJAA
+{fearA} Used to?! {disgustA} Lee, there's a horrible thing going on {happyC}but the world certainly isn't over.
+25)  KATJAA
+{thinkingB} Kenny just...drove. {sadA} We passed so many people that needed help. {sadB} And... we just... passed people, over some. Just...just...
+26)  LEE
+{happyA} Good.
+27)  LEE
+{sadB} It's ok. It's fine, you don't have to say anymore.
+28)  KATJAA
+{happyA} What is that you do, Lee?
+29)  KATJAA
+{fearA} I'm just in shock. {happyC} Talking to your girl here is a welcome bit of normal.
+30)  LEE
+{normalB} I used to teach up at the University of Georgia.
+31)  LEE
+{thinkingA} No, I used to. {normalC} I was let go a little while back.
+32)  LEE
+[Lie] {normalD} Yeah, my mistake.
+59)  LEE
+[Lie] {normalD} Yeah, my mistake.
+33)  
+No, I USED to.
+54)  
+No, I USED to.
+34)  
+My mistake.
+57)  
+My mistake.
+35)  KATJAA
+{sadB} That's too bad. {normalB} Well, I hear people always clamor back to college after a big disaster. {happyB} People don't want to die ignorant, I guess.
+55)  KATJAA
+{sadB} That's too bad. {normalB} Well, I hear people always clamor back to college after a big disaster. {happyB} People don't want to die ignorant, I guess.
+36)  KATJAA
+{happyB} You'll be back in the classroom in no time.
+58)  KATJAA
+{happyB} You'll be back in the classroom in no time.
+37)  KATJAA
+{normalA} Well, I just think it's important to stay optimistic around [gesturing towards his daughter at your side] {happyC}our kids.
+38)  KATJAA
+{happyC} Perhaps you should check on Hershel in the barn, he's {disgustA}been awfully quiet.
+39)  
+Back in a bit.
+40)  LEE
+{happyA} Back in a bit.
+41)  KATJAA
+[goodbye] {happyC} Ok, Lee.
+42)  LEE
+Seems like those two are getting along.
+43)  LEE
+[sizing her up, to himself] Katjaa's good with her.
+44)  CLEMENTINE
+{happyA} Yeah.
+45)  LEE
+You having a nice time with Katjaa, Clementine?
+46)  LEE
+[having said a dumb thing] Yeah, ok.
+47)  LEE
+Um, do you have to go to the bathroom, or anything like that?
+48)  KATJAA
+{thinkingA} Lee, the young woman can take care of herself!
+49)  
+What do you do?
+50)  KATJAA
+{happyC} More than you would think, actually.
+51)  LEE
+{happyA} Maybe the odd alligator?
+52)  KATJAA
+{happyB} I am veterinarian back in Fort Lauderdale -- {fearA} like Hershel, here, {disgustA}except more with dogs and cats and not horses.
+53)  LEE
+{thinkingA} So uhh, what do you do{happyA} when... corpses aren't walking around?
+56)  LEE
+{thinkingA} No, I used to. {normalC} I was let go a little while back
+60)  KATJAA
+{normalA} Well, I just think it's important to say optimistic around [gesturing towards his daughter at your side] {happyC} our little ones.
+61)  KATJAA
+[pickup1] I want to go home tomorrow, but even then I can't take away the things we -- the things Duck -- went through.
+62)  KATJAA
+[pickup1] Don't you want to go back to the moment before you knew about all of this?
+63)  
+Who wouldn't?
+64)  
+Things happen for a reason.
+65)  
+Was bad before.
+66)  KATJAA
+[pickup1]All of those things.
+67)  LEE
+{happyA} Those are the things we live for, right? {fearA} With those gone, what's the point?
+68)  LEE
+{normalD} Anybody in their right mind would. Families and BBQ's and beers with good friends.
+69)  KATJAA
+[pickup1]Not what we saw.
+70)  LEE
+{normalD} This could all be providence, you know.
+71)  LEE
+{thinkingA} You just never realize when something is happening to you what you're being given; {happyA} maybe this will all work out.
+72)  KATJAA
+[pickup1]Your optimism is...refreshing. New. These past couple days, at least.
+73)  LEE
+{thinkingB} But they weren't before? {angryA} The banks, the politics, the-the crap -- those things are gone. {normalB} Hell comes in a lot of different colors.
+74)  LEE
+{disgustB} Things were bad before, bad now, but they're different, you see?
+75)  KATJAA
+[pickup1]People are eating each other.
+76)  KATJAA
+[pickup1]My last thought I had before seeing any of what happened was of those wrinkly Shar pei's I see at the clinic. I want to go right back to thinking about that silly dog.
+82)  KATJAA
+[pickup1]My last thought I had before seeing any of what happened was of those wrinkly Shar pei's I see at the clinic. I want to go right back to thinking about that silly dog.
+77)  KATJAA
+[pickup1]We need to HOPE that we go back to our jobs soon, Lee. Back to normal. It can't stay like this.
+78)  KATJAA
+[pickup1] We'll all be home soon.
+79)  KATJAA
+[pickup1] We'll all be home soon.
+80)  
+Look At
+81)  
+Talk to

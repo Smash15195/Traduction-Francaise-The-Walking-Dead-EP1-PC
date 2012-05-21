@@ -1,0 +1,238 @@
+1)  LEE
+{SadA}Yeah.
+2)  LEE
+{sadA}It's Lee.
+3)  LILLY
+[pickup1]{normalC}Lilly. {thinkingA}My dad's Larry.
+4)  LILLY
+{angryA} I'm not sure I got your name.
+5)  LEE
+{normalD}{body-f}How's he doing?
+6)  LEE
+{normalC}{body-f}Hey.
+7)  LEE
+{sadA}{body-F}How's he doing?
+8)  LILLY
+{HappyC}Let's get in there.
+105)  LILLY
+{HappyC}Let's get in there.
+9)  LILLY
+{HappyD}Great! God, you're amazing.
+106)  LILLY
+{HappyD}Great! God, you're amazing.
+10)  LEE
+{HappyC}I've got the keys.
+104)  LEE
+{HappyC}I've got the keys.
+12)  LEE
+{SadB}Yeah, that's not really an option right now.
+13)  LEE
+{sadA}What's wrong with him?
+14)  LILLY
+{sadA}I'm just trying to keep him relaxed.
+15)  LILLY
+{sadA}He's got a heart condition. He takes nitroglycerin tablets pretty regularly. {fearA}I've seen a few bad attacks that he couldn't get over and needed to go to the hospital.
+16)  
+What's wrong with him?
+17)  LARRY
+[having bad chest pains, this is an aside] {AngryC}Ah, fuck you.
+18)  LILLY
+{SadB}Yeah... he doesn't mean it.
+19)  LEE
+{ThinkingB}It's just that...
+20)  LILLY
+{ThinkingA}Yeah?
+72)  LEE
+{ThinkingA}Yeah?
+21)  LEE
+{AngryA}He's got a temper.
+22)  
+He's got a temper.
+23)  LILLY
+{AngryC}It's just his way. {AngryB}Don't make him the reason everything's screwed.
+24)  LILLY
+{NormalB}He and I are a family.
+25)  LEE
+[Whisper, intimate convo distance]{ThinkingA}We've got kids here, {SadA}families.
+26)  LEE
+{SadB}I'm just saying some people can't handle a temper like that. {AngryA}Hell, it barely seems like you can.
+27)  
+We've got kids here. Families.
+28)  LILLY
+{NormalC}He is. He just {SadA}has his issues.
+29)  LEE
+{NormalA}Nevermind, {HappyA}I'm sure he's a good guy.
+30)  
+Nevermind, I'm sure he's a good guy.
+32)  
+You're from here?
+33)  LEE
+{NormalC}Yeah, I know it. {HappyA}Pilot?
+34)  LEE
+{thinkingB}I work up at UGA.
+35)  LILLY
+{HappyA}Nah, just mechanical admin stuff. {AngryA}I deal with a bunch of shitheads and bureaucrats all day. {HappyA}Sometimes a plane, if I'm lucky.
+36)  LEE
+{ThinkingA}You're from here?
+37)  LILLY
+{HappyA}You?
+38)  LILLY
+{ThinkingA}I work at Warner Robbins. {NormalA}The Air Force base.
+39)  
+Was anyone here when you guys got the pharmacy?
+40)  LILLY
+{SadA}No, this place was pretty wrecked. {DisgustA}We pulled a couple bodies out of the office.
+41)  LILLY
+{ThinkingB}Are you ok?
+42)  LILLY
+{SadB}I'm sorry. We found an older couple in the office. {FearA}Dad hauled them out in case they {SadA}weren't really dead.
+43)  LEE
+[stressed] {SadC}Yeah, I'm fine.
+44)  LEE
+{SadA}Yeah, the owners. They were... {FearA}{SadB}we were close.
+45)  LEE
+{FearA}Was anyone here when you guys got here?{FearB}
+46)  LILLY
+{ThinkingA}Did you know anybody here?
+47)  LILLY
+{ThinkingB}Where's her mom?
+48)  LEE
+{NormalA}Savannah, {ThinkingA}I think.
+49)  LILLY
+{NormalB}Oh, {THinkingB}you guys aren't together?
+50)  LEE
+[pickup1][pauses important ]{NormalD}Oh, no, {ThinkingA}I'm not her dad. {SadA}I found her in a house when getting out of Atlanta. She'd been surviving{SadB} by herself.
+51)  LEE
+[pickup1] [quiet, intimate convo distance][pauses important] {FearA}I heard an answering message, they were in Savannah, {SadA}she was home with a sitter. {SadC}It wasn't good.
+52)  LEE
+[quiet, intimate convo distance] {SadC}I think the girl's parents didn't make it.
+53)  LILLY
+[intimate convo] {sadA}Well, {HappyA}she's lucky to have you.
+54)  LILLY
+[intimate convo] {SadB}Oh.
+55)  
+When do you expect the military to handle this?
+56)  LILLY
+{SadB}God, I don't know. {NormalC}I wasn't at work when dad and I headed here looking for help. {ThinkingB}They scrambled jets days ago. {FearA}And I don't see anything different.
+57)  LEE
+{THinkingB}When's the military taking care of this?
+58)  LEE
+{FearA}So you're saying the military may be trying or have {FearB}already tried?
+59)  LILLY
+{SadB}Unfortunately, {SadA}yeah.
+60)  LEE
+{normalD}What do you think about all this?
+61)  LILLY
+{SadB}Well, I was pissed Glenn threw open that door but, {SadA}I'm glad you walked through it. {HappyA}You're a strong guy who seems like he can keep his head.
+62)  LILLY
+[pickup1]{FearA}What is there to think? The dead are up, walking around, {AngryA}eating people and turning them into more... more… of them. I mean, Jesus.
+63)  LEE
+{ThinkingB}We need to stick together and get through this.
+64)  
+What do you think about all of this?
+65)  
+Exit
+66)  LILLY
+{SadA}I'm gonna get back to him.
+67)  LEE
+{SadA}Sounds good.
+68)  LILLY
+[pickup1]{ThinkingA}It was a crazy situation and you froze. Before, {DisgustA}with that thing coming out of the bathroom, I've seen trained killers do the same.
+69)  LILLY
+{normalC}Just, don't beat yourself up over it. {happyA}We stick together and we'll be ok.
+70)  LILLY
+{NormalC}Oh, and Lee?
+71)  LEE
+{SadB}Uh, yeah.
+73)  LEE
+{ThinkingA}I'm on it.
+74)  LEE
+{NormalB}Fair enough.
+75)  LILLY
+{FearA}Hey, I should really just give him as much attention as I can.
+76)  LILLY
+{ThinkingA}Try to find those keys, Lee. {SadB}He could get worse fast.
+77)  LEE
+{HappyA}It's not much, but here.
+78)  LILLY
+{ThinkingA}Are you sure?
+79)  LEE
+{HappyA}Yeah. You're under quite a bit of stress.
+80)  LILLY
+{ThinkingA}Thanks. That's uh... {happyA}really sweet.
+81)  LEE
+{HappyA}Don't mention it.
+82)  LEE
+[pickup1] Eh, the girl still got grabbed.
+83)  LILLY
+[pickup1] Way to take care of things, before -- with the fight and those guys dicking around with that radio.
+84)  LILLY
+[pickup1] You can't do everything.
+92)  LILLY
+[pickup1] You can't do everything.
+97)  LILLY
+[pickup1] You can't do everything.
+85)  LEE
+[pickup1] It seems not.
+91)  LEE
+[pickup1] It seems not.
+96)  LEE
+[pickup1] It seems not.
+86)  LILLY
+[pickup1] But stopping that fight was damn impressive. I couldn't have done it.
+87)  LEE
+[pickup1] It didn't, but you're right. And Clementine still got grabbed by that thing in the bathroom.
+88)  LILLY
+[pickup1] We just have to keep our eyes out better -- that radio could've gotten us all killed.
+89)  LILLY
+[pickup1] I know my dad was... out of line, before but--
+90)  LEE
+[pickup1] [cutting her off] Hey, whatever, forget about it.
+93)  LILLY
+[pickup1] That fight with my dad and your guy was a shit-show.
+94)  LILLY
+[pickup1] But you made sure that those guys didn't do something dumb with that radio.
+95)  LEE
+[pickup1] Yeah, I saw where that was goin'.
+98)  LEE
+[pickup1] Sure, but I should've been paying attention to the girl.
+99)  LEE
+[pickup1] What makes you say that?
+100)  LILLY
+[pickup1] This whole place just went to hell.  That little girl was in trouble.
+101)  LILLY
+[pickup1] [a little sarcastic] You don't like to trouble yourself with much, hmm?
+102)  LILLY
+[pickup1] Seems not.
+103)  LEE
+[pickup1] You can't control everything, even if you try.
+107)  LEE
+Also, BALLS.
+108)  LILLY
+[pickup1] {angrya}{body-A}I was just doing what I had to earlier.
+112)  LILLY
+[pickup1] {angrya}{body-A}I was just doing what I had to earlier.
+109)  LEE
+[pickup1] {thinkingB}{body-B}Everyone was.
+113)  LEE
+[pickup1] {thinkingB}{body-B}Everyone was.
+110)  LILLY
+[pickup1] {thinkingA}You didn't have to call me {angryB}a bitch in front of my people.
+111)  LILLY
+[pickup1] {angryC}I don't need that shit, all right? It's {sadA}hard enough to be in charge of people's lives {angryB}without some dick cutting you down.
+114)  LILLY
+[pickup1] {sadB}Now his heart's acting up again, and {fearA}I'm powerless to do anything.
+115)  LILLY
+[pickup1] {angryB}{body-a}And that violence before; with my dad -- that didn't help.
+116)  LILLY
+[pickup1] {sadB}[quiet] Sure... I guess.
+117)  LILLY
+[pickup1] {fearA}{body-a}And...[quiet] You should {sadA}know I didn't think he was in the right.
+118)  LEE
+[pickup1] {disgustA}You didn't say anything. And Duck could've been bitten.
+119)  
+Talk to
+120)  
+Give Food to
+121)  LILLY
+[pickup1][pissed] I'm gonna get back to him now.

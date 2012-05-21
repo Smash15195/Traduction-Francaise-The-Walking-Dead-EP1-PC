@@ -1,0 +1,546 @@
+1)  SHAWN
+{SurprisedA} {body-StandA}PUTAIN DE MERDE !
+2)  LEE
+[quiet, looking around]{ThinkingA} {body-A}Hé là.
+83)  LEE
+[quiet, looking around]{ThinkingA} {body-A}Hé là.
+3)  LEE
+{HappyB}Vous bloquez, Shawn Greene ?
+88)  LEE
+{HappyB}Vous bloquez, Shawn Greene ?
+4)  SHAWN
+[pickup1][nervous, out in the open]{NormalC}Que diriez-vous de nous aider à nous frayer un chemin et{ThinkingA} nous vous emmenons avec votre fille dans la ferme de ma famille. {HappyA}Ca devrait être plus sûr qu'ici.
+81)  SHAWN
+[pickup1][nervous, out in the open]{NormalC}Que diriez-vous de nous aider à nous frayer un chemin et{ThinkingA} nous vous emmenons avec votre fille dans la ferme de ma famille. {HappyA}Ca devrait être plus sûr qu'ici.
+5)  LEE
+{FearA} Nous sommes amicaux.
+6)  SHAWN
+{ConfusedA}Ouais. {JoyB}Un peu d'aide ?
+84)  SHAWN
+{ConfusedA}Ouais. {JoyB}Un peu d'aide ?
+7)  SHAWN
+{NormalC}Je suis Shawn, Shawn Greene.
+89)  SHAWN
+{NormalC}Je suis Shawn, Shawn Greene.
+8)  LEE
+{HappyA}Lee et elle, Clémentine.
+85)  LEE
+{HappyA}Lee et elle, Clémentine.
+9)  LEE
+{DisgustA}{body-C}Ma jambe est un peu amochée, {ThinkingA}mais on verra ce que je peux faire.
+90)  LEE
+{DisgustA}{body-C}Ma jambe est un peu amochée, {ThinkingA}mais on verra ce que je peux faire.
+10)  SHAWN
+[pickup1] {SurprisedA}Pff, {NormalC}réfléchissez un instant {NormalA} vous et votre petite {ThinkingA}nous avez simplement foutu les jetons.
+87)  SHAWN
+[pickup1] {SurprisedA}Pff, {NormalC}réfléchissez un instant {NormalA} vous et votre petite {ThinkingA}nous avez simplement foutu les jetons.
+11)  
+Ok, ca à l'air bien.
+93)  
+Ok, ca à l'air bien.
+12)  
+Où est votre ferme ?
+102)  
+Où est votre ferme ?
+13)  
+Vous avez un médecin là-bas ?
+110)  
+Vous avez un médecin là-bas ?
+14)  
+C'est pas ma fille.
+120)  
+C'est pas ma fille.
+15)  LEE
+{HappyB}{body-B}Ok, ca à l'air bien.
+94)  LEE
+{HappyB}{body-B}Ok, ca à l'air bien.
+16)  LEE
+{ThinkingA}{body-B}Où est votre ferme ?
+103)  LEE
+{ThinkingA}{body-B}Où est votre ferme ?
+17)  LEE
+{SurpriseA}{body-C}Vous avez un médecin ou autre chose ?
+111)  LEE
+{SurpriseA}{body-C}Vous avez un médecin ou autre chose ?
+18)  LEE
+{SadA}{body-B}Ce n'est pas ma fille.
+121)  LEE
+{SadA}{body-B}Ce n'est pas ma fille.
+19)  SHAWN
+{SadB}Génial, Atlanta sombre dans la merde.
+100)  SHAWN
+{SadB}Génial, Atlanta sombre dans la merde.
+20)  LEE
+{HappyA}Ca semble bien.
+32)  LEE
+{HappyA}Ca semble bien.
+101)  LEE
+{HappyA}Ca semble bien.
+105)  LEE
+{HappyA}Ca semble bien.
+21)  SHAWN
+{ConfusedA}C'est votre maison ?
+33)  SHAWN
+{ConfusedA}C'est votre maison ?
+40)  SHAWN
+{ConfusedA}C'est votre maison ?
+99)  SHAWN
+{ConfusedA}C'est votre maison ?
+106)  SHAWN
+{ConfusedA}C'est votre maison ?
+118)  SHAWN
+{ConfusedA}C'est votre maison ?
+22)  LEE
+{NormalC}{body-B}Non. {ThinkingA}Je vis à Atlanta, mais {NormalD}toute ma famille est de Macon.
+31)  LEE
+{NormalC}{body-B}Non. {ThinkingA}Je vis à Atlanta, mais {NormalD}toute ma famille est de Macon.
+41)  LEE
+{NormalC}{body-B}Non. {ThinkingA}Je vis à Atlanta, mais {NormalD}toute ma famille est de Macon.
+47)  LEE
+{NormalC}{body-B}Non. {ThinkingA}Je vis à Atlanta, mais {NormalD}toute ma famille est de Macon.
+95)  LEE
+{NormalC}{body-B}Non. {ThinkingA}Je vis à Atlanta, mais {NormalD}toute ma famille est de Macon.
+104)  LEE
+{NormalC}{body-B}Non. {ThinkingA}Je vis à Atlanta, mais {NormalD}toute ma famille est de Macon.
+116)  LEE
+{NormalC}{body-B}Non. {ThinkingA}Je vis à Atlanta, mais {NormalD}toute ma famille est de Macon.
+124)  LEE
+{NormalC}{body-B}Non. {ThinkingA}Je vis à Atlanta, mais {NormalD}toute ma famille est de Macon.
+23)  SHAWN
+{JoyB}La ferme est au sud sur la route de Macon, {NormalB}si ca vous dit.
+98)  SHAWN
+{JoyB}La ferme est au sud sur la route de Macon, {NormalB}si ca vous dit
+24)  SHAWN
+{NormalB}{body-StandA}C'est au sud d'ici, {SadA}Je sais pas si ca vaut le coup.
+97)  SHAWN
+{NormalB}{body-StandA}C'est au sud d'ici, {SadA}Je sais pas si ca vaut le coup.
+25)  LEE
+{ThinkingB}Ca te convient, Clémentine ?
+34)  LEE
+{ThinkingB}Ca te convient, Clémentine ?
+43)  LEE
+{ThinkingB}Ca te convient, Clémentine ?
+48)  LEE
+{ThinkingB}Ca te convient, Clémentine ?
+96)  LEE
+{ThinkingB}Ca te convient, Clémentine ?
+107)  LEE
+{ThinkingB}Ca te convient, Clémentine ?
+115)  LEE
+{ThinkingB}Ca te convient, Clémentine ?
+128)  LEE
+{ThinkingB}Ca te convient, Clémentine ?
+26)  LEE
+Ca te convient, Clémentine ?
+27)  SHAWN
+Vous en êtes alors ?
+28)  SHAWN
+{NormalC}{body-StandB}La ferme est au sud sur la route de Macon, {NormalA}si ca vous dit
+109)  SHAWN
+{NormalC}{body-StandB}La ferme est au sud sur la route de Macon, {NormalA}si ca vous dit
+29)  SHAWN
+C'est votre maison ?
+30)  LEE
+Non. Je vis à Atlanta, mais toute ma famille est de Macon.
+35)  SHAWN
+{JoyA}Vous en êtes alors ?
+42)  SHAWN
+{JoyA}Vous en êtes alors ?
+49)  SHAWN
+{JoyA}Vous en êtes alors ?
+52)  SHAWN
+{JoyA}Vous en êtes alors ?
+108)  SHAWN
+{JoyA}Vous en êtes alors ?
+112)  SHAWN
+{JoyA}Vous en êtes alors ?
+126)  SHAWN
+{JoyA}Vous en êtes alors ?
+36)  LEE
+[good natured] {HappyB}Bien sûr.
+114)  LEE
+[good natured] {HappyB}Bien sûr.
+37)  SHAWN
+{JoyA}Il peut vous arranger ça. Notre ferme au sud d'ici, {NormalC}vers Macon.
+117)  SHAWN
+{JoyA}Il peut vous arranger ça. Notre ferme au sud d'ici,, {NormalC}vers Macon.
+38)  SHAWN
+{NormalC}{body-StandXArmsA}Mon père. Et bien, {NormalB}il est vétérinaire. {SurprisedA}Attention un véto de grand animaux ! {NormalA}Pas un pour chiens.
+119)  SHAWN
+{NormalC}{body-StandXArmsA}Mon père. Et bien, {NormalB}il est vétérinaire. {SurprisedA}Attention un véto de grand animaux ! {NormalA}Pas un pour chiens.
+39)  LEE
+{SurpriseA}{body-B}Votre père, le docteur pour canasson, {ThinkingA}ne voudrait pas bosser sur une personne ?
+113)  LEE
+{SurpriseA}{body-B}Votre père, le docteur pour canasson, {ThinkingA}ne voudrait pas bosser sur une personne ?
+44)  LEE
+{NormalC}{body-B}Les gens qui possèdent cette maison. {ThinkingA}L'ont trouvé dans la cour, {SurpriseB}survivant par ses propres moyens.
+129)  LEE
+{NormalC}{body-B}Les gens qui possèdent cette maison. {ThinkingA}L'ont trouvé dans la cour, {SurpriseB}survivant par ses propres moyens.
+45)  SHAWN
+{ConfusedA}{body-StandXArmsA}Alors qui c'est ?
+123)  SHAWN
+{ConfusedA}{body-StandXArmsA}Alors qui c'est ?
+46)  SHAWN
+{SurprisedA}{body-StandC}Merde. {ConfusedA}Vous êtes un voisin ou dans le genre ?
+127)  SHAWN
+{SurprisedA}{body-StandC}Merde. {ConfusedA}Vous êtes un voisin ou dans le genre ?
+50)  LEE
+Bien ca marche.
+125)  LEE
+Bien ca marche.
+51)  SHAWN
+Notre ferme est sur la route si c'est par là vous allez.
+122)  SHAWN
+Notre ferme est sur la route si c'est par là vous allez.
+53)  SHAWN
+{NormalB}{body-StandA}Ok, vous êtes prêt ?
+70)  SHAWN
+{NormalB}{body-StandA}Ok, vous êtes prêt ?
+54)  LEE
+{NormalC}{body-B}Allons-y.
+71)  LEE
+{NormalC}{body-B}Allons-y.
+55)  SHAWN
+{NormalC}Un, deux, {MadA}TROIS !
+69)  SHAWN
+{NormalC}Un, deux, {MadA}TROIS !
+56)  LEE
+{NormalC}{body-F}Je vais pas te laisser pas toute seule.
+79)  LEE
+{NormalC}{body-F}Je vais pas te laisser pas toute seule.
+138)  LEE
+{NormalC}{body-F}Je vais pas te laisser pas toute seule.
+57)  LEE
+{ThinkingB}Ouais, ok. [knows he wont find them] Vous venez avec moi {HappyA}{body-B}et je m'occuperais de vous jusque-là.
+78)  LEE
+{ThinkingB}Ouais, ok. [knows he wont find them] Vous venez avec moi {HappyA}{body-B}et je m'occuperais de vous jusque-là.
+139)  LEE
+{ThinkingB}Ouais, ok. [knows he wont find them] Vous venez avec moi {HappyA}{body-B}et je m'occuperais de vous jusque-là.
+58)  SHAWN
+{SadA}Ca craint.
+73)  SHAWN
+{SadA}Ca craint.
+140)  SHAWN
+{SadA}Ca craint..
+59)  LEE
+{SurpriseA}{body-B}Quoi ?
+80)  LEE
+{SurpriseA}{body-B}Quoi ?
+137)  LEE
+{SurpriseA}{body-B}Quoi ?
+60)  CLEMENTINE
+{ThinkingA}{body-HandOnWrist}Je devrais rester ?
+74)  CLEMENTINE
+{ThinkingA}{body-HandOnWrist}Je devrais rester ?
+135)  CLEMENTINE
+{ThinkingA}{body-HandOnWrist}Je devrais rester ?
+61)  SHAWN
+{AngryA}{body-A}Chiiié...
+77)  SHAWN
+{AngryA}{body-A}Chiiié...
+132)  SHAWN
+{AngryA}{body-A}Chiiié...
+62)  SHAWN
+{DisgustA}Je ne peux pas faire un demi-kilomètre sans un nouvel accident..
+72)  SHAWN
+{DisgustA}Je ne peux pas faire un demi-kilomètre sans un nouvel accident..
+133)  SHAWN
+{DisgustA}Je ne peux pas faire un demi-kilomètre sans un nouvel accident..
+63)  CLEMENTINE
+{FearA}Je veux pas dormir dans cabane ce soir, mais {FearA}je sais pas si je dois partir. {ThinkingA}Et si mes parents reviennent à la maison ?
+76)  CLEMENTINE
+{FearA}Je veux pas dormir dans cabane ce soir, mais {FearA}je sais pas si je dois partir. {ThinkingA}Et si mes parents reviennent à la maison ?
+136)  CLEMENTINE
+{FearA}Je veux pas dormir dans cabane ce soir, mais {FearA}je sais pas si je dois partir . {ThinkingA}Et si mes parents reviennent à la maison ?
+64)  CLEMENTINE
+{HappyA}{body-HandsOpen}Nous pouvons peut-être aller chercher ma maman et mon papa, alors ?
+75)  CLEMENTINE
+{HappyA}{body-HandsOpen}Nous pouvons peut-être aller chercher ma maman et mon papa, alors ?
+134)  CLEMENTINE
+{HappyA}{body-HandsOpen}Nous pouvons peut-être aller chercher ma maman et mon papa, alors ?
+65)  LEE
+{ThinkingB}Eh bien j'imagine que nous ne devrions pas rester assis à attendre.
+91)  LEE
+{ThinkingB}Eh bien j'imagine que nous ne devrions pas rester assis à attendre.
+66)  SHAWN
+{FearB}{Body-A}Vous essayez de partir d'ici ? {NormalC}Parce que vous devriez. {FearA}Ces choses sont partout dans ce putain d'endroit.  {ThinkingA}Je n'ai pas vu quelque chose d'aussi bouché que ce quartier {NormalB}depuis le centre d'Atlanta,{AngryA} à environs 15km.
+82)  SHAWN
+{FearB}{Body-A}Vous essayez de partir d'ici ? {NormalC}Parce que vous devriez. {FearA}Ces choses sont partout dans ce putain d'endroit.  {ThinkingA}Je n'ai pas vu quelque chose d'aussi bouché que ce quartier {NormalB}depuis le centre d'Atlanta,{AngryA} à environs 15km.
+260)  SHAWN
+{FearB}{Body-A}Vous essayez de partir d'ici ? {NormalC}Parce que vous devriez. {FearA}Ces choses sont partout dans ce putain d'endroit.  {ThinkingA}Je n'ai pas vu quelque chose d'aussi bouché que ce quartier {NormalB}depuis le centre d'Atlanta,{AngryA} à environs 15km.
+67)  SHAWN
+{NormalB}Aucn doute.
+86)  SHAWN
+{NormalB}Aucn doute.
+68)  SHAWN
+[pickup1][taken by surprise]{Body-A}{FearC}Ouahmerde !
+92)  SHAWN
+[pickup1][taken by surprise]{Body-A}{FearC}Ouahmerde !
+130)  LEE
+[pickup1] [having taken someone by surprise]{FearA}On ne va pas vous faire de mal.
+131)  LEE
+[pickup1] {HappyA}{Body-B}Hé !
+141)  CLEMENTINE
+[pickup1] {SadA}Je veux pas aller là-bas.
+142)  LEE
+[pickup1] {ThinkingA}Qu'est-ce qu'il y a ?
+143)  
+Ok, alors reste.
+144)  
+Allez, ça ira bien.
+145)  
+Ces choses sont partout.
+147)  LEE
+[pickup1] Allez, ça ira bien.
+148)  CLEMENTINE
+[pickup1]
+149)  LEE
+[pickup1][semi-urgent-hushed, to clementine] {FearA}Allez.
+150)  LEE
+[pickup1] {ThinkingB}Allons-y, ça ira bien.
+151)  LEE
+[pickup1]{ThinkingB} Je suis pas son père. Je suis...[thinking]
+213)  LEE
+[pickup1]{ThinkingB} Je suis pas son père. Je suis...[thinking]
+152)  
+...sa babysitter.
+214)  
+...sa babysitter.
+154)  
+...un voisin.
+217)  
+...un voisin.
+155)  
+...juste un gars.
+220)  
+...juste un gars
+156)  LEE
+[pickup1][lead in; I'm...] {HappyA}{Body-F}...sa babysitter. {FearA}
+216)  LEE
+[pickup1][lead in; I'm...] {HappyA}{Body-F}...sa babysitter. {FearA}
+157)  LEE
+[pickup1] {ThinkingA}Ses parents sont hors de la ville.
+163)  LEE
+[pickup1] {ThinkingA}Ses parents sont hors de la ville.
+215)  LEE
+[pickup1] {ThinkingA}Ses parents sont hors de la ville.
+219)  LEE
+[pickup1] {ThinkingA}Ses parents sont hors de la ville.
+158)  LEE
+[pickup1]En marchant, venant de nulle part, sur mon chemin, j'ai trouvé cette petite fille, tout seule.
+159)  LEE
+[pickup1[Lead in, "I'm..."] ...juste de passage.
+160)  LEE
+[pickup1[Lead in, "I'm..."] {Body-F}{NormalC}...un voisin.
+218)  LEE
+[pickup1[Lead in, "I'm..."] {Body-F}{NormalC}...un voisin.
+161)  LEE
+[pickup1[Lead in, "I'm..."] {NormalB}{Body-F}...juste un gars.
+221)  LEE
+[pickup1[Lead in, "I'm..."] {NormalB}{Body-F}...juste un gars.
+162)  SHAWN
+[pickup1] [hushed]{ThinkingA}Elles est seule ?
+222)  SHAWN
+[pickup1] [hushed]{ThinkingA}Elles est seule ?
+164)  SHAWN
+[pickup1] {ThinkingB}{Body-A}Nous ne devrions pas être à découvert comme ça.
+165)  SHAWN
+[pickup1][nervous, out in the open]{Body-A}{ThinkingA}Aucune idée. {FearA}Donc, vous les avez vus ?
+166)  LEE
+[pickup1] [keeping down, zombies around]{DisgustA}On pourrait dire ça.
+167)  LEE
+[pickup1] [hushed, nervous, zombies about]{ThinkingA}{Body-F}Lee. Elles, c'est {NormalC}Clémentine. [having just met her]
+168)  SHAWN
+[pickup1] [filling in the blank]{Body-A}{ThinkingA}...un bon Samaritain ?
+226)  SHAWN
+[pickup1] [filling in the blank]{Body-A}{ThinkingA}...un bon Samaritain ?
+270)  SHAWN
+[pickup1] [filling in the blank]{Body-A}{ThinkingA}...un bon Samaritain ?
+274)  SHAWN
+[pickup1] [filling in the blank]{Body-A}{ThinkingA}...un bon Samaritain ?
+169)  LEE
+[pickup1][hushed, nervous]{Body-F}{FearB}Vous savez ce qu'il se passe ici ?
+170)  LEE
+[pickup1] {body-F}{NormalC}C'est ça, un bon Samaritain.
+225)  LEE
+[pickup1] {body-F}{NormalC}C'est ça, un bon Samaritain.
+269)  LEE
+[pickup1] {body-F}{NormalC}C'est ça, un bon Samaritain.
+275)  LEE
+[pickup1] {body-F}{NormalC}C'est ça, un bon Samaritain.
+171)  LEE
+[pickup1][hushed, concilliatory] {ThinkingA}Ouais.
+224)  LEE
+[pickup1][hushed, concilliatory] {ThinkingA}Ouais.
+172)  SHAWN
+[pickup1][hushed] {ThinkingB}{Body-A}Un gars ?
+223)  SHAWN
+[pickup1][hushed] {ThinkingB}{Body-A}Un gars ?
+173)  CLEMENTINE
+[pickup1][hushed but unsure and worried] {SadA}Je...
+174)  CLEMENTINE
+[pickup1][covered mouth; a zombie is wandering by your hiding place]
+175)  LEE
+[pickup1][hushed] {Body-F}{ThinkingA}Qu'est-ce que voulez-vous faire ?
+176)  SHAWN
+[pickup1][hushed]{Body-A}{ThinkingA}Allons-y. {FearA}Rester ici trop longtemps est une connerie.
+177)  SHAWN
+[pickup1][urgent! super hushed though] {SurprisedA}Oh putain ! {FearD}Faut qu'on se tire d'ici !
+178)  SHAWN
+[pickup1][super hushed, urgent] {AngryB}Poussez !
+179)  LEE
+[hushed, exerted push]{Body-B}
+180)  SHAWN
+[pickup1] [hushed, exerted push]
+181)  SHAWN
+[pickup1][super hushed] {Body-A}{FearA}They saw that! {FearB}Continuez à pousser !
+182)  LEE
+[hushed, exerted push2]{Body-B}
+183)  CLEMENTINE
+[pickup1][hushed, exerted push]{Body-Stand}
+184)  SHAWN
+[pickup1] [hushed, exerted push2]{Body-A}
+185)  SHAWN
+[pickup1][super urgent] {Body-A}{FearC}Montez !
+186)  SHAWN
+[pickup1] [driving away, just escaped by the skin of your teeth]{SurprisedA}{Body-A}Pour une babysitter; {HappyA}Je dirais que ses parents vous en doivent une.
+187)  SHAWN
+[pickup1] [driving away, just escaped by the skin of your teeth]Vous connaissez une de ces personnes là-bas ?
+188)  LEE
+[pickup1][driving away, just escaped by the skin of your teeth] Pourquoi je devrais ?
+189)  SHAWN
+[pickup1] [driving away, just escaped by the skin of your teeth] {FearA}{Body-A}Il y en avait de vos voisins aussi ?
+190)  SHAWN
+[pickup1][driving away, just escaped by the skin of your teeth] {SurprisedA}{Body-A}Pour seulement "un gars", il {HappyA}semble que vous ayez sauvé {HappyB}un tas de vies aujourd'hui.
+191)  SHAWN
+[pickup1] [driving away, just escaped by the skin of your teeth] {SurprisedA}{Body-A}Ces gars-là ? [back there] {ThinkingB}Sont PAS de bons Samaritains.
+192)  SHAWN
+[pickup1] [quietish] Vous avez vu une de ces choses ? Une d'entre elles vient juste d'avoir notre ami, Chet.
+193)  MITCHELL
+[quietish] Officier Mitchell.
+194)  SHAWN
+[pickup1][quietish] Mon nom est Shawn, Shawn Greene. Lui c'est André--
+195)  
+Non.
+196)  
+Un paquet, dans la foret.
+197)  
+Juste une fille, a l'interieur.
+198)  
+[Remain Silent]
+227)  
+[Remain Silent]
+236)  
+[Remain Silent]
+199)  MITCHELL
+Pas le moindre ?
+200)  LEE
+[pickup3] [quietish]Non, pas depuis un moment.
+201)  LEE
+[pickup3] [quietish] Ma jambe, ouais. Elle est salement amonchée.
+202)  LEE
+[pickup3] [quietish] Non; définitivement.
+203)  MITCHELL
+On dirait que vous avez fait cesser les ragots sur vous.
+204)  LEE
+[pickup3] [quietish] J'en ai vu beaucoup dans la forêt, mais c'était il y a un moment.
+205)  MITCHELL
+[quietish]Ouais, celui que nous cherchons est encore dans le quartier.
+206)  SHAWN
+[pickup1] [quietish] Oh merde ! Vous avez sacrément blessé votre jambe.
+210)  SHAWN
+[pickup1] [quietish] Oh merde ! Vous avez sacrément blessé votre jambe.
+211)  SHAWN
+[pickup1] [quietish] Oh merde ! Vous avez sacrément blessé votre jambe.
+272)  SHAWN
+[pickup1] [quietish] Oh merde ! Vous avez sacrément blessé votre jambe.
+207)  LEE
+[pickup3] [quietish] Je viens de voir une jeune fille, à l'intérieur de cette maison.
+208)  MITCHELL
+Nan, c'était pas lui.
+209)  MITCHELL
+Nous allons prendre cela pour un "non" alors...
+273)  MITCHELL
+Nous allons prendre cela pour un "non" alors...
+212)  SHAWN
+[pickup1] [hushed] Faisons un deal, aidez-nous à trouver la chose qui a eu notre copain et nous vous emmenèrons, vous et votre fille, jusqu'à la ferme de mon père en sécurité. Il devrait être en mesure de rafistoler votre jambe aussi.
+228)  SHAWN
+[pickup1] C'est... CHET !
+229)  MITCHELL
+Qui que vous soyez, passons a autre chose.
+230)  SHAWN
+[pickup3][quietish] Oh merde !!
+231)  MITCHELL
+FONCEZ ! DANS MA VOITURE !
+232)  LEE
+[pickup3][quietish] Nous--
+233)  MITCHELL
+ALLEZ !
+234)  CHET
+{Body-Handships}{SadA}Je tiendrais jamais jusqu'à la maison de ma mère à ce rythme.
+235)  CHET
+{AngryA}C'est la nuit, le buffet chaud.
+237)  
+Je sais pas...
+238)  
+Ils pourront pas. Allons-y.
+239)  
+Je vais pas te laisser toute seule.
+240)  LEE
+[pickup3] {body-F}{SadA}Ils pourront pas. {NormalC}On devrait y aller.
+241)  LEE
+[pickup3] {SadA}Je vais pas te laisser toute seule, ok?{Body-B}
+242)  CLEMENTINE
+[pickup1] {body-handonwrist}{SadA}Ils vont me trouver, hein ?
+243)  CLEMENTINE
+[pickup1] {sadA}{body-handonwrist}Allons dans un endroit sûr tout près, {ThinkingA}ok ?
+248)  CLEMENTINE
+[pickup1] {sadA}{body-handonwrist}Allons dans un endroit sûr tout près, {ThinkingA}ok?
+244)  LEE
+[pickup1] {HappyA}{body-F}C'est une bonne idée.{Body-B}
+247)  LEE
+[pickup1] {HappyA}{body-F}C'est une bonne idée.{Body-B}
+249)  LEE
+[pickup1] {HappyA}{body-F}C'est une bonne idée.{Body-B}
+251)  LEE
+[pickup1] {HappyA}{body-F}C'est une bonne idée.{Body-B}
+266)  LEE
+[pickup1] {HappyA}{body-F}C'est une bonne idée.{Body-B}
+245)  CLEMENTINE
+[pickup1] {body-handonwrist}{SadA}Moi non plus.
+246)  LEE
+[pickup3] {body-F}{ThinkingA}Je sais pas...
+250)  CLEMENTINE
+[pickup1] {body-handonwrist}{SadA}Je peux rester avec toi jusqu'à ce qu'ils me trouvent.
+267)  CLEMENTINE
+[pickup1] {body-handonwrist}{SadA}Je peux rester avec toi jusqu'à ce qu'ils me trouvent
+252)  CHET
+{Body-A}{FearB}NOUS MANGEZ PAS !!!
+253)  CHET
+[quiet] {Body-A}{SadA}Merci pour euh, {ThinkingA}ne pas le faire. {HappyA}Nous manger, je veux dire.
+268)  CHET
+[quiet] {Body-A}{SadA}Merci pour euh, {ThinkingA}ne pas le faire. {HappyA}Nous manger, je veux dire.
+254)  
+Qu'est-ce que vous faites ?
+255)  
+Qu'est-ce qui se passe ?
+256)  
+Nous cherchons de l'aide.
+257)  SHAWN
+[pickup1] {ThinkingA}{Body-A}En essayant de rentrer chez nous, {fearA}on est tombé sur ce désastre.
+258)  LEE
+[pickup3][hushed] {Body-F}Qu'est-ce qu'on fait ?
+259)  LEE
+[pickup3][hushed] {Body-F}Nous avons besoin d'aide.
+261)  CHET
+{HappyA}{Body-A}Je suis Chet.
+262)  CHET
+{Body-A}{SurprisedA}Ces monstres arrivent ! {FearB}FAUT SE BARRER !
+263)  SHAWN
+[pickup1] {FearA}Lee, vite ! {FearB}On décolle !
+264)  
+Voiture
+265)  
+Pousser
+271)  
+Attendre

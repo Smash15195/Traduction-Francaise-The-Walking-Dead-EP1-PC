@@ -1,0 +1,264 @@
+1)  LEE
+[sounds of Lee whincing1]
+2)  LEE
+[a bunch of sounds of Lee whincing2]
+3)  LEE
+[a bunch of sounds of Lee whincing3]
+4)  LEE
+[a bunch of sounds of Lee whincing4]
+5)  LEE
+[a bunch of sounds of Lee whincing5]
+6)  LEE
+[lee slips and falls 1]
+7)  LEE
+[lee slips and falls 2]
+8)  LEE
+[lee slips and falls 3]
+9)  LEE
+[fall, landing hard on a bad leg1]
+10)  LEE
+[fall, landing hard on a bad leg2]
+11)  LEE
+[fall, landing hard on a bad leg3]
+12)  LEE
+[slips, hurts leg] {fearD} AHH!
+13)  LEE
+[after having the first drink of water you've had in days]
+14)  LEE
+[pushing away a zombie] {fearC} AHH!
+15)  LEE
+[grabbing a weapon with a zombie ontop of you] {fearC} AH!
+16)  LEE
+[yelling at a zombie in the face] {fearD} AHHHHH!
+17)  LEE
+[kicking a zombie] {fearC} Get the--GET--BACK!
+18)  COP
+[driving, breathing, maybe a little cough; an idle for the open road!]
+19)  COP
+[hitting someone in your car -- a surprised UH! 1]
+20)  COP
+[hitting someone in your car -- a surprised UH! 2] SHIT!
+21)  KENNY
+[breathing heavy, fuming mad, in a standoff with a real douche 1]
+23)  LARRY
+[breathing heavy, fuming mad, in a standoff with a real douche 1]
+22)  KENNY
+[breathing heavy, fuming mad, in a standoff with a real douche 2]
+24)  LARRY
+[breathing heavy, fuming mad, in a standoff with a real douche 2]
+25)  LEE
+[scared/surprised yell]
+26)  LEE
+[angry yell, attacking something 1]
+27)  LEE
+[angry yell, attacking something 2]
+28)  LEE
+[angry yell, attacking something 3]
+29)  LEE
+[being hit or kicked 1]
+30)  LEE
+[being hit or kicked 2]
+31)  LEE
+[generic scream 1, scare]
+32)  LEE
+[generic scream 2, scare]
+33)  LEE
+[panicked breathing idle]
+34)  LEE
+[angry breathing idle]
+35)  LEE
+[scared breathing idle]
+36)  LEE
+[tired, out of breath, breathing idle]
+37)  LEE
+[running breathing idle]
+38)  LEE
+[pained breathing idle]
+39)  CLEMENTINE
+[breathing idle, panicked]
+47)  KENNY
+[breathing idle, panicked]
+53)  KATJAA
+[breathing idle, panicked]
+59)  LILLY
+[breathing idle, panicked]
+65)  LARRY
+[breathing idle, panicked]
+71)  CARLEY
+[breathing idle, panicked]
+77)  DOUG
+[breathing idle, panicked]
+83)  GLENN
+[breathing idle, panicked]
+40)  CLEMENTINE
+[breathing idle, angry/grumpy]
+41)  CLEMENTINE
+[breathing idle, scared]
+49)  KENNY
+[breathing idle, scared]
+55)  KATJAA
+[breathing idle, scared]
+61)  LILLY
+[breathing idle, scared]
+67)  LARRY
+[breathing idle, scared]
+73)  CARLEY
+[breathing idle, scared]
+79)  DOUG
+[breathing idle, scared]
+42)  CLEMENTINE
+[breathing idle, tired, out of breath]
+50)  KENNY
+[breathing idle, tired, out of breath]
+43)  CLEMENTINE
+[breathing idle, running]
+51)  KENNY
+[breathing idle, running]
+57)  KATJAA
+[breathing idle, running]
+63)  LILLY
+[breathing idle, running]
+69)  LARRY
+[breathing idle, running]
+75)  CARLEY
+[breathing idle, running]
+81)  DOUG
+[breathing idle, running]
+87)  GLENN
+[breathing idle, running]
+44)  CLEMENTINE
+[breathing idle, in pain]
+45)  CLEMENTINE
+[generic scream 1]
+46)  CLEMENTINE
+[generic scream 2]
+48)  KENNY
+[breathing idle, angry]
+54)  KATJAA
+[breathing idle, angry]
+60)  LILLY
+[breathing idle, angry]
+66)  LARRY
+[breathing idle, angry]
+72)  CARLEY
+[breathing idle, angry]
+78)  DOUG
+[breathing idle, angry]
+52)  KENNY
+[breathing idle, pained]
+58)  KATJAA
+[breathing idle, pained]
+64)  LILLY
+[breathing idle, pained]
+70)  LARRY
+[breathing idle, pained]
+76)  CARLEY
+[breathing idle, pained]
+82)  DOUG
+[breathing idle, pained]
+88)  GLENN
+[breathing idle, pained]
+56)  KATJAA
+[breathing idle, out of breath]
+62)  LILLY
+[breathing idle, out of breath]
+68)  LARRY
+[breathing idle, out of breath]
+74)  CARLEY
+[breathing idle, out of breath]
+80)  DOUG
+[breathing idle, out of breath]
+86)  GLENN
+[breathing idle, out of breath]
+84)  GLENN
+[breathing idle, angry ]
+85)  GLENN
+[breathing idle, scared ]
+89)  LEE
+[Lee hits something with his fist]
+90)  LEE
+[you bash into something with your shoulder]
+91)  LEE
+[falling scream/yell]
+92)  CARLEY
+[falling scream/yell]
+93)  CARLEY
+That's a plan.
+94)  CARLEY
+That might actually work.
+95)  CARLEY
+You're fucking nuts.
+96)  CARLEY
+[you're nuts] I didn't say that.
+97)  CARLEY
+Go!
+98)  CARLEY
+Watch out!
+99)  CARLEY
+There!
+100)  CARLEY
+Look!
+101)  CARLEY
+Are you ok?
+102)  CARLEY
+LEE! WATCH OUT!
+103)  CARLEY
+GET DOWN!
+104)  CARLEY
+GOT HIM.
+105)  CARLEY
+I'm right behind you.
+106)  CARLEY
+What the hell was that?
+107)  CARLEY
+We need to be QUIET.
+108)  CARLEY
+Wait for that one...
+109)  CARLEY
+Look, over there!
+110)  CARLEY
+If we could just...
+111)  CARLEY
+Wait...
+112)  CARLEY
+[grabbed by a zombie]
+113)  CARLEY
+[bashing a zombie's brains in]
+114)  CARLEY
+Now!
+115)  MOTEL GIRL
+[pickup1][crying]
+116)  MOTEL GIRL
+[pickup1][whincing]
+117)  MOTEL GIRL
+[pickup1][sniffle]
+118)  MOTEL GIRL
+[pickup1][falling yell]
+119)  MOTEL GIRL
+[pickup1][being eaten scream]
+120)  MOTEL GIRL
+[pickup1][extended sobbing]
+121)  MOTEL GIRL
+[pickup1][horrific scream]
+122)  MOTEL GIRL
+[pickup1][hysterical crying]
+123)  GLENN
+[pickup2][falling yell]
+124)  GLENN
+[pickup2][scared yell]
+125)  GLENN
+[pickup2] Psst!
+126)  GLENN
+[pickup2][falling yell alt]
+127)  GLENN
+[pickup2][pained yell]
+128)  GLENN
+[pickup2][starteld yell]
+129)  GLENN
+[pickup2][quiet, drawn out car-push]
+130)  GLENN
+[pickup2][quiet effort/push]
+131)  GLENN
+[pickup2][small grunt]
+132)  GLENN
+[pickup2][big loud effort/push]

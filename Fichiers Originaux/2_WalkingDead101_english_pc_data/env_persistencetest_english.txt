@@ -1,0 +1,190 @@
+1)  COP
+{sadA}{body-drive}Well, I {happyC}reckon you didn't do it, then.
+2)  
+Why do you say that?
+3)  
+Does it really matter?
+4)  
+You know what they say about reckoning.
+6)  LEE
+{thinkingA}{body-sitcuffed}Why do you say that?
+7)  LEE
+{angryA}{body-sitcuffed}Does it really{normalC} matter?
+8)  LEE
+{thinkingA}{body-sitcuffed}You know what they say about reckoning.
+9)  COP
+{happyC}{body-drive}Nah, not {sadA}much.
+10)  LEE
+{happyA}Yeah, something like that.
+11)  COP
+{happyB}{body-drive}Ha, I don't but I {happyC}reckon it's a lot like assumin'.
+12)  COP
+{normalC}{body-drive}Hmm.
+13)  COP
+{happyB}{body-drive}Y'know, I've driven a buncha' fellas down to this prison. {sadA}Lord knows how many. Usually is 'bout now I get the{surprisedA} "I didn't do {normalA}it."
+14)  
+And what do you say?
+15)  
+Not from me.
+16)  
+Every time?
+18)  LEE
+{normalC}{body-sitcuffed}And what do you say?
+19)  COP
+{normalC}{body-drive}I say "Yep,{sadA} I know ya didn't."
+20)  LEE
+{angryA}{body-sitcuffed}Not from me.
+21)  COP
+{normalC}{body-drive}'Cause guys in your position already{fearA} said it enough?
+22)  LEE
+{normalD}{body-sitcuffed}Every time?
+23)  COP
+{happyA}{body-drive}EVERY time.
+24)  COP
+{thinkingA}{body-drive}Hmmm, but you {happyB}don't talk too much, do ya?
+25)  COP
+{sadA}{body-drive}I {normalC}followed your case a little bit, you being a {happyB}Macon boy and all.
+26)  
+You're from Macon then.
+27)  
+So you've got an opinion.
+28)  
+What'd you think?
+30)  COP
+{happyC}{body-drive}Yep. Came up to{happyD} Atlanta to be a city cop in the seventies. {fearA}Always wanted to work a murder case, {sadA}like that senatorial mess you got yourself mixed up in, {happyC}with all due respect.
+31)  LEE
+{thinkingA}{body-sitcuffed}You're from Macon then.
+32)  LEE
+{thinkingA}{body-sitcuffed}What do you think?
+33)  COP
+{happyB}{body-drive}Just that I was glad I chose this side {happyA}of the law and let {sadA}the order get handled by them other types. Especially when it comes to professors killing senators, {normalC}with all due respect.
+34)  COP
+{sadA}{body-drive}It's not every day a fella from Bibb County goes {fearA}off and kills a state Senator, {normalB}that's for sure.
+35)  LEE
+{happyB}Sure is.
+36)  COP
+{happyA}Good.
+37)  COP
+Hell, the whole family used to be regulars at your {happyC}folks' drugstore right in downtown. {normalB}Still there?
+38)  COP
+{normalA}{body-drive}How long were you at the University?
+39)  LEE
+{normalA}{body-sitcuffed}Going on my sixth year.
+40)  COP
+You {sadA}wanna know how I see it?
+41)  COP
+{happyC}You meet your wife in Athens?{Lee sadB}
+42)  
+Sure.
+43)  
+Not really.
+44)  
+I got much choice?
+46)  COP
+{sadA}{body-drive}Wouldn't say that. I {happyB}go in for that innocent 'til {happyC}proven guilty thing. Even {normalB}considering who they say you killed.
+47)  LEE
+{normalD}{body-sitcuffed}Sure.
+48)  LEE
+{normalC}{body-sitcuffed}Not really.
+49)  LEE
+{normalC}{body-sitcuffed}I got much choice?
+50)  COP
+{happyB}{body-drive}Well too bad, it's {happyC}my car. You might have the right to remain silent, but it don't mean I gotta be.
+51)  COP
+{happyC}{body-drive}Sure don't.
+52)  COP
+Could be you just married the wrong woman.
+53)  COP
+{fearA}{body-drive}I imagine it {normalB}coulda happened a myriad of ways. Self defense, {sadA}cold-blooded murder, {fearA}accident, conspiracy, {thinkingA}shit, uh... {surprisedA}allergic reaction to, uh...{happyD} hehe, bullets! Ha! {happyB}Ain't that a pretty common allergy!
+54)  
+Could be I did.
+56)  
+Or she married the wrong guy.
+57)  
+Fuck you.
+58)  COP
+{fearA}So he stops, {body-drive}{thinkingA}and having exhausted all his options, he {disgustA}starts crying out for his mama. {fearC}"Mama, it's all a big mistake! {angryA}It wasn't me!"
+59)  COP
+{sadA}{body-drive}I'm driving this man once, h-he {sadB}was the worst one. He {fearA}wouldn't stop going on about {thinkingA}how he didn't do it.
+60)  COP
+{fearC}Then before long he {thinkingA}{body-turnback}starts kicking the back of the seat, li-like a fussy baby on an airplane. And {fearC}I tell him he's gotta stop, that {angryA}that's government property, and I'll be {thinkingA}forced to zap him otherwise.
+61)  COP
+He was an older fella. {sadA}Big, soft eyes behind a pair of {disgustA}smart folk glasses, and he's just {fearB}wailing back there, says {surprisedA}it wasn't him. {thinkingA}Crying and snotting all over, {happyC}right where you're sitting.
+62)  
+Man.
+63)  
+Maybe he was innocent.
+67)  LEE
+Maybe he was innocent.
+64)  
+So, did he do it?
+66)  LEE
+{thinkingA}{body-sitcuffed}Maybe he was innocent.
+68)  COP
+{fearB}{body-drive}Man?! Not {happyC}even close!
+69)  LEE
+{thinkingB}{body-sitcuffed}Man.
+70)  COP
+{fearC}{body-drive}Innocent?
+71)  COP
+It goes to show, people {disgustA}will up and go mad {fearB}when they believe their life is over.
+72)  COP
+{surprisedA}{body-drive}They caught the {thinkingA}fucker red handed! {angryA}Stabbin' his wife, cutting her up as the boys came through the door!  {surprisedA}He sits in my car screaming bloody murder{fearC} that it wasn't him! {thinkingA}I think he actually believed it himself.
+73)  COP
+{happyD}{body-drive}Oh, I got another {body-turnback}good one for ya. {surprisedA}This one's a little bit less depressing and{happyB} a bit more hilarious if I do say so. {fearB}This other time--
+74)  COP
+[Continuation of story] He starts shaking, damn near pisses himself back there, kid can't even make a full sentence. Just then I get a call on the radio I done picked up the wrong feller and this poor boy was just some college kid who'd done a spell in the tank the night before.
+75)  COP
+Ain't that hilarious?!
+76)  COP RADIO
+Be advised, I repeat BE-
+77)  COP
+I pick up this gang-banger on his way to do consecutives down in Macon and I'm feeling particularly surly that day. So he gets in and I just start giving him the business; telling him about all the things they can do to him down there over the next fifty to seventy-five years of his pathetic life and I tell ya, I never seen someone so scared in all my years.
+78)  
+WATCH OUT!
+79)  
+OH SHIT!
+80)  
+IN THE ROAD!
+81)  
+FUCKING DRIVE!
+82)  COP RADIO
+We've got what looks like a 10-91E near Peachtree Exit of 285. All cars asked to keep on the lookout for a 91V in the area.
+83)  COP RADIO
+Be advised of medical personnel on route to Hartsfield, various 10's and 20's coming in.
+84)  COP RADIO
+Riot in progress. All officers are available for incoming 217's. Rolling calls and dispatches to all locations.
+85)  COP
+{thinkingA}{body-drive}You're strong, but {happyC}not that strong.
+86)  COP
+{happyB}{body-drive}I'm sure the warden'll have those off in no time. [sarc]
+87)  COP
+{sadA}{body-drive}All of it, but {disgustA}that box never shuts up. {thinkingA}Sit in this seat and pay too much attention and you'll {happyC}drive yourself crazy.
+88)  LEE
+{thinkingA}{body-sitcuffed}Any of that seem {thinkingB}important to you?
+89)  COP
+{sadA}{body-drive}You'll have to learn to stop {normalC}worrying about things you can't control.
+90)  LEE
+{surpriseC}{body-sitcuffed}Watch out!
+91)  LEE
+{fearD}{body-sitcuffed}Oh shit!
+92)  LEE
+{surpriseC}{body-sitcuffed}In the road!
+93)  LEE
+{fearD}{body-sitcuffed}Fucking drive!
+94)  LEE
+{angryA}{body-sitcuffed}You've got an {thinkingA}opinion then?
+95)  LEE
+{happyA}{body-sitcuffed}That's a pretty common allergy.
+96)  COP
+{happyB}To bullets? Ha, yeah {happyD}I'd say so. [a beat] {thinkingA}Could be you just married the wrong woman.
+97)  LEE
+{sadB}{body-sitcuffed}[big sigh]
+98)  COP
+{sadA}{body-drive}Well, blabbermouth, {fearA}let me tell you something.
+99)  VFX
+windshield crack as cop car goes tumbling
+100)  
+Choices have been saved. To continue the test, go to Episode 2.
+101)  
+This is the Cross-Episode Persistence Test. Please play this scenario to the end.

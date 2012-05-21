@@ -1,0 +1,256 @@
+1)  LEE
+[whinces, leg broken, shuffling his body along the backseat of a car]
+2)  LEE
+[lee limps along, taking tender steps on a broken leg]
+3)  LEE
+[lee slips and falls, landing on his side, pain shooting through his leg]
+4)  LEE
+[lee is limping his way up a hill bein chased by zombies, pained hurried and panicked breathing]
+5)  LEE
+[lee is hurriedly limping away from zombies and slips and falls]Ahh!
+6)  LEE
+[lee is hurriedly limping away from zombies and slips and falls]Ugh!
+7)  LEE
+[lee is hurriedly limping away from zombies and slips and falls]Shit!
+8)  LEE
+[lee is hurriedly limping away from zombies and slips and falls]
+9)  LEE
+Hey! Hey officer! Are you all right?! I'm still cuffed back here!
+10)  LEE
+OFFICER! [to himself] That doesn't look good. He wasn't ejected from the car...
+11)  LEE
+He's not moving.
+12)  LEE
+Officer?
+13)  LEE
+God damn...
+14)  LEE
+Fuck, my leg.
+15)  LEE
+[Moving your busted leg] Ahh!
+16)  LEE
+[Waking up after a car wreck] Ugh...[breathing deeply] Oww... shit.
+17)  LEE
+[Woozy, waking up after being knocked out] …Thirsty.
+18)  LEE
+[First zombie you've ever seen approaching you] What in the hell?!
+19)  LEE
+[First zombie you've ever seen approaching you] What the fuck are you?!?
+20)  LEE
+[First zombie you've ever seen approaching you] What happened?! What HAPPENED??!
+21)  LEE
+{FearB}Are you dead?... {angryC}HEY! ARE YOU DEAD? [inspecting the first zombie ever]
+22)  LEE
+{fearB}His skin's all rotten... and {SadC}he smells like shit. What {fearB}the hell is this?
+23)  LEE
+He must have the handcuff keys on him.
+24)  LEE
+I need those keys.
+25)  LEE
+I'm going to need those.
+26)  LEE
+Officer! I need those keys.
+27)  LEE
+Well there are the handcuff keys. Just great.
+28)  LEE
+Officer... we've been in an accident.
+29)  ZOMBIE
+Guhhh...
+30)  LEE
+I'll go get help, just--
+31)  LEE
+[The first time a zombie ever lunges at you] Holy shit!
+32)  LEE
+[Landing on your rear] Uhh!
+33)  LEE
+[Zombie crawling towards you and you crawl away]  Ahh!
+34)  LEE
+{fearC}Get away from me!
+35)  LEE
+{fearB}What the hell are you?
+36)  LEE
+{fearB}Just stop! {angryB}Back up!
+37)  LEE
+Ugh!
+77)  LEE
+Ugh!
+79)  LEE
+Ugh!
+38)  LEE
+[Exerting himself, kicking out a window] Ugh!
+69)  LEE
+[Exerting himself, kicking out a window] Ugh!
+70)  LEE
+[Exerting himself, kicking out a window] Ugh!
+71)  LEE
+[Exerting himself, kicking out a window] Ugh!
+39)  LEE
+[Slipping, falling a few feet onto the ground] Ahh!
+40)  LEE
+[Exerting himself, trying to climb out of a car window] Ugh!
+41)  LEE
+[Landing on the ground on a broken leg] Uhh--AHHHH!!!
+42)  LEE
+[examining a shotgun] Looks empty.
+43)  LEE
+It'll be easier to carry with these cuffs off.
+44)  LEE
+{normalD}The officer's shotgun is over there.
+45)  LEE
+{sadA}Why would he {angryA}have needed that?
+46)  LEE
+Don't make me do this...
+47)  LEE
+[Phew, breathing heavily] …man.
+48)  LEE
+[Phew, breathing heavily]
+49)  LEE
+No no...get the fuck away...
+50)  LEE
+[Cries out in pain, bitten by a zombie] AHHHHHHH!
+51)  LEE
+DAMMIT!
+52)  LEE
+Oh God...
+53)  LEE
+HELP! Go get someone! There- There's been a shooting!
+54)  LEE
+{angryA}Why the hell did he have his gun out?
+55)  LEE
+{thinkingB}Maybe it was tossed {fearA}from the car during the wreck?
+56)  LEE
+Gotta get over that fence!
+57)  LEE
+Hopefully these things can't climb...
+58)  LEE
+{thinkingA}I better get these handcuffs off {sadA}before I go for help.
+59)  LEE
+{angryA}I think the keys are back on that cop.
+60)  LEE
+Hmmph. Dammit.
+61)  LEE
+I need to get these damn things off.
+62)  LEE
+I don't want to see those again.
+63)  LEE
+I gotta move.
+114)  LEE
+I gotta move.
+64)  LEE
+Ahh! Dammit!
+115)  LEE
+Ahh! Dammit!
+65)  LEE
+[grits through your teeth] GET. UP.
+116)  LEE
+[grits through your teeth] GET. UP.
+66)  LEE
+[through your teeth] SHIT!
+117)  LEE
+[through your teeth] SHIT!
+67)  LEE
+[Limping around the cop car, using it for balance for broken leg]
+68)  LEE
+[Backing away from the zombie cop in a panic]
+72)  LEE
+There's a piece of the car over there... better than a piece of me.
+73)  LEE
+[looks at a piece of the wreck -- a broken police laptop and some papers from the clipboard]
+74)  LEE
+[tired, exasperated] Shit.
+75)  LEE
+[zombie is waking up] Uh, officer?...
+76)  LEE
+[looks up at the busted guard rail, or up at the top of the incline the cop car came down]
+78)  LEE
+[kicking out the window for the final time, popping out the glass] Ugh!
+80)  LEE
+Man, there's shit everywhere.
+81)  LEE
+Ugh, that's steep. I'm not going to be able to get back up to the road for help. Shit.
+82)  
+Window
+83)  
+Cop
+84)  
+Keys
+85)  
+Shotgun
+86)  
+Shotgun shell
+87)  
+Fence
+88)  
+Handcuffs
+89)  
+Debris
+90)  
+Guardrail
+91)  
+Shoot
+97)  
+Shoot
+92)  
+Look At
+94)  
+Look At
+98)  
+Look At
+100)  
+Look At
+105)  
+Look At
+106)  
+Look At
+108)  
+Look At
+109)  
+Look At
+111)  
+Look At
+113)  
+Look At
+125)  
+Look At
+93)  
+Take Keys From
+95)  
+Take Keys From
+96)  
+Take Keys From
+99)  
+Take
+126)  
+Take
+127)  
+Take
+101)  
+Climb
+102)  
+Climb
+103)  
+Kick
+104)  
+Climb Out
+121)  
+Climb Out
+107)  
+Unlock
+110)  
+Pick Up
+112)  
+Pick Up
+118)  
+Hill
+119)  LEE
+{sadB}[in pain] I need to… drag myself out that window…
+128)  LEE
+{sadB}[in pain] I need to… drag myself out that window…
+120)  
+Look
+122)  
+Little Girl
+123)  
+Call Out To
+124)  
+Mysterious Figure

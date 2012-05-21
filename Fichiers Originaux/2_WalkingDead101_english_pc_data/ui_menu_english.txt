@@ -1,0 +1,560 @@
+1)  
+New Game
+2)  
+Save 1
+3)  
+Save 2
+4)  
+Game 3
+5)  
+SELECT
+6)  
+BACK
+7)  
+AUDIO
+8)  
+GRAPHICS
+9)  
+GAMEPLAY
+10)  
+SETTINGS
+33)  
+SETTINGS
+11)  
+AUDIO SETTINGS
+12)  
+VOICE
+13)  
+MUSIC
+14)  
+SOUND
+15)  
+GRAPHICS SETTINGS
+16)  
+APPLY
+17)  
+AFTEREFFECTS
+18)  
+ON
+19)  
+OFF
+20)  
+LOW
+21)  
+MEDIUM
+22)  
+HIGH
+23)  
+GRAPHICS QUALITY
+24)  
+VERY HIGH
+25)  
+ANTI-ALIASING
+26)  
+FULL SCREEN
+27)  
+SHADOW QUALITY
+28)  
+TEXTURE QUALITY
+29)  
+RESOLUTION
+30)  
+GAMMA
+31)  
+PLAY
+52)  
+PLAY
+32)  
+DEMO
+34)  
+QUIT
+35)  
+CONTINUE
+36)  
+REPLAY EPISODE
+37)  
+EPISODE 1: A NEW DAY
+38)  
+EPISODE 2: STARVED FOR HELP
+39)  
+EPISODE 3: LONG ROAD AHEAD
+40)  
+EPISODE 4: AROUND EVERY CORNER
+41)  
+EPISODE 5: NO TIME LEFT
+42)  
+ACHIEVEMENTS
+237)  
+ACHIEVEMENTS
+43)  
+HELP & OPTIONS
+44)  
+UNLOCK EPISODE 1
+246)  
+UNLOCK EPISODE 1
+45)  
+DOWNLOAD CONTENT
+46)  
+RESUME GAME
+47)  
+SAVE
+48)  
+MAIN MENU
+49)  
+CONTROLS
+50)  
+HOW TO PLAY
+51)  
+CREDITS
+53)  
+ACTION
+54)  
+PAUSE
+55)  
+ACTIONS
+56)  
+MOVE
+RETICLE
+57)  
+MOVE
+CHARACTER
+58)  
+EPISODE 1
+59)  
+Game 1
+60)  
+Episode 1
+61)  
+Game 2
+62)  
+Episode 2
+63)  
+Episode 3
+64)  
+Episode 4
+65)  
+Episode 5
+66)  
+COPY
+219)  
+COPY
+67)  
+DELETE
+68)  
+A NEW DAY
+69)  
+STARVED FOR HELP
+70)  
+OH GOD, MY FACE
+71)  
+PAWS HOGG MEOWS AGAIN
+72)  
+THE BANANG CONTINGENCY
+73)  
+Available!
+74)  
+Installed
+75)  
+Purchased
+76)  
+BUY
+77)  
+GET
+105)  
+GET
+78)  
+REMOVE
+79)  
+Coming Soon
+80)  
+SERIES OVERVIEW
+81)  
+I can't do that, Jim.
+82)  
+Ok
+83)  
+Don't Jim
+84)  
+EDIT EPISODES
+85)  
+You must unlock the full version of The Walking Dead by purchasing episode one before you can buy any additional content.
+86)  
+Yes
+87)  
+No
+88)  
+Warning: this action is irreversible! Are you sure you want to delete this saved game?
+89)  
+Warning: copying will erase the data previously saved here. Are you sure you want to continue?
+90)  
+LONG ROAD AHEAD
+91)  
+AROUND EVERY CORNER
+92)  
+NO TIME LEFT
+93)  
+Progress is saved whenever this indicator is displayed. Please do not sign out or turn off your console while the indicator is on screen.
+94)  
+REWIND
+95)  
+Checkpoint A
+96)  
+Checkpoint B
+97)  
+Checkpoint C
+98)  
+By loading this checkpoint, you will delete any further progress in this save slot. Are you sure you want to proceed?
+99)  
+STATS
+100)  
+How to play text.
+101)  
+Gameplay Settings
+102)  
+GAMEPLAY SETTINGS
+103)  
+SUBTITLES
+104)  
+DOTS
+106)  
+Downloading
+107)  
+Connecting to Xbox Live
+108)  
+Connecting...
+109)  
+You have already purchased this episode. To download, go to your Xbox home and go to Settings, Account, Download History.
+110)  
+SHOW SELECTABLES
+111)  
+EXIT GAME
+112)  
+Purchase failed. Please check your network connection and try again.
+113)  
+Unable to connect to server.
+114)  
+Download failed. Please check your network connection and try again.
+115)  
+101 DECISION 1 TITLE
+116)  
+102 DECISION 1 TITLE
+117)  
+103 DECISION 1 TITLE
+118)  
+104 DECISION 1 TITLE
+119)  
+105 DECISION 1 TITLE
+120)  
+101 DECISION 2 TITLE
+121)  
+102 DECISION 2 TITLE
+122)  
+103 DECISION 2 TITLE
+123)  
+104 DECISION 2 TITLE
+124)  
+105 DECISION 2 TITLE
+125)  
+101 DECISION 3 TITLE
+126)  
+102 DECISION 3 TITLE
+127)  
+103 DECISION 3 TITLE
+128)  
+104 DECISION 3 TITLE
+129)  
+105 DECISION 3 TITLE
+130)  
+101 DECISION 4 TITLE
+131)  
+102 DECISION 4 TITLE
+132)  
+103 DECISION 4 TITLE
+133)  
+104 DECISION 4 TITLE
+134)  
+105 DECISION 4 TITLE
+135)  
+101 DECISION 5 TITLE
+136)  
+102 DECISION 5 TITLE
+137)  
+103 DECISION 5 TITLE
+138)  
+104 DECISION 5 TITLE
+139)  
+105 DECISION 5 TITLE
+140)  
+101 DECISION 1 DESC
+141)  
+102 DECISION 1 DESC
+142)  
+103 DECISION 1 DESC
+143)  
+104 DECISION 1 DESC
+144)  
+105 DECISION 1 DESC
+145)  
+101 DECISION 2 DESC
+146)  
+102 DECISION 2 DESC
+147)  
+103 DECISION 2 DESC
+148)  
+104 DECISION 2 DESC
+149)  
+105 DECISION 2 DESC
+150)  
+101 DECISION 3 DESC
+151)  
+102 DECISION 3 DESC
+152)  
+103 DECISION 3 DESC
+153)  
+104 DECISION 3 DESC
+154)  
+105 DECISION 3 DESC
+155)  
+101 DECISION 4 DESC
+156)  
+102 DECISION 4 DESC
+157)  
+103 DECISION 4 DESC
+158)  
+104 DECISION 4 DESC
+159)  
+105 DECISION 4 DESC
+160)  
+101 DECISION 5 DESC
+161)  
+102 DECISION 5 DESC
+162)  
+103 DECISION 5 DESC
+163)  
+104 DECISION 5 DESC
+164)  
+105 DECISION 5 DESC
+165)  
+101 DECISION 1 RESULT 1
+166)  
+102 DECISION 1 RESULT 1
+167)  
+103 DECISION 1 RESULT 1
+168)  
+104 DECISION 1 RESULT 1
+169)  
+105 DECISION 1 RESULT 1
+170)  
+101 DECISION 1 RESULT 2
+171)  
+102 DECISION 1 RESULT 2
+172)  
+103 DECISION 1 RESULT 2
+173)  
+104 DECISION 1 RESULT 2
+174)  
+105 DECISION 1 RESULT 2
+175)  
+101 DECISION 2 RESULT 1
+176)  
+102 DECISION 2 RESULT 1
+177)  
+103 DECISION 2 RESULT 1
+178)  
+104 DECISION 2 RESULT 1
+179)  
+105 DECISION 2 RESULT 1
+180)  
+101 DECISION 2 RESULT 2
+181)  
+102 DECISION 2 RESULT 2
+182)  
+103 DECISION 2 RESULT 2
+183)  
+104 DECISION 2 RESULT 2
+184)  
+105 DECISION 2 RESULT 2
+185)  
+101 DECISION 3 RESULT 1
+186)  
+102 DECISION 3 RESULT 1
+187)  
+103 DECISION 3 RESULT 1
+188)  
+104 DECISION 3 RESULT 1
+189)  
+105 DECISION 3 RESULT 1
+190)  
+101 DECISION 3 RESULT 2
+191)  
+102 DECISION 3 RESULT 2
+192)  
+103 DECISION 3 RESULT 2
+193)  
+104 DECISION 3 RESULT 2
+194)  
+105 DECISION 3 RESULT 2
+195)  
+101 DECISION 4 RESULT 1
+196)  
+102 DECISION 4 RESULT 1
+197)  
+103 DECISION 4 RESULT 1
+198)  
+104 DECISION 4 RESULT 1
+199)  
+105 DECISION 4 RESULT 1
+200)  
+101 DECISION 4 RESULT 2
+201)  
+102 DECISION 4 RESULT 2
+202)  
+103 DECISION 4 RESULT 2
+203)  
+104 DECISION 4 RESULT 2
+204)  
+105 DECISION 4 RESULT 2
+205)  
+101 DECISION 5 RESULT 1
+206)  
+102 DECISION 5 RESULT 1
+207)  
+103 DECISION 5 RESULT 1
+208)  
+104 DECISION 5 RESULT 1
+209)  
+105 DECISION 5 RESULT 1
+210)  
+101 DECISION 5 RESULT 2
+211)  
+102 DECISION 5 RESULT 2
+212)  
+103 DECISION 5 RESULT 2
+213)  
+104 DECISION 5 RESULT 2
+214)  
+105 DECISION 5 RESULT 2
+215)  
+You and
+216)  
+of players
+217)  
+Warning: Any progress since your last checkpoint will be lost! Are you sure you want to continue?
+218)  
+CANCEL
+220)  
+COMING SOON
+221)  
+Any progress since last autosave will be lost. Are you sure you want to exit the game?
+241)  
+Any progress since last autosave will be lost. Are you sure you want to exit the game?
+222)  
+STANDARD:
+223)  
+MINIMAL:
+224)  
+More help from UI and feedback
+when you make important choices.
+225)  
+Minimal UI hints and help.
+226)  
+CHOOSE A DISPLAY STYLE
+227)  
+Use          to move Lee and explore the world.
+
+          will aim the reticle and allow you to interact with the things you see.
+
+Push        ,        ,        , and        to choose actions or replies and occasionally blow a zombie's head off.
+228)  
+STORY NOTIFICATIONS
+229)  
+RETICLE FACEBUTTONS
+230)  
+You must be signed into a profile in order to access this feature.
+256)  
+You must be signed into a profile in order to access this feature.
+231)  
+You must have an internet connection to access this feature.
+232)  
+BUY SEASON PASS
+233)  
+SEASON PURCHASED
+234)  
+SHOW CONTROLLER BUTTONS
+235)  
+TROPHIES
+236)  
+Refreshing Episode Status.
+238)  
+Settings can be changed later in the Help & Options menu.
+239)  
+Your console can't connect to Xbox LIVE. Please connect to Xbox LIVE to access this feature.
+240)  
+You must be signed into PlayStation   Network in order to access this feature.
+255)  
+You must be signed into PlayStation   Network in order to access this feature.
+242)  
+DETECT SELECTABLES
+243)  
+Since this game apapts to your choices, rewinding will delete any progress made after the check point, but retain any decisions made prior to the checkpoint.
+
+Do you want to rewind to this checkpoint?
+244)  
+This game apapts to your choices. 
+
+Rewinding will delete any progress made after this check point, but retain any decisions made prior to this checkpoint.
+
+Do you want to rewind to this checkpoint?
+245)  
+Rewinding will delete any progress made after this point, but retain progress made up to this point.
+
+Do you want to rewind to this checkpoint?
+247)  
+BRIGHTNESS
+248)  
+AUDIOVISUAL
+249)  
+AUDIOVISUAL SETTINGS
+250)  
+(Includes exclusive premium theme)
+251)  
+Turn off UI hints, help, and
+choice notification.
+252)  
+PRESS START
+253)  
+CLICK TO CONTINUE
+254)  
+Online service is disabled on your PlayStation   Network account due to parental control restrictions.
+257)  
+Do you want to keep this new resolution? Old settings will be reverted in 10 seconds.
+258)  
+Settings can be changed later under the Gameplay category.
+259)  
+TAP TO BEGIN
+260)  
+MOUSE SENSITIVITY
+261)  
+BUY GAME
+262)  
+Your Telltale account does not currently have a license for this game. Would you like to go to the Telltale Games website to purchase the game now?
+263)  
+The Telltale account you entered is not authorized to run this game. You may attempt to re-enter the login information for an account that owns the game, or visit the Telltale website to authorize this account by purchasing a copy.
+264)  
+Unable to establish a connection to the Telltale servers to verify the ownership status of this account. Please ensure that you have an active internet connection.
+265)  
+Re-enter Info
+266)  
+Visit Website
+267)  
+Retry
+268)  
+Exit to Start Screen
+269)  
+Cancel
+270)  
+Unknown error occurred! Please restart the application and try again.
+271)  
+The content was downloaded, but an error occurred while trying to install it. Please restart the application and try again.
+272)  
+Connection lost while downloading data. Please ensure you have a working internet connection and re-attempt the download.

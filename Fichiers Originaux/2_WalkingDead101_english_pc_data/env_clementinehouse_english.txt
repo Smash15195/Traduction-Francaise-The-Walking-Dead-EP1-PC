@@ -1,0 +1,440 @@
+1)  LEE
+{thinkingB} ...Hello?
+2)  CLEMENTINE
+[Walkie-Talkie processed] Are you alive?
+3)  ACTION
+pickup
+4)  LEE
+{happyA} Yeah, I'm alive.
+5)  LEE
+{happyA} I'm not a monster.
+6)  LEE
+{normalC} Who is this?
+7)  LEE
+{sadA} Are you ok?
+8)  LEE
+...
+9)  CLEMENTINE
+[Walkie-Talkie processed] Me too.
+10)  LEE
+[a little charmed by Clementine] {happyB} Good.
+11)  CLEMENTINE
+[Walkie-Talkie processed] [relieved] Good.
+12)  CLEMENTINE
+[Walkie-talkie processed] You're not my daddy.
+104)  CLEMENTINE
+[Walkie-talkie processed] You're not my daddy.
+139)  CLEMENTINE
+[Walkie-talkie processed] You're not my daddy.
+13)  LEE
+{sadC} No, I'm not.
+102)  LEE
+{sadC} No, I'm not.
+140)  LEE
+{sadC} No, I'm not.
+14)  LEE
+{happyA} Hi, Clementine. I'm Lee.
+105)  LEE
+{happyA} Hi, Clementine. I'm Lee.
+138)  LEE
+{happyA} Hi, Clementine. I'm Lee.
+15)  CLEMENTINE
+[Walkie-talkie processed] I'm Clementine. This is my house.
+103)  CLEMENTINE
+[Walkie-talkie processed] I'm Clementine. This is my house.
+137)  CLEMENTINE
+[Walkie-talkie processed] I'm Clementine. This is my house.
+16)  CLEMENTINE
+[Walkie-talkie processed] I'm ok. They tried to get me. But I'm hiding until my parents come home.
+17)  CLEMENTINE
+[Walkie-talkie processed] Hello? Did they get you?
+188)  CLEMENTINE
+[Walkie-talkie processed] Hello? Did they get you?
+195)  CLEMENTINE
+[Walkie-talkie processed] Hello? Did they get you?
+199)  CLEMENTINE
+[Walkie-talkie processed] Hello? Did they get you?
+18)  LEE
+[conjoiner] I'm sorry, I'm here.
+19)  LEE
+[conjoiner] I'm sorry, I'm here.
+20)  LEE
+[conjoiner] I'm sorry, I'm here.
+21)  LEE
+[conjoiner] {normalB} I'm sorry, I'm here.
+187)  LEE
+[conjoiner] {normalB} I'm sorry, I'm here.
+194)  LEE
+[conjoiner] {normalB} I'm sorry, I'm here.
+200)  LEE
+[conjoiner] {normalB} I'm sorry, I'm here.
+22)  CLEMENTINE
+[Walkie-talkie processed] [sad] Please don't go.
+189)  CLEMENTINE
+[Walkie-talkie processed] [sad] Please don't go.
+196)  CLEMENTINE
+[Walkie-talkie processed] [sad] Please don't go.
+201)  CLEMENTINE
+[Walkie-talkie processed] [sad] Please don't go.
+23)  CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Are you dead too?
+190)  CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Are you dead too?
+197)  CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Are you dead too?
+202)  CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Are you dead too?
+24)  CLEMENTINE
+[Walkie-talkie processed] [very sad] Hello?...
+191)  CLEMENTINE
+[Walkie-talkie processed] [very sad] Hello?...
+198)  CLEMENTINE
+[Walkie-talkie processed] [very sad] Hello?...
+203)  CLEMENTINE
+[Walkie-talkie processed] [very sad] Hello?...
+25)  LEE
+No, I'm not.
+26)  LEE
+What's your name?
+48)  
+What's your name?
+193)  
+What's your name?
+209)  
+What's your name?
+27)  CLEMENTINE
+[Walkie-talkie processed] I'm Clementine.
+28)  CLEMENTINE
+[Walkie-talkie processed] You're not my dad.
+29)  LEE
+{happyA} That's smart.
+43)  LEE
+{happyA} That's smart.
+30)  CLEMENTINE
+[Walkie-talkie processed] I'm outside in my treehouse. They can't get in.
+45)  CLEMENTINE
+[Walkie-talkie processed] I'm outside in my treehouse. They can't get in.
+31)  CLEMENTINE
+[Walkie-talkie processed] See?
+46)  CLEMENTINE
+[Walkie-talkie processed] See?
+32)  LEE
+{thinkingB} Where are you?
+33)  CLEMENTINE
+[Walkie-talkie processed] Can you see me? I can see you through the window.
+42)  CLEMENTINE
+[Walkie-talkie processed] Can you see me? I can see you through the window.
+34)  CLEMENTINE
+[Walkie-talkie processed] They took a trip and left me with Sandra. They're in Savannah, I think. Where the boats are.
+35)  LEE
+{sadB} Where are your parents?
+36)  CLEMENTINE
+[Walkie-talkie processed] [sad] Yes. I don't know where anybody is.
+134)  CLEMENTINE
+[Walkie-talkie processed] [sad] Yes. I don't know where anybody is.
+143)  CLEMENTINE
+[Walkie-talkie processed] [sad] Yes. I don't know where anybody is.
+37)  CLEMENTINE
+[Walkie-talkie processed] Eight.
+131)  CLEMENTINE
+[Walkie-talkie processed] Eight.
+145)  CLEMENTINE
+[Walkie-talkie processed] Eight.
+38)  LEE
+And you're all alone?
+130)  LEE
+And you're all alone?
+39)  LEE
+How old are you?
+53)  
+How old are you?
+129)  LEE
+How old are you?
+192)  
+How old are you?
+210)  
+How old are you?
+40)  CLEMENTINE
+[Walkie-talkie processed] I don't know. A few nights. I'm ok, though. I just want my mom and dad to come home.
+41)  LEE
+[semi to himself] {thinkingB} Maybe we can find them or something.
+44)  LEE
+{fearA} Are you safe?
+47)  
+Yeah, I'm alive.
+49)  
+Are you ok?
+51)  
+Where are you?
+55)  
+Where are you?
+52)  
+Where are your parents?
+54)  
+Are you safe?
+56)  
+Who is this?
+57)  
+I'm not a monster.
+58)  CLEMENTINE
+[Walkie-talkie processed] AHHHH!
+179)  CLEMENTINE
+[Walkie-talkie processed] AHHHH!
+59)  ZOMBIE
+[Groannn]
+178)  ZOMBIE
+[Groannn]
+60)  LEE
+[looking at a bunch of blood on the ground] {sadC} Jesus...
+61)  LEE
+[slips, hurts leg] {fearD} AHH!
+62)  LEE
+[hits grounds, linoleum] {DisgustB} UGH.
+63)  LEE
+What the hell is going on?...
+64)  ACTION
+hit with plate
+75)  ACTION
+hit with plate
+65)  ACTION
+hit with vase
+66)  ACTION
+hit with vase
+70)  ACTION
+hit with vase
+67)  LEE
+[shoving a zombie] Ruh!
+68)  ZOMBIE
+[Hiss] Grahhh!
+69)  LEE
+[hitting a zombie with a hammer] AH!
+73)  LEE
+[hitting a zombie with a hammer] AH!
+71)  ACTION
+push
+72)  ACTION
+hit with hammer
+74)  ACTION
+hit with jar
+76)  ACTION
+hit with bottle
+77)  CLEMENTINE
+[Walkie-Talkie processed] Daddy?
+156)  CLEMENTINE
+[Walkie-Talkie processed] Daddy?
+78)  LEE
+[Heard something, a child] {surpriseA} Huh?
+79)  LEE
+[Heard something, a child] {surpriseA} Huh?
+80)  LEE
+[Heard something, a child] {surpriseA} Huh?
+157)  LEE
+[Heard something, a child] {surpriseA} Huh?
+81)  LEE
+[Heard something, a child]{surpriseA} Huh?
+82)  CLEMENTINE
+Daddy, is that you?
+83)  CLEMENTINE
+[Walkie-Talkie processed] [Upset, on the verge of tears] Please, Daddy, I'm all alone.
+84)  CLEMENTINE
+[Walkie-Talkie processed] [Talking to her Dad on a walkie talkie] Come back... I miss you...
+85)  HINT
+Use answering machine
+86)  LEE
+{thinkingB} What's that beeping?
+87)  LEE
+Maybe I should check those messages.
+88)  ACTION
+drink
+89)  LEE
+[Drinks a glass of water fast, dying of thirst] {happyB} Ah...
+90)  ITEMS TO DEFEND YOURSELF INCLUDE
+Bottles, Plates, Bowls and a Vase
+Alas, the zombie eventually grabs you and she is on-top of you -- snarling and snapping, thick bile and blood dripping from her mouth and into your eyes. She is going to bite you soon and then it will all be over.
+You hear the SLIDING GLASS DOOR OPENS. You attention is drawn to CLEMENTINE IN THE DOORWAY. She is holding a HAMMER.
+91)  ACTION
+Look
+92)  LEE
+That'll stop this thing.
+93)  ACTION
+Use
+186)  
+Use
+94)  ACTION
+open
+95)  LEE
+{angryA} This place has been ransacked. Just about anything worthwhile is gone.
+96)  ACTION
+look (at mess)
+97)  ANSWERING MACHINE LADY
+There are THREE new messages.
+98)  LEE
+{fearA} These people might need more help than I do.
+99)  LEE
+{sadA} Ahh, shit. {thinkingB} Hello? I'm not an intruder... {sadA} or one of THEM.
+100)  LEE
+{thinkingA} All right, so there's shit going on in Savannah. {sadA} I wonder if Macon got hit too.
+101)  MOM
+Clementine? Baby, if you can hear this, call the police. That's 9-1-1. We love you… we love you…we love y-
+106)  LEE
+I'm 37.
+133)  LEE
+I'm 37.
+107)  CLEMENTINE
+[Walkie-talkie processed] Ok.
+135)  CLEMENTINE
+[Walkie-talkie processed] Ok.
+146)  CLEMENTINE
+[Walkie-talkie processed] Ok.
+108)  CLEMENTINE
+[Walkie-talkie processed] How old are you?
+132)  CLEMENTINE
+[Walkie-talkie processed] How old are you?
+144)  CLEMENTINE
+[Walkie-talkie processed] How old are you?
+109)  LEE
+[grabbing a weapon with a zombie ontop of you] {fearC} AH!
+110)  LEE
+[zombie chasing you] {fearB} Get away!
+174)  LEE
+[zombie chasing you] {fearB} Get away!
+111)  LEE
+[pushing away a zombie] {fearC} AHH!
+173)  LEE
+[pushing away a zombie] {fearC} AHH!
+112)  LEE
+[yelling at a zombie in the face] {fearD} AHHHHH!
+149)  LEE
+[yelling at a zombie in the face] {fearD} AHHHHH!
+113)  LEE
+[kicking a zombie] {fearC} Get the--GET--BACK!
+175)  LEE
+[kicking a zombie] {fearC} Get the--GET--BACK!
+114)  LEE
+[wince1]
+115)  LEE
+[wince4]
+116)  LEE
+[wince5]
+117)  LEE
+[wince3]
+118)  LEE
+[wince2]
+119)  LEE
+[talking to himself] {thinkingA} What the hell could this be? {fearB} Maybe madcow and then riots or looting?
+120)  LEE
+[talking to himself] {surpriseA} Maybe we were invaded... {thinkingB} or a biological weapon attack.
+121)  LEE
+[talking to himself] {sadC} Someone bled like hell in here...
+122)  LEE
+{disgustA} Or maybe people finally got fed-up with cuts to public education and took to the streets. {sadA} Yeah...and those guys in the forest were just Neo-Cons.
+123)  LEE
+{fearA} RARH!! [hitting a zombie with a hammer]
+124)  LEE
+{angryB} AHH!! [hit zombie again]
+125)  LEE
+{angryA} HMMPH [pulling a hammer out of a zombie's head]
+126)  LEE
+{angryB} RAHH! [hitting a zombie with a hammer]
+152)  LEE
+{angryB} RAHH! [hitting a zombie with a hammer]
+127)  LEE
+[heavy, relieved, panicked, HOLY SHIT THAT JUST HAPPENED breathing] {sadC}
+128)  LEE
+{angryC} AHHHHH! [huge swing of a hammer into a zombie's head]
+136)  LEE
+{normalC} What's your name?
+141)  LEE
+{normalC} I'm uhh… 37.
+142)  LEE
+{sadC} How old are you?
+147)  LEE
+{fearB} And you're all alone?
+148)  LEE
+{thinkingA} Hmm... The Marsh House. That's a Savannah area-code. {sadA} But that's the type of note you'd leave a babysitter...
+150)  LEE
+[to himself] {thinkingA} Maybe there's something on there.
+151)  CLEMENTINE
+[pickup1] You need to be quiet.
+153)  LEE
+308404250
+154)  LEE
+[angry yell, attacking something 2]
+155)  LEE
+[pickup1] Hmm... cable's out.
+158)  
+Answering Machine
+159)  
+Pool of Blood
+160)  
+Glass Bottle
+161)  
+Drawer
+162)  
+Cabinet
+163)  
+Cup of Water
+164)  
+Glass Jar
+165)  
+Note
+166)  
+Plate
+167)  
+Vase
+168)  LEE
+[sounds of Lee whincing1]
+169)  LEE
+[a bunch of sounds of Lee whincing2]
+170)  LEE
+[a bunch of sounds of Lee whincing3]
+171)  LEE
+[a bunch of sounds of Lee whincing4]
+172)  LEE
+[a bunch of sounds of Lee whincing5]
+176)  CLEMENTINE
+I found something!
+177)  CLEMENTINE
+[pickup1][trepedacious] Here...
+180)  LEE
+[pickup3] It's fake. Damn.
+181)  LEE
+[pickup3]This whole neighborhood is deserted… What the hell?
+182)  LEE
+[pickup3]Furniture overturned… blood everywhere… Jesus…
+183)  LEE
+[pickup3] God, a kid lived here...
+184)  
+Television
+185)  
+Look At
+204)  
+Bowl of Fruit
+205)  
+Bookshelf
+206)  
+Kid's Paintings
+207)  
+Windows
+208)  
+Coloring Book
+211)  LEE
+[to himself] Maybe there is something on there.
+212)  LEE
+Something went down in Savannah, too. I hope Macon's all right.
+213)  ANSWERING MACHINE
+Three new messages.
+214)  ANSWERING MACHINE
+Message one. Left at five-forty-three p.m.
+215)  MOM
+Hey, Sandra, this is Diana. We're still in Savannah. Ed had a little 'incident' with some crazy guy near the hotel, so we had to get him back to the ER and have it checked out. Anyway, he's not feeling well enough to drive back tonight, so we're staying an extra day. Thanks so much for looking after Clementine, and I promise we'll be back in time before your spring break!
+216)  ANSWERING MACHINE
+Message two. Left at eleven-nine-teen p.m.
+217)  MOM
+Oh my God, finally! I don't know if you've tried to reach us; all the calls are getting dropped. They're not letting us leave and aren't telling us anything about Atlanta. Please, please, just leave the city and take Clementine with you back to Marietta. I've got to get back to the hospital. Please let me know that you're safe.
+218)  ANSWERING MACHINE
+Message three. Left at six-fifty-one a.m.
+219)  MOM
+Clementine? Baby, if you can hear this, call the police. That's 911. We will always love y-
+220)  ANSWERING MACHINE
+No new messages.

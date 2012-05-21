@@ -1,0 +1,340 @@
+1)  LEE
+{HappyA}{body-A}How are we doing?
+2)  LEE
+{HappyA}{body-C}Hey, guys.
+3)  LEE
+{ThinkingA}Yeah?
+4)  KENNY
+{SadB}{Body-StandB}Back on Hershel's farm...
+5)  KENNY
+{SadA}{Body-StandA}Lee, you got a second?
+6)  LEE
+{NormalA}{body-A}Sure.
+7)  KENNY
+{SadB}I panicked, you know. {FearB}I'm not proud of it.
+8)  LEE
+{SadA}{body-E}It happens.
+9)  
+It happens.
+10)  LEE
+{AngryA}{body-E}You let that boy die.
+11)  
+You let that kid die.
+12)  KENNY
+{SadB}I guess.
+13)  LEE
+[distant] {fearA}Yeah, that's...rough.
+14)  KENNY
+{AngryA}I killed that boy. {AngryB}We could've saved him together.
+15)  KENNY
+{SadA}I guess, {FearA}but I can't stop seeing him in my head.
+33)  KENNY
+{SadA}I guess, {FearA}but I can't stop seeing him in my head.
+16)  LEE
+{AngryA}You didn't have a choice.
+17)  
+Console?
+39)  
+Console?
+18)  
+Leave him be.
+41)  
+Leave him be.
+19)  LEE
+{FearA}Try to let it go.
+40)  LEE
+{FearA}Try to let it go.
+20)  KENNY
+[torn up] {FearC}That's what I keep thinking...{FearA}I keep seeing his face.
+44)  KENNY
+[torn up] {FearC}That's what I keep thinking...{FearA}I keep seeing his face.
+21)  KENNY
+[torn up] {SadB}I know, man. I know...
+43)  KENNY
+[torn up] {SadB}I know, man. I know...
+22)  LEE
+{sadA}What would it have taken? {AngryA}You free Duck, you clear your head, {AngryB}and we get that tractor off his leg.
+23)  LEE
+{AngryB}{body-e}Good. You should. {angryB}We need to be able to count on one another.
+46)  LEE
+{AngryB}{body-e}Good. You should. {angryB}We need to be able to count on one another.
+24)  KENNY
+{SadA}I mean, it's my fault, right?{FearA} I should've helped.
+[reshow choices]
+133)  KENNY
+{SadA}I mean, it's my fault, right?{FearA} I should've helped.
+[reshow choices]
+136)  KENNY
+{SadA}I mean, it's my fault, right?{FearA} I should've helped.
+[reshow choices]
+25)  KENNY
+{SadA}Come on, give me something. {SadB}The guilt's killing me.
+[reshow choices]
+134)  KENNY
+{SadA}Come on, give me something. {SadB}The guilt's killing me.
+[reshow choices]
+137)  KENNY
+{SadA}Come on, give me something. {SadB}The guilt's killing me.
+[reshow choices]
+26)  KENNY
+{AngryB}Fine. You're the fucking hero. {AngryC}You tried. {AngryB}Fine.
+135)  KENNY
+{AngryB}Fine. You're the fucking hero. {AngryC}You tried. {AngryB}Fine.
+138)  KENNY
+{AngryB}Fine. You're the fucking hero. {AngryC}You tried. {AngryB}Fine.
+27)  KENNY
+We didn't even try to save him. That blood is on our hands, you know?
+28)  
+It happened pretty fast.
+29)  LEE
+{SadB}{body-C}It happened pretty fast.
+30)  
+We let that boy die.
+31)  LEE
+{FearA}{body-B}We let that boy die.
+32)  
+Silence
+34)  LEE
+{FearA}We can't kill ourselves over it.
+35)  KENNY
+{AngryA}WE killed that boy. {AngryB}We could've saved him together.
+36)  LEE
+{AngryA}We did what we could. {ThinkingA}Bad things happen. {SadB}We didn't make a choice that killed Shawn.
+37)  LEE
+You think you do, when you think back on it. {AngryB}But in a moment? When things are really out of control? {AngryA}You don't have any choice.
+42)  LEE
+You think you do, when you think back on it. {AngryB}But in a moment? When things are really out of control? {AngryA}You don't have any choice.
+38)  KENNY
+{SadA}I guess.
+45)  LEE
+{SadB}It wouldn't have taken much.
+47)  
+Ignore?
+48)  
+Berate?
+49)  LEE
+[very stern]{AngryA} What else is there to do?
+50)  LEE
+{DisgustA}{Body-E}[disgust] Hmph.
+51)  KENNY
+{FearA}Man, look at me. {FearB}I don't know if I can carry this.
+52)  
+How's Duck doing?
+53)  KATJAA
+{NormalB}He's ok, {SadA}it was just a shock.
+54)  LEE
+{SadA}{body-E}How's Duck doing?
+55)  LEE
+{HappyA}No kidding.
+56)  KENNY
+{AngryA}We're lucky as hell nobody got nabbed on the way in here.
+57)  KATJAA
+{NormalC}How's she doing?
+58)  LEE
+{SadA}{body-C}She's good, I think.
+59)  LEE
+{ThinkingB}{body-E}Well, her family's dead, so uh...
+60)  LEE
+{AngryA}{body-E}How should I know?
+61)  
+She's good, I think.
+62)  
+Her family is dead.
+63)  
+How should I know?
+64)  KENNY
+{HappyA}Not just any little girl can do that.
+65)  LEE
+{NormalA}That's right.
+66)  KENNY
+{FearA}She's a tough one, right there.
+67)  KATJAA
+{AngryA}She's just a little girl, Ken.
+71)  KATJAA
+{AngryA}She's just a little girl, Ken.
+68)  KENNY
+{ThinkingA}What you were sayin, Lee, she spent {SurprisedA}days surviving {ThinkingA}on her own?
+69)  KATJAA
+{AngryA}But you have no idea what sort of {AngryB}emotional damage is happening to her {SadA}every second her family is gone.
+70)  KATJAA
+{FearA}That's awful, Lee.
+72)  KENNY
+{SadA}Yeah, well... [he has a point]
+73)  KENNY
+{ThinkingA}Lee says she spent days on her own. {HappyA}That takes toughness.
+74)  KENNY
+{HappyA}She seems to be handling herself all right.
+75)  KATJAA
+{AngryB}Well, you'd ask her.
+76)  LEE
+{AngryA}I'm just trying to do the best I can.
+83)  LEE
+{AngryA}I'm just trying to do the best I can.
+77)  KATJAA
+{FearA}You are all she's got. {SadA}And from the looks of it,{ThinkingA} that's a two-way street.
+81)  KATJAA
+{FearA}You are all she's got. {SadA}And from the looks of it,{ThinkingA} that's a two-way street.
+78)  KENNY
+{AngryA}Katjaa, give the guy a break...
+84)  KENNY
+{AngryA}Katjaa, give the guy a break...
+79)  KATJAA
+{AngryB}No, Ken. We don't know how long this is going to last. {AngryA}That girl needs someone to be there for her and from the looks of it, {ThinkingA}Lee could use the same.
+82)  KATJAA
+{AngryB}No, Ken. We don't know how long this is going to last. {AngryA}That girl needs someone to be there for her and from the looks of it, {ThinkingA}Lee could use the same.
+80)  KATJAA
+{AngryA}Well someone ought to ask her.
+85)  
+What's the plan?
+86)  LEE
+{FearA}{body-B}That's right.
+87)  KATJAA
+{ThinkingA}Where are they? {FearA}Should we go looking for them?
+88)  KENNY
+{SadB}Hang tight, I suppose. {FearA}Seems pretty dangerous out there, so {SadA}we oughta wait for things to clear up.
+89)  KATJAA
+{ThinkingB}You said your family was from here in Macon?
+90)  LEE
+{ThinkingA}{body-A}What's the plan?
+91)  
+I don't know.
+92)  
+They're gone.
+93)  
+They owned this place.
+94)  LEE
+{SadB}{body-A}I don't know.
+95)  LEE
+{SadC}{body-E}They're...gone.
+107)  LEE
+{SadC}{body-E}They're...gone.
+96)  LEE
+{SadB}{body-A}They owned this place.
+97)  KATJAA
+{ThinkingA}Well, {SadA}wouldn't they be at their house or somewhere like that?
+98)  KATJAA
+{FearA}Well you just don't know.
+99)  LEE
+{FearB}{body-C}I... I'm not sure they made it. We passed some houses on the way in... and... {SadA}things are pretty bad here.
+100)  KENNY
+{AngryB}Kat, it's not our business.
+103)  KENNY
+{AngryB}Kat, it's not our business.
+101)  LEE
+{AngryC}I just know, all right?
+102)  KATJAA
+{FearB}Oh my goodness, {SadA}do you think? {SadB}How?
+104)  LEE
+{SadC}They pulled some bodies out of the office before we got here.
+105)  LEE
+They were good people. {SadA}I wasn't around much, but yeah, {SadC}they're dead.
+106)  KENNY
+{SadB}Kat...
+108)  KATJAA
+[hearbroken for the players loss] {SadB}Oh sweetie...
+109)  KENNY
+{SadA}I'm sure wherever they are, {HappyA}they're doing better than we are. [gives Lee a knowing look].
+110)  KENNY
+{AngryA}Kat, it's not our business.
+111)  
+Are you guys all right?
+113)  
+Are you guys all right?
+112)  LEE
+{NormalD}{body-A}Are you guys all right?
+114)  LEE
+{HappyA}How about you, Duck?
+115)  KENNY
+{NormalC}We're just fine, {HappyA}considering.
+116)  KATJAA
+{SadA}We've all been through a lot.
+117)  
+Leave
+118)  KENNY
+{ThinkingA}Hmmph. {AngryA}Take your time.
+119)  LEE
+{ThinkingB}{body-B}Better get back to getting this guy's medicine.
+120)  LEE
+{AngryA}All right then.
+121)  LEE
+{NormalC}You got it.
+122)  KENNY
+{thinkingA}If you don't mind, {SadA}I think my family and I are gonna rest for a bit. {ThinkingA}Let me know if that {angryA}asshole over there {thinkingA}takes a turn for the worse.
+123)  KENNY
+{HappyA}I know, hon.
+124)  KATJAA
+{FearA}We can't let anything happen to Ducky.
+125)  KENNY
+{FearA}We'll do our damndest.
+126)  KATJAA
+{SadA}We just need to get back to Fort Lauderdale.
+127)  KATJAA
+{AngryA}How can I with those {FearA}things out there?
+128)  KENNY
+{NormalA}Try to get some rest, hon.
+129)  LEE
+{SadA}It's not much, but here.
+130)  LEE
+{HappyA}For the boy.
+131)  KENNY
+{HappyB}Aw, thanks Lee. He appreciates it.
+132)  KATJAA
+{HappyA}That's sweet, Lee.
+139)  KENNY
+[pickup1] Fine, fuck it.
+140)  KATJAA
+[pickup1] {happyA}Thank you, Lee.
+148)  KATJAA
+[pickup1] {happyA}Thank you, Lee.
+141)  KENNY
+[pickup1] {thinkingA}Says the guy who didn't get punched in the mouth.
+142)  KENNY
+[pickup1] {happyA}Anyway, we, Kat and I, appreciate your support.
+145)  KENNY
+[pickup1] {happyA}Anyway, we, Kat and I, appreciate your support.
+143)  KENNY
+[pickup1] {angryA}Hey Lee; maybe punching him wasn't such a good idea.
+144)  LEE
+[pickup1]{disgustA} [conversational] There were worse plans.
+146)  LEE
+[pickup1] {angryA}Yeah. We got {surpriseA}pushed, you know.
+147)  KENNY
+[pickup1] You don't have to tell me; I was ready to tear the man's head off.
+149)  KENNY
+[pickup1] {surprisedA}Hey Lee; you really gave that old man hell.
+150)  KATJAA
+[pickup1] {fearB}What if...he...{sadA}it's ok Lee.
+151)  KENNY
+[pickup1] {surprisedA}From here on out {angryA}Lee, I need to know that you're on my side.
+152)  LEE
+[pickup1] {fearB}I'm sorry, Katjaa.
+153)  KATJAA
+[pickup1] {angryB}Stop that, Kenny. We were all frightened. Even I thought {sadA}that maybe, [getting emotional]maybe we were going to lose our boy.
+154)  KATJAA
+[pickup1]{angryA}[stopping him from getting angry at lee] Kenny...
+155)  KENNY
+[pickup1] {angryB}Don't even come over here.
+156)  KENNY
+[pickup1] No, Kat. This {angryC}son of a bitch would've let that man feed our son to the wolves.
+157)  
+I am.
+158)  
+No.
+159)  KENNY
+[pickup1] {thinkingA}Good. Thank you.
+160)  LEE
+[pickup1] {surpriseA}Yeah, I am;{fearA} of course.
+161)  KENNY
+[pickup1] {angryA}Fine. Forget it then.
+162)  KATJAA
+[pickup1] {thinkingA}Kenny, Lee's a good man. And we're all still strangers here.
+163)  KENNY
+[pickup1] {thinkingA}I guess you're right, hon. Anyway, {angryA}Lee, what was it?
+164)  LEE
+[pickup1] {angryA}It's not that simple.
+165)  KENNY
+[pickup1]{angryB}[sigh, begrudingly agreeing]
+166)  
+Talk to
+167)  
+Give Food to

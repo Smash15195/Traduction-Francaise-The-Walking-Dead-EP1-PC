@@ -1,0 +1,256 @@
+1)  LEE
+[la jambe cassée, traînant son corps le long de la banquette arrière d'une voiture]
+2)  LEE
+[lee boite tout du long, en prenant appui sur une jambe cassée]
+3)  LEE
+[Lee glisse et tombe, tombant sur le flan, la jambe envahie par la douleur]
+4)  LEE
+[Lee se traîne jusqu'à une colline pourchassé par des zombies, paniqué et le souffle court]
+5)  LEE
+[Lee se précipite en boitant loin des zombies et glisse puis tombe]Ahh !
+6)  LEE
+[Lee se précipite en boitant loin des zombies et glisse puis tombe]Pouah !
+7)  LEE
+[Lee se précipite en boitant loin des zombies et glisse puis tombe]Merde !
+8)  LEE
+[Lee se précipite en boitant loin des zombies et glisse puis tombe]
+9)  LEE
+Hé ! Hé officier ! Vous allez bien ?! Je suis toujours menotté ici, venez !
+10)  LEE
+OFFICIER ! [à lui-même] Ca sent pas bon. Il semble pas avoir été éjecté de la voiture...
+11)  LEE
+Il ne bouge pas.
+12)  LEE
+Officier ?
+13)  LEE
+Bordel de...
+14)  LEE
+Merde, ma jambe.
+15)  LEE
+[Déplaçant votre jambe meurtrie] Ahh !
+16)  LEE
+[Se réveillant après un accident de voiture] Humph...[respirant profondément] Ohh... merde.
+17)  LEE
+[Patraque, émergeant après avoir été assommé] …envie de boire.
+18)  LEE
+[Premier zombie que vous avez jamais vu vous s'approche] Qu'est-ce que c'est qu'ce truc ?!
+19)  LEE
+[Premier zombie que vous avez jamais vu vous s'approche] Quel genre de truc êtes-vous ?!?
+20)  LEE
+[Premier zombie que vous avez jamais vu vous s'approche] Qu'est-ce qui se passe ?! Qu'est-ce qui S'EST PASSÉ ??!
+21)  LEE
+{FearB}Vous êtes mort ?... {angryC}HÉ! VOUS ÊTES MORT ? [inspectant le premier zombie jamais vu]
+22)  LEE
+{fearB}Sa peau toutes pourrie... et {SadC}il pue la merde. Qu'est-ce {fearB}que c'est que ça ?
+23)  LEE
+Il doit avoir les clés des menottes sur lui.
+24)  LEE
+J'ai besoin de ces clés.
+25)  LEE
+Je vais en avoir besoin.
+26)  LEE
+Officier ! J'ai besoin de ces clés.
+27)  LEE
+Bon, voici les clés des menottes. Génial.
+28)  LEE
+Officier... nous avons eu un accident.
+29)  ZOMBIE
+Guhhh...
+30)  LEE
+Je vais aller chercher de l'aide--
+31)  LEE
+[Première fois qu'un zombie vous saute dessus] Putain de merde !
+32)  LEE
+[Tombant sur le cul] Uhh !
+33)  LEE
+[Le zombie rampe vers vous et vous reculez]  Ahh !
+34)  LEE
+{fearC}Éloignez-vous de moi !
+35)  LEE
+{fearB}Qu'est-ce que vous êtes ?
+36)  LEE
+{fearB}Arrêtez ! {angryB}Reculez !
+37)  LEE
+Ugh!
+77)  LEE
+Ugh!
+79)  LEE
+Ugh!
+38)  LEE
+[Frappant du pied la fenêtre] Ugh !
+69)  LEE
+[Frappant du pied la fenêtre] Ugh !
+70)  LEE
+[Frappant du pied la fenêtre] Ugh !
+71)  LEE
+[Frappant du pied la fenêtre] Ugh !
+39)  LEE
+[Glisse et chute sur le sol] Ahh !
+40)  LEE
+[Essayant de sortir de la fenêtre de la voiture] Ugh !
+41)  LEE
+[Atterrissage au sol sur une jambe cassée] Uhh--AHHHH !!!
+42)  LEE
+[examinant le fusil a pompe] Il a pas l'air chargé.
+43)  LEE
+Il sera plus facile à manipuler sans ces menottes.
+44)  LEE
+{normalD}Le fusil à pompe de l'agent est là-bas.
+45)  LEE
+{sadA}Pourquoi il aurait eu {angryA}besoin de ça ?
+46)  LEE
+Ne me faites pas faire ça...
+47)  LEE
+[La respiration haletante] …bon sang.
+48)  LEE
+[Respirant profondément]
+49)  LEE
+Non non...foutez le camp...
+50)  LEE
+[Crie de douleur, mordu par un zombie] AHHHHHHH !
+51)  LEE
+BON SANG !
+52)  LEE
+Oh mon Dieu...
+53)  LEE
+AU SECOURS ! Y'a quelqu'un ! Il y- Il y a eu une fusillade !
+54)  LEE
+{angryA}Pourquoi son arme est-elle sortie ?
+55)  LEE
+{thinkingB}Peut-être a été éjecté {fearA}de la voiture durant les tonneaux ?
+56)  LEE
+Faut passer au-dessus de cette clôture !
+57)  LEE
+Espérons que ces choses ne peuvent pas grimper...
+58)  LEE
+{thinkingA}Je ferais mieux d'enlever ces menottes {sadA}avant de partir chercher de l'aide.
+59)  LEE
+{angryA}Je pense que les clés sont sur ce flic.
+60)  LEE
+Hmmph. Bon sang.
+61)  LEE
+J'ai besoin d'enlever ces maudites choses.
+62)  LEE
+Je ne veux pas les revoir à nouveau.
+63)  LEE
+Je dois partir.
+114)  LEE
+Je dois partir.
+64)  LEE
+Ahh! Bon sang !
+115)  LEE
+Ahh! Bon sang !
+65)  LEE
+[serrant les dents] DEBOUT.
+116)  LEE
+[serrant les dents] DEBOUT.
+66)  LEE
+[serrant les dents] MERDE !
+117)  LEE
+[serrant les dents] MERDE !
+67)  LEE
+[Boitant autour de la voiture de flic, cherchant l'équilibre avec une jambe cassée]
+68)  LEE
+[Partant loin du flic zombie dans la panique]
+72)  LEE
+Il y a une pièce de la voiture là-bas... c'est mieux qu'un morceau de moi.
+73)  LEE
+[regarde un morceau de l'épave -- un ordinateur portable cassé de la police et des papiers de la boîte à gants ]
+74)  LEE
+[fatigué, exaspéré] Merde.
+75)  LEE
+[le zombie se réveille] Hein, officier ?...
+76)  LEE
+[lève les yeux vers la rambarde cassé, au sommet de la pente d'où la voiture est tombé]
+78)  LEE
+[Donnat un dernier coups de pied sur la fenêtre, sautant par la vitre] Argh !
+80)  LEE
+Oh, c'est la merde partout.
+81)  LEE
+Argh, c'est raide. Je ne vais pas être en mesure de revenir à la route chercher de l'aide. Merde.
+82)  
+Vitre
+83)  
+Flic
+84)  
+Clés
+85)  
+Fusil à Pompe
+86)  
+Chevrotine
+87)  
+Clôture
+88)  
+Menottes
+89)  
+Décombres
+90)  
+Rambarde
+91)  
+Tirer
+97)  
+Tirer
+92)  
+Regarder
+94)  
+Regarder
+98)  
+Regarder
+100)  
+Regarder
+105)  
+Regarder
+106)  
+Regarder
+108)  
+Regarder
+109)  
+Regarder
+111)  
+Regarder
+113)  
+Regarder
+125)  
+Regarder
+93)  
+Prendre Clés De
+95)  
+Prendre Clés De
+96)  
+Prendre Clés De
+99)  
+Prendre
+126)  
+Prendre
+127)  
+Prendre
+101)  
+Grimper
+102)  
+Grimper
+103)  
+Coup de pied
+104)  
+Sortir
+121)  
+Sortir
+107)  
+Déverrouiller
+110)  
+Ramasser
+112)  
+Ramasser
+118)  
+Colline
+119)  LEE
+{sadB}[Souffrant] J'ai besoin de… m'extirper par cette fenêtre…
+128)  LEE
+{sadB}[Souffrant] J'ai besoin de… m'extirper par cette fenêtre…
+120)  
+Regarder
+122)  
+Fillette
+123)  
+Crier à
+124)  
+Personnage Mystérieux

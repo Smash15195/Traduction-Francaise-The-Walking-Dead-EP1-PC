@@ -1,0 +1,2143 @@
+1)  KENNY
+{AngryA}With this alarm going{ThinkingA} off, we don't have much time {DisgustA}until every zombie in Macon {AngryA}is on our doorstep. {NormalA}I'm going to get the truck pulled up around back.
+2)  LILLY
+{AngryB}Do it fast, {FearA}	I've got to get my dad out of here.
+3)  KENNY
+{HappyB}I don't plan on dilly-dallying.
+4)  KENNY
+{NormalB}Honey, take Duck into the office and {AngryB}barricade the living hell out of the door behind me. {ThinkingA}Glenn, when you hear me honking in the alley, {NormalB}start getting people out of here.
+5)  GLENN
+{FearA}You got it.
+6)  KENNY
+{HappyA}Doug, Carley and Lee, {NormalB}you guys make sure our defenses {NormalC}stay up til then.
+7)  KENNY
+[To player] {ThinkingA}Your little girl going to be all right?
+8)  LEE
+{HappyA}Definitely.{HappyC} Clementine can handle it.
+9)  KENNY
+{DisgustA}Shit.
+10)  DOUG
+{FearB}The door's not locked.
+11)  KENNY
+{AngryA}Get on it! {NormalB}I'll be back as fast as I can.
+12)  GLENN
+Lee, come hold the door!
+13)  GLENN
+We can't let 'em get in!
+14)  CARLEY
+Get the lead out and get over here!
+15)  CARLEY
+Little help here!
+16)  DOUG
+Come on!
+17)  DOUG
+We've got to hold this door until Ken comes back!
+18)  GLENN
+[Exerting self 1]
+20)  DOUG
+[Exerting self 1]
+22)  CARLEY
+[Exerting self 1]
+19)  GLENN
+[Exerting self 2]
+21)  DOUG
+[Exerting self 2]
+23)  CARLEY
+[Exerting self 2]
+24)  GLENN
+[Exerting self 3]
+25)  DOUG
+[Exerting self 3]
+26)  CARLEY
+[Exerting self 3]
+27)  DOUG
+{FearC}I don't know if those boards are going to last for too long...
+28)  CARLEY
+[Exerting herself] {NormalC}We can hold the door. {AngryC}Get over there and{AngryD} make sure they don't get through!
+29)  DOUG
+[Mustering the courage] {ThinkingA}Ok.
+30)  GLENN
+I'll go see what's wrong. You'll be ok?
+31)  LEE
+[Exerting himself to hold the door closed] Yeah.
+32)  KATJAA
+[from the other room] Glenn… GLENN, HELP!
+33)  KENNY
+{SadA}And Lee, {NormalA}I better take that axe, {FearB}in case I run into any of them on the way to my truck.
+34)  LEE
+{SadA}Here you go.
+35)  KATJAA
+GLENN! GLENN, HELP!
+36)  GLENN
+{FearB}	Shit shit shit! I... {FearC}I gotta go!
+37)  DOUG
+{FearC}Lee, {FearD}we can't hold this alone!
+38)  GLENN
+I'm sorry, guys.
+39)  DOUG
+{FearD}We can't hold this by ourselves!
+40)  CLEMENTINE
+AHHHH!
+41)  CARLEY
+[focused, stern] {AngryB}On it.
+42)  LEE
+Are you sure?
+43)  LEE
+Ok then...
+44)  DOUG
+{FearC}They're breaking through! {FearD}THEY'RE BREAKING THROUGH, LEE! HELP ME! MY GOD, I NEED YOUR HELP!
+45)  CARLEY
+LEE...I'm running out of bullets! The magazine is on the floor! HELP!
+46)  CARLEY
+[Big exhale, like 'phew'] {HappyD}Thanks.
+47)  DOUG
+{FearD}AHHHHHH!
+48)  CLEMENTINE
+{FearD}AHHH! [Zombies have grabbed a friend].
+49)  DOUG
+{FearD}Ah, no!! GET 'EM OFF ME!
+50)  DOUG
+[Lots of screaming, being eaten alive]
+51)  CARLEY
+{FearB}Oh my god... [A friend is being eaten]
+52)  DOUG
+[Relieved] {SadA}Oh man, thanks.
+53)  CARLEY
+{AngryD}Shit! I'm out! {FearD}There's too many -
+54)  CLEMENTINE
+{FearD}AHHHHHHH! [Zombies have grabbed a friend.]
+55)  DOUG
+{FearD}OH SHIT OH SHIT OH SHIT!
+56)  CARLEY
+[Lots of screaming, being eaten alive].
+57)  DOUG
+{FearD}Holy... [a friend has just been eaten]
+58)  KENNY
+{AngryB}Let's GO!
+59)  DOUG
+They got Carley!
+60)  LARRY
+It doesn't matter, you've gotta MOVE.
+61)  DOUG
+{FearC}	They got Carley!
+62)  LARRY
+{AngryA}It doesn't matter, {AngryB}you've gotta MOVE.
+64)  LARRY
+{AngryA}It doesn't matter, {AngryB}you've gotta MOVE.
+63)  CARLEY
+{SadA}They got Doug... {FearB}They...they...
+65)  LARRY
+This son of a bitch isn't coming with us.
+66)  CLEMENTINE
+No! [Watching Lee, who is essentially her father, get hurt badly]
+67)  CLEMENTINE
+{FearA}For the door!
+68)  CLEMENTINE
+{FearB}[gasp!]
+69)  LEE
+[under duress] {FearB}Maybe we can bar these doors!
+70)  LEE
+[under duress]{FearB} Look around for something to put in-between these handles!
+71)  LEE
+[under duress, to self] {NormalD}That should be heavy enough to hold those things back.
+72)  LEE
+[under duress] {AngryA}How well are those windows boarded up?
+73)  DOUG
+[under duress] {FearB}Eh, you know.
+74)  LEE
+[under duress][stern] {AngryC}NO. I don't, actually.
+75)  LEE
+{NormalD}Stay away from the windows.
+76)  CLEMENTINE
+{FearA}Ok.
+77)  LEE
+You ok?
+78)  CLEMENTINE
+[Earnest] {FearB}They need help!
+79)  LEE
+Clementine! Can you look for something to stick in-between the handles! Something real strong, ok?!
+80)  CLEMENTINE
+LEE: You ok?
+81)  CLEMENTINE
+[Earnest] They need help
+Ok!
+82)  CLEMENTINE
+[under duress] {FearB}Ok!
+83)  LEE
+Find anything?
+84)  CLEMENTINE
+{FearB}I'm looking!
+85)  CLEMENTINE
+{HappyB}I found something!
+86)  LEE
+Bring it here!
+87)  GLENN
+{AngryA}Lee, come hold the door!
+88)  GLENN
+{FearB}	We can't let them get in!
+89)  GLENN
+There must be a hundred of 'em!
+90)  LEE
+I thought you said "we got this."
+91)  LEE
+Be careful!
+92)  CARLEY
+{AngryC}Little help here!
+93)  CARLEY
+{AngryD}Get the lead out and get over here!
+94)  CARLEY
+{FearB}These things don't stop...
+95)  CARLEY
+{AngryB}Kenny better hurry.
+96)  LEE
+You good?
+97)  CARLEY
+{NormalB}As long as I've got bullets.
+98)  CARLEY
+{AngryD}Lee, these bullets won't last forever!
+99)  CARLEY
+{FearC}My clips are out of reach!
+100)  DOUG
+{AngryA}Come on!
+101)  DOUG
+{AngryA}Help us!
+102)  DOUG
+[Holding off zombies] {FearB}Oh man, oh man...
+103)  DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+104)  DOUG
+{FearB}The boards are coming loose, {FearC}I can't do this!
+105)  LARRY
+{DisgustA}You're not coming with us, {AngryD}you son of a bitch!
+106)  CARLEY
+IN! EVERYONE IN! Is that your entire crew?
+107)  LEE
+Yeah, that's everyone.
+108)  LEE
+Um, I think so.
+109)  LILLY
+[hushed, angry] We can't take risks like this!
+695)  LILLY
+[hushed, angry] We can't take risks like this!
+110)  CARLEY
+[hushed, terse] And we can't just let people die, either.
+696)  CARLEY
+[hushed, terse] And we can't just let people die, either.
+111)  LARRY
+[hushed, angry] Son of a bitch, one of them is bitten!
+714)  LARRY
+[hushed, angry] Son of a bitch, one of them is bitten!
+112)  LEE
+He wasn't bitten.
+145)  
+He wasn't bitten.
+715)  
+He wasn't bitten.
+716)  LEE
+He wasn't bitten.
+113)  LEE
+Shit.
+718)  LEE
+Shit.
+114)  LARRY
+[hushed, angry] We have to end this, now.
+784)  LARRY
+[hushed, angry] We have to end this, now.
+115)  KENNY
+[hushed, angry] Over my dead body.
+783)  KENNY
+[hushed, angry] Over my dead body.
+116)  LARRY
+We'll dig one hole.
+785)  LARRY
+We'll dig one hole.
+786)  LARRY
+We'll dig one hole.
+117)  CLEMENTINE
+Lee, I have to pee.
+118)  LEE
+In a minute, Clem.
+733)  LEE
+In a minute, Clem.
+119)  LEE
+[I have to pee] Then just go.
+735)  LEE
+[I have to pee] Then just go.
+120)  KENNY
+[angry] Get AWAY from us.
+121)  LILLY
+[hushed] Dad! Relax.
+122)  KENNY
+[hushed, angry] Listen to your daughter.
+123)  CARLEY
+[hushed, hurried] Dammit.
+124)  GLENN
+Whoopsy...
+125)  LILLY
+Shh!
+126)  CARLEY
+[hushed] We're trying to find batteries for this radio - we need to know what's going on.
+127)  LEE
+[hushed] That's a good idea.
+128)  LEE
+[hushed, angry] Just keep it down!
+129)  LARRY
+[hushed, angry] And YOU. Shut the fuck up. They will find us and they will get in here, and none of this will fucking matter.
+810)  LARRY
+[hushed, angry] And YOU. Shut the fuck up. They will find us and they will get in here, and none of this will fucking matter.
+130)  LARRY
+Lilly, I'll handle this.
+131)  LILLY
+[hushed, sheepish] But your heart, dad. You need to calm down.
+132)  KENNY
+[hushed, angry] The hell you will.
+133)  LILLY
+[hushed] Look around you. You're not the only people in here.
+134)  KATJAA
+[utterly panicked but hushed as not to attract the horde] {fearA}My baby! Ducky, duck, honey, close your eyes. {sadb}Keep your mouth closed too, darling. {fearB}Baby did get it in your eyes? Is it in your mouth? {sadA}Were you bitten? {fearA}Oh, did it scratch you? {sadB}Do you have any cuts? {fearA}Baby, please, baby, look at me! {fearB}Nononono, keep your eyes closed baby, it's ok.
+135)  LEE
+[high stress, quiet] Katjaa?
+136)  LEE
+This should help clean him up.
+137)  LEE
+This should help clean him up.
+138)  LEE
+This should help clean him up.
+173)  LEE
+This should help clean him up.
+175)  LEE
+This should help clean him up.
+659)  LEE
+This should help clean him up.
+139)  LEE
+Was he bitten?
+142)  
+Was he bitten?
+160)  
+Was he bitten?
+163)  LEE
+Was he bitten?
+140)  KATJAA
+{fearA}{alias 308285580} [panicked] I don't think so. He's ok, {fearB}he has to be.
+162)  KATJAA
+{fearA}{alias 308285580} [panicked] I don't think so. He's ok, {fearB}he has to be.
+141)  LEE
+Get him cleaned up.
+161)  LEE
+Get him cleaned up.
+143)  
+That's everyone.
+144)  
+Uh...I think so?
+146)  
+Oh shit.
+717)  
+Oh shit.
+147)  
+In a minute.
+732)  
+In a minute.
+148)  
+Just go.
+734)  
+Just go.
+149)  
+Good idea.
+496)  LEE
+Good idea.
+150)  
+Keep it down.
+151)  
+How can I help?
+152)  LEE
+Can I help clean him up?
+166)  LEE
+Can I help clean him up?
+153)  KATJAA
+[panicked] {fearA}Please, {happyd}yes, that'd be great. {fearA}A bottle of water, a rag, anything.
+165)  KATJAA
+[panicked] {fearA}Please, {happyd}yes, that'd be great. {fearA}A bottle of water, a rag, anything.
+154)  
+It'll be ok.
+167)  
+It'll be ok.
+155)  LEE
+Just take care of him. Don't listen to them. Focus on cleaning up your boy.
+168)  LEE
+Just take care of him. Don't listen to them. Focus on cleaning up your boy.
+156)  KATJAA
+{fearB}Please, don't let things get out of hand.
+169)  KATJAA
+{fearB}Please, don't let things get out of hand.
+157)  LEE
+Ok.
+170)  LEE
+Ok.
+519)  CLEMENTINE
+Ok.
+158)  LEE
+I'll see if I can find anything to clean him up.
+172)  LEE
+I'll see if I can find anything to clean him up.
+159)  
+Exit
+171)  
+Exit
+1045)  
+Exit
+164)  
+This should help.
+174)  KATJAA
+{happyc}[panicked] Ah, god, thank you.
+176)  KATJAA
+{happyc}[panicked] Oh, god, thank you.
+660)  KATJAA
+{happyc}[panicked] Oh, god, thank you.
+177)  KATJAA
+[panicked, to herself]{FearA} It's ok baby, it'll be ok.
+178)  DUCK
+[panicked, in tears] {fearc}Mom, I'm not a zombie,{fearA} I'm not.
+179)  KATJAA
+{fearA}[panicked, to herself] I've got you, honey.
+180)  DUCK
+[duck is panicked, in tears and cries] [Duck sobs quietly, panicked.]
+181)  KATJAA
+{fearA}[panicked, hushed] Do you hurt, baby? {fearB}Anywhere?
+182)  DUCK
+[panicked, in tears] {fearA}No, I don't know, {fearB}mom, I'm scared!
+183)  LEE
+Some water or a rag would do some good.
+184)  LEE
+Some water or a rag would do some good.
+185)  KATJAA
+[hushed, panicked, excited] {fearB}No, he's not bitten! Look! {happyc}Look, he's clean! Not a scratch!
+892)  KATJAA
+[hushed, panicked, excited] {fearB}No, he's not bitten! Look! {happyc}Look, he's clean! Not a scratch!
+186)  KENNY
+[hushed, vitriolic] {happyB}Not a goddamn scratch, {angryB}what do you think about that... [doesn't know the guy's name]
+893)  KENNY
+[hushed, vitriolic] {happyB}Not a goddamn scratch, {angryB}what do you think about that... [doesn't know the guy's name]
+187)  LARRY
+{normalC}It's Larry. {disgustA}And I'm fucking sorry.
+894)  LARRY
+{normalC}It's Larry. {disgustA}And I'm fucking sorry.
+188)  KENNY
+Good.
+326)  KENNY
+Good.
+895)  KENNY
+Good.
+920)  KENNY
+Good.
+189)  LILLY
+{normalB}Look, we're fish in a barrel here. {thinkingA}With all the commotion we could be under siege any minute.
+896)  LILLY
+{normalB}Look, we're fish in a barrel here. {thinkingA}With all the commotion we could be under siege any minute.
+190)  LARRY
+Then we better start fortifying this place. I'll start with the window over there.
+191)  KENNY
+I'll barricade that other one.
+192)  LEE
+Are you sure he's not bitten? Look at him.
+193)  KATJAA
+{fearB}[panicked, hushed] He's just in shock.
+194)  LEE
+I don't know anything
+195)  LEE
+He's either in shock or their blood does things we don't know about.
+196)  KATJAA
+{angryd}[upset, hushed] He's fine! {sadb}He has to be.
+197)  LEE
+We gotta get this shit off of him.
+198)  KATJAA
+{fearB}I know, I know!
+199)  KENNY
+[hushed, angry] Get the fuck back. LARRY: [hushed, angry] Get that kid out of here. KENNY: [hushed, angry] That kid is my son. LARRY: [hushed, angry] You're son's about to be a walking corpse. KENNY: [hushed, angry] He wasn't bitten, now just stand back.  LARRY: [hushed, angry] You're going to get us all killed. KENNY: Walk away, asshole. LARRY: [hushed, angry] We're finishing that kid as soon as he turns. KENNY: I said walk away. LARRY: [hushed, angry] You're not bringing a victim in here with my daughter. KENNY: [hushed, angry] You're not going near my son. IDLE FIGHT: LARRY: [hushed, angry] We'll use force. KENNY: [hushed, angry] I'll whoop your old ass. LARRY: [hushed, angry] Fuck you. KENNY: [hushed, angry] You want that? LARRY: [hushed, angry] I killed tougher kids than you in the war. KENNY: [hushed, angry] Killing another one makes you tough? LARRY: [hushed, angry] You son of a bitch. KENNY: [hushed, angry] Fucking prick. LARRY: [hushed, angry] You're a dumb piece of shit. KENNY: [hushed, angry] A dumb piece of shit who will beat the life out of you. LARRY: [hushed, angry] Try it. KENNY: [hushed, angry] You're not laying a finger on my boy.))
+200)  KENNY
+{angryB}[hushed, angry] Get the fuck back.
+201)  LARRY
+{angryC}[hushed, angry] Get that kid out of here.
+202)  KENNY
+{angryB}[hushed, angry] That kid is my son.
+203)  LARRY
+{angryB}[hushed, angry] You're son's going to turn into one of THEM. {angryC}A...a...ZOMBIE.
+204)  KENNY
+{angryB}[hushed, angry] He wasn't bitten, now just stand back.
+205)  LARRY
+{angryB}[hushed, angry] You're going to get us all killed.
+206)  KENNY
+{angryB}Just walk away, asshole. This is a family matter.
+207)  LARRY
+{angryB}[hushed, angry] Your "family matter" became a {angryC}group matter when you ran in here. {angryA}We're finishing that kid as soon as he turns.
+208)  KENNY
+{angryB}I said walk away.
+209)  LARRY
+[hushed, angry] {angryB}I am not gonna let some punk keep a bite victim in the same room as my daughter.
+210)  LARRY
+{angryA}[hushed, angry] We'll use force.
+211)  KENNY
+{angryC}[hushed, angry] I'll kill you.
+212)  LARRY
+{angryB}[hushed, angry] Fuck you.
+213)  KENNY
+{angryB}[hushed, angry] You don't think I'll do it? {angryC}You don't think I could stop you from hurting a child?
+214)  LARRY
+{angryb}[hushed, angry] I've taken care of tougher pieces of shit than you. I was in wars, goddammit!
+215)  LARRY
+{angryC}[hushed, angry] You son of a bitch, I'm a patriot.
+216)  KENNY
+{angryB}[hushed, angry] You're a  prick.
+217)  LARRY
+{angryB}[hushed, angry] You're a worthless piece of shit.
+218)  KENNY
+{angryC}[hushed, angry] I will beat the life out of you if you go near my boy.
+219)  LARRY
+{angryB}[hushed, angry] Try it.
+220)  KENNY
+[hushed, angry] You're not laying a finger on my boy.
+221)  KENNY
+{angryC}[hushed, angry] You're not gonna touch my son, you hear me?
+222)  KENNY
+{angryB}[hushed, angry] Murdering a bunch of folks doesn't make you tough.
+223)  LARRY
+{angryC}[snarls] Stay out of this.
+224)  KENNY
+{angryB}[hushed, angry] I've got this, Lee.
+225)  LARRY
+{angryA}[snarls] Go away, {angryB}unless you're tossing this boy out of here.
+226)  KENNY
+{angryB}[hushed, angry] Tell this guy how it is, Lee.
+227)  LEE
+{fearA}Kenny, you gotta relax.
+228)  LEE
+It's Larry, right? Man, this is his son.
+817)  LEE
+It's Larry, right? Man, this is his son.
+229)  LEE
+Let the woman handle her son. You two go sit down and shut up.
+230)  LEE
+To hell with it.
+231)  
+Leave
+279)  
+Leave
+451)  
+Leave
+596)  
+Leave
+232)  
+Kenny, you gotta relax.
+233)  
+Larry, this is his son here.
+234)  
+Both of you chill out.
+235)  KENNY
+{angryB}Aw, go to hell, Lee. {angryC}This piece of shit's trying to kill my boy!
+236)  LARRY
+{angryA}He won't be your boy for long.
+237)  LEE
+{angryB}We don't need talk like that. Kenny, {angryA}keep your goddamn cool.
+238)  LARRY
+{angryB}Look around, dumbass. {angryA}I got a daughter in here, {angryC}YOU got a  daughter in here. Get your head out of your ass, boy.
+816)  LARRY
+{angryB}Look around, dumbass. {angryA}I got a daughter in here, {angryC}YOU got a  daughter in here. Get your head out of your ass, boy.
+239)  LEE
+We've all got people in here and we can figure this out without killing anybody. There's another way.
+818)  LEE
+We've all got people in here and we can figure this out without killing anybody. There's another way.
+240)  LARRY
+{angryA}Yeah, with a shovel.
+819)  LARRY
+{angryA}Yeah, with a shovel.
+241)  KENNY
+{angryB}That's my boy too, Lee. {angryC}And this son of a bitch is trying to kill him.
+242)  LARRY
+{angryA}He's already dead.
+243)  LEE
+There's a better way to deal with this, fellas.
+244)  LARRY
+{angryB}[steaming, to himself] I can't believe we're gonna just let that boy sit there until he starts eating us...
+245)  LILLY
+{sadA}Give them some space, dad.
+246)  LARRY
+{angryA}[steaming, to himself] We should've never let these bastards in here.
+247)  LILLY
+{fearA}I know dad, but {thinkinga}let's just deal with what's in front of us.
+248)  LARRY
+{angryB}[steaming, to himself]  I can't believe you just let this happen.
+249)  LILLY
+{fearA}Dad, they just {angrya}came in. Glenn went out there and--
+250)  LARRY
+{angryC}YOU should've stopped them.
+251)  LARRY
+{angryA}[steaming, to himself] As soon as that boy bites his mama, we gotta be ready.
+252)  LILLY
+{angryB}All right, dad. {disgustB}Ok.
+253)  LARRY
+{angryA}[steaming, to himself] We're a goddamn buffet for this kid! {angryb}We're trapped in here, {angryC}laid out like an appetizer platter.
+254)  LARRY
+[steaming, to himself]  {angryB}I'm not going to let some jackass talk to me like that.
+255)  LILLY
+{angryA}Knock it off!
+256)  LILLY
+{angryA}Dad! Stop! {fearA}Will someone separate these two?
+257)  KATJAA
+{fearB}Lee! Keep this man away from us!
+258)  KATJAA
+{fearB}Lee! Please do something!
+259)  LEE
+Just settle down. We just need to figure out if anything happened to the kid.
+820)  LEE
+Just settle down. We just need to figure out if anything happened to the kid.
+260)  
+Settle down.
+261)  LARRY
+{angryA}The moment we "settle down" is the moment that little shit starts chewing on people.
+822)  LARRY
+{angryA}The moment we "settle down" is the moment that little shit starts chewing on people.
+262)  KENNY
+{angryb}Look at him! He's in shock! {angryc}He's fine!
+823)  KENNY
+{angryb}Look at him! He's in shock! {angryc}He's fine!
+263)  LARRY
+{angryB}He's covered in blood! {angryC}There's no chance he's not fucked.
+821)  LARRY
+{angryB}He's covered in blood! {angryC}There's no chance he's not fucked.
+264)  LEE
+[angry, hushed] You two. [quieter, there's a kid around] Shut the fuck up.
+265)  LEE
+You both need to stop and we got to handle problems together.
+266)  LEE
+Or what, we're going to start beating on each other? That makes a ton of sense.
+267)  LARRY
+It does when there are lives on the line.
+268)  LARRY
+[furious, hushed] Step the fuck back.
+269)  LEE
+You want to start beating on both of us? Then head up onto the roof and let everything outside know we're in here, why don't you?
+270)  LARRY
+{angryB}[furious, hushed] You don't tell me to shut the fuck up. {angryC}I'll shut YOU up.
+271)  LEE
+I'm not letting this get to the point where you get ALL of us killed.
+272)  LARRY
+{angryB}[grumble] Just stay out of this.
+273)  LEE
+[forceful] Kenny, fucking think. Cooler heads, man. Ignore this guy and focus on your son.
+274)  
+Kenny! Think!
+275)  LEE
+[forceful] You need to STOP and let his man care for his son.
+276)  
+Larry! Walk away!
+277)  LEE
+I'll take on both of you if it means keeping this place safe. So shut up and keep it civil.
+278)  
+Both of you! Knock it off!
+280)  LEE
+Ah, to hell with
+281)  KENNY
+{angryB}This guy's a danger, Lee. I can't have someone like him near my family
+283)  KENNY
+{angryB}This guy's a danger, Lee. I can't have someone like him near my family
+282)  LARRY
+{angryC}Who the fuck do you think you are? You're not the leader, here.
+284)  LARRY
+{angryC}Who the fuck do you think you are? You're not the leader, here.
+285)  LEE
+[whisper] Guys. We are the men here. We need to keep our goddamn heads and keep the goddamn peace.
+286)  
+We need to act like men.
+287)  LEE
+Guys, we are the grown men here. We need to keep our heads and keep the goddamn peace.
+288)  LEE
+Guys, shut this down.
+289)  
+Shut this down.
+290)  LEE
+Kenny, you got your family, Larry, you got yours. And neither of them need to see you get the shit kicked out of yourself, or worse, in order to keep us all safe.
+291)  
+I will whoop both of you if you don't shut up.
+292)  KENNY
+{angryC}You both would do the same.
+293)  LEE
+Probably. Kenny, take care of your boy. Larry, go sit down.
+294)  LARRY
+{angryA}I agree. {angryC}So tell this man to stop thinking with his heart and use his damn brain.
+295)  LARRY
+{angryb}Fuck it. {happyB}Fine. You want to die, {angryC}I hope that little shit gets you first.
+299)  LARRY
+{angryb}Fuck it. {happyB}Fine. You want to die, {angryC}I hope that little shit gets you first.
+302)  LARRY
+{angryb}Fuck it. {happyB}Fine. You want to die, {angryC}I hope that little shit gets you first.
+296)  LARRY
+{angryB}Or else what?
+297)  KENNY
+Ah, screw you.
+298)  LARRY
+Fuck it. Fine. You want to die, I hope that little shit gets you first.
+300)  KENNY
+{thinkingA}[sarcastic] I thought you said we don't need violence.
+301)  LEE
+You're damn right we don't. We'll have those things swarming us if we're not careful.
+303)  KENNY
+[throwing a hefty punch] Ugh!
+905)  KENNY
+[throwing a hefty punch] Ugh!
+304)  KENNY
+[getting hit by a huge punch] Uhh!
+904)  KENNY
+[getting hit by a huge punch] Uhh!
+305)  LARRY
+[throwing a hefty punch] RRRAH!
+902)  LARRY
+[throwing a hefty punch] RRRAH!
+306)  LARRY
+[getting hit by a punch] Uhh!
+907)  LARRY
+[getting hit by a punch] Uhh!
+307)  GLENN
+{fearB}[panicked, super quiet] Oh man.
+906)  GLENN
+{fearB}[panicked, super quiet] Oh man.
+308)  LILLY
+{fearB}JESUS!
+903)  LILLY
+{fearB}JESUS!
+309)  LARRY
+{fearB}Jesus!
+310)  CLEMENTINE
+{fearD}[SCREAM!]
+311)  LEE
+{surpriseB}CLEMENTINE!
+312)  KATJAA
+{fearB}No!
+313)  LEE
+{angryD}Get away from her you son of a bitch!
+314)  CARLEY
+{thinkingA}You ok?
+315)  LEE
+{thinkingA}Just great, thanks.
+316)  LEE
+[zombie latched onto his front, teeth gnashing in his face] Ah, God, get...off...ugh...
+317)  LEE
+{surpriseA}[breaths heavily, it was a close call for him] Man...
+318)  KATJAA
+{fearB}Christ!
+319)  CLEMENTINE
+{fearD}[zombie has you] NO! LEE, HELP!
+320)  KATJAA
+Somebody DO something!
+321)  LEE
+{fearA}Are you ok?
+917)  LEE
+{fearA}Are you ok?
+322)  CLEMENTINE
+{fearA}Yeah. It almost got me.
+918)  CLEMENTINE
+{fearA}Yeah. It almost got me.
+323)  KENNY
+{thinkinga}But we didn't let that happen, did we?
+909)  KENNY
+{thinkinga}But we didn't let that happen, did we?
+324)  KENNY
+{happya}No worse for the wear, are ya sweetie? {angryA}We don't need to check you for cuts, bruises or ticks, do we?
+910)  KENNY
+{happya}No worse for the wear, are ya sweetie? {angryA}We don't need to check you for cuts, bruises or ticks, do we?
+325)  CLEMENTINE
+{sadA}[no] Mmhmm.
+921)  CLEMENTINE
+{sadA}[no] Mmhmm.
+327)  GLENN
+{fearA} Uh, guys...
+915)  GLENN
+{fearA} Uh, guys...
+328)  GLENN
+{fearB}That gunshot just rang the dinner bell. {feara}They're coming out of the woodwork.
+919)  GLENN
+{fearB}That gunshot just rang the dinner bell. {feara}They're coming out of the woodwork.
+329)  LILLY
+{ANGRYa}Goddammit.
+913)  LILLY
+{ANGRYa}Goddammit.
+330)  LARRY
+{angryC}[towards Carley] YOU STUPID BITCH! YOU---{fearB}AHHH! [has a heart attack]
+916)  LARRY
+{angryC}[towards Carley] YOU STUPID BITCH! YOU---{fearB}AHHH! [has a heart attack]
+331)  LILLY
+{fearB}DAD!
+914)  LILLY
+{fearB}DAD!
+332)  LARRY
+Arrr...ugh...pills, I need my pills.
+911)  LARRY
+Arrr...ugh...pills, I need my pills.
+333)  LILLY
+I don't have any...{angrya}we need to get into the pharmacy!
+912)  LILLY
+I don't have any...{angrya}we need to get into the pharmacy!
+334)  GLENN
+We better get this placed locked up on the double or it won't matter!
+645)  GLENN
+We better get this placed locked up on the double or it won't matter!
+646)  GLENN
+We better get this placed locked up on the double or it won't matter!
+335)  KENNY
+{angryA}You and this guy [Doug]hold the door -- the rest of us will get these windows boarded up over here and that window barricaded.
+336)  DOUG
+It's missing its lock!
+337)  KENNY
+Then let's find it! Move people!
+338)  KENNY
+{angryA}Then we better start fortifying this place. I'll work on getting that window barricaded.
+897)  KENNY
+{angryA}Then we better start fortifying this place. I'll work on getting that window barricaded.
+339)  LILLY
+Good. {sadA}Dad, sit down.
+898)  LILLY
+Good. {sadA}Dad, sit down.
+340)  LARRY
+{angryA}I'm FINE, Lilly.
+899)  LARRY
+{angryA}I'm FINE, Lilly.
+341)  LILLY
+Dad... please.
+900)  LILLY
+Dad... please.
+342)  LARRY
+{normalC}[begrudingly] All right.
+901)  LARRY
+{normalC}[begrudingly] All right.
+343)  DOUG
+{fearA}Hold the door. For how long?
+648)  DOUG
+{fearA}Hold the door. For how long?
+650)  DOUG
+{fearA}Hold the door. For how long?
+344)  KENNY
+For as long as you have to! Then we'll get Larry his medication. Lets move!
+647)  KENNY
+For as long as you have to! Then we'll get Larry his medication. Lets move!
+649)  KENNY
+For as long as you have to! Then we'll get Larry his medication. Lets move!
+345)  LEE
+{AngryB}They're tougher to kill up close like that.
+747)  LEE
+{AngryB}They're tougher to kill up close like that.
+346)  DOUG
+{AngryA}I guess.
+750)  DOUG
+{AngryA}I guess.
+347)  LEE
+{THinkingB}Sweet timing?
+746)  LEE
+{THinkingB}Sweet timing?
+348)  DOUG
+{FearA}You were taking your sweet time a bit, don't you think?
+756)  DOUG
+{FearA}You were taking your sweet time a bit, don't you think?
+349)  DOUG
+{FearC}Man, that was close.
+753)  DOUG
+{FearC}Man, that was close.
+350)  LEE
+{FearB}But we did it, that's all that matters.
+749)  LEE
+{FearB}But we did it, that's all that matters.
+351)  DOUG
+{NormalB}Lollygagging. You know. [awkward]{AngryA}Not doing something quickly.
+751)  DOUG
+{NormalB}Lollygagging. You know. [awkward]{AngryA}Not doing something quickly.
+352)  LEE
+{NormalD}But now we've got the keys to the office {HappyA}and we can take care of Larry.
+752)  LEE
+{NormalD}But now we've got the keys to the office {HappyA}and we can take care of Larry.
+353)  GLENN
+[over radio] Hey there, this is Glenn and uh, I'm kinda in a jam here.
+354)  GLENN
+[pickup1][over radio] Uh, little girl, if you're there, can you put your daddy on the phone? Or on the talkie, or whatever?
+355)  LEE
+{fearA}This is Lee, what's up?
+356)  GLENN
+So... I'm down at that motor inn and, well, I-I'm stuck.
+357)  LEE
+{SurpriseA}Stuck?
+358)  GLENN
+[pickup1]Yeah, I, uh, saw a chance to get some supplies for the group and a bunch of the roaming ones got the jump on me. I'm hiding over here but they won't leave.
+359)  LEE
+Shit, you sure?
+360)  GLENN
+Well I didn't order room service.
+361)  KENNY
+{FearA}What's up?
+362)  LEE
+{SadA}Glenn's trapped down at the motor inn.
+363)  LEE
+{FearB}Hey Glenn, we're gonna talk it over and send a group to come get you{fearA}, all right?
+364)  GLENN
+[over radio]  Phew, awesome. I'll sit tight 'til then.
+365)  LEE
+Sounds good.
+366)  LEE
+Let me know if he calls back, ok?
+367)  KENNY
+{SadA}What do you think?
+368)  LEE
+{AngryA}I think Doug's not great around zombies, and you've got your family here.{ThinkingA} I'll take Carley and her dead-eye down to the motor-inn, get Glenn, {ThinkingB}and get back here as fast as I can.
+369)  KENNY
+lf that's what you want to do...
+370)  LEE
+{AngryA}Somebody's got to.
+371)  CARLEY
+{NormalA}Yeah, I'm in.
+372)  LEE
+{NormalA}Good. {HappyA}It doesn't sound too bad there right now.
+373)  CARLEY
+{ThinkingA}Let me know as soon as you want to head out. {HappyA}I could use a jog.
+374)  DOUG
+Whoa! We're not going back out there; I didn't get the gate locked.
+375)  LEE
+Right.
+376)  LEE
+{ThinkingB}{body-b}These look as secure as they're gonna get.
+377)  LEE
+{ThinkingA}{body-b}These shelves weigh a ton. {DisgustA}{body-b}It should keep us safe for a while.
+378)  LEE
+[to himself] My dad used to keep all the cool stuff on the top shelf.
+379)  GLENN
+New guy! Maybe have a look at this?
+380)  GLENN
+Hey, can you help us with this?
+381)  CARLEY
+That guy's busy!
+382)  GLENN
+{fearA}I'm just sayin.
+383)  GLENN
+Hey, new guy!
+384)  KATJAA
+{fearA}Lee, can you help?!
+385)  KATJAA
+{fearB}Lee, what do you think?
+386)  KATJAA
+{fearB}Lee! Have a look at him, please?!
+387)  JAKE
+BUTTS BUTTS AND BUTTS
+388)  DOUG
+{ThinkingA}Military?
+389)  CARLEY
+{ThinkingA}Maybe, it's hard to say.
+390)  GLENN
+{FearA}Whatever it is, they're heading towards it. {ThinkingA}Some are sticking around, but are less interested in getting in here.
+391)  LILLY
+{thinkingA}Ok, we need to take care of my dad. {FearA}I was trying to get that rolldown door open when we got here, and it's not budging.
+392)  LEE
+{thinkingB}{body-A}There's probably another entrance. Maybe through the office.
+393)  
+Through the office.
+394)  LEE
+{thinkingB}{Body-C}We'll get in there somehow.
+395)  LEE
+{thinkingB}What are we looking for?
+396)  
+We'll do it somehow.
+397)  
+Looking for?
+398)  LEE
+{thinkingA}Educated guess.
+399)  LILLY
+{AngryA}It doesn't matter.
+400)  CARLEY
+{ThinkingA}How do you know that's an office?
+401)  LILLY
+{NormalA}We need nitroglycerin pills. {FearA}Please get in there. I'll keep an eye on my dad.
+402)  LILLY
+{HappyA}Thank you so much.
+403)  KENNY
+{ThinkingA}Everyone else should get comfy and look for anything useful. {NormalB}We could be in here a while.
+404)  LEE
+{ThinkingB}Agreed.
+405)  LEE
+{ThinkingA}What do you suggest?
+406)  GLENN
+[pickup1]We need as much gas as possible so we can ALL get out of downtown Macon. Fast.
+407)  KATJAA
+{AngryB}I don't know how we're going to get comfortable on this cold floor. {FearA}And how safe is this place anyway?
+408)  KENNY
+{FearA}You're right, this ain't exactly Ft. Knox.
+409)  GLENN
+[pickup1] I'm starting to think this drugstore isn't a permanent solution.
+410)  GLENN
+{NormalC}There's a motel not too far from here, {THinkingA}out towards the end of Peachtree. {NormalB}I'll work my way towards it and then loop back, siphoning what I can.
+411)  LEE
+{FearA}You're insane.
+412)  LEE
+{HappyA}Damn, that'd be great.
+413)  LEE
+{ThinkingA}You know your way around?
+414)  
+You're insane.
+415)  
+That'd be great.
+416)  
+You know your way around town?
+417)  GLENN
+{HappyA}Born and raised.
+421)  GLENN
+{HappyA}Born and raised.
+424)  GLENN
+{HappyA}Born and raised.
+418)  GLENN
+{AngryA}Well, it's gotta get done. Plus, I'm quick and I know Macon.
+420)  GLENN
+{AngryA}Well, it's gotta get done. Plus, I'm quick and I know Macon.
+419)  LEE
+{ThinkingB}Local?
+422)  LEE
+{ThinkingB}Local?
+423)  LEE
+{ThinkingB}Local?
+425)  LEE
+{NormalC}If you're going to do that, {thinkingA}here's a walkie-talkie if you get in a tight spot. {HappyA}Hopefully you won't need it.
+426)  GLENN
+{HappyA}Cool.
+427)  LEE
+Clementine's got the other one. {thinkingA}Check in with her and get back here as soon as you can.
+428)  KENNY
+{ThinkingA}And, you, what's your name?
+429)  LILLY
+[pickup1]It's Lilly. My dad's Larry.
+430)  KENNY
+{NormalB}Keep a good eye on him. {HappyA}These boys will work on getting you your medicine.
+431)  LEE
+{HappyA}That's right.
+432)  KENNY
+{THinkingA}And you, you keep an eye on that front door. {NormalB}You're our look-out.
+433)  DOUG
+{NormalA}It's Doug, {HappyA} you got it.
+434)  CARLEY
+{NormalA}And I'm Carley.
+435)  KENNY
+{ThinkingA}Ok, Carley, you'll shift in with Doug when he needs it. {NormalB}For now, get some rest - {HappyA}you're a good shot and I'd like to keep it that way.
+436)  CARLEY
+{NormalC}You got it boss.
+437)  CARLEY
+[searching] Come on... come on...
+438)  CARLEY
+[searching] Hmm.
+439)  GLENN
+[searching] Come on...somewhere...
+440)  GLENN
+[searching] Hmm...
+441)  CARLEY
+[searching] Hmm...
+442)  GLENN
+Found something! Wait, no...
+443)  CARLEY
+There's gotta be some here somewhere...
+444)  GLENN
+[searching] Ah, yes! Oh. No.
+445)  CARLEY
+[searching] Let's see...
+446)  LEE
+[to self] They're looking for batteries.
+447)  LEE
+[to self] Things are going to hell right in front of us and those two are worried about the news.
+448)  LEE
+[to self] She must be a reporter or some sort of reporter. And who knows what his deal is...
+449)  GLENN
+[keeping quiet] Not quite. We need a couple of D batteries for this radio. Want to help us out?
+450)  LEE
+[keeping quiet] Finding what you're looking for?
+452)  
+Sure.
+453)  
+Maybe we should focus on other things.
+454)  
+We've got bigger problems.
+455)  LEE
+[keeping quiet] Sure, I'll look around.
+456)  LEE
+[keeping quiet] Maybe we should focus on keeping this place safe.
+457)  LEE
+[keeping quiet] We've got bigger problems.
+458)  CARLEY
+{happyb}[keeping quiet] Great, thanks.
+459)  CARLEY
+[keeping quiet] Agreed.
+463)  CARLEY
+[keeping quiet] Agreed.
+460)  LEE
+[keeping quiet] Fine, just try to keep it down, we don't need to attract attention.
+464)  LEE
+[keeping quiet] Fine, just try to keep it down, we don't need to attract attention.
+461)  CARLEY
+[keeping quiet] {fearA}We need to know how big this thing is. Any nearby stations, {angrya}hell, the emergency broadcast system would be enough.
+462)  CARLEY
+[keeping quiet]{fearA}We don't know how big our problems are. {fearb}That's what I'm trying to find out. {angryA}Every second we don't know is a second we could be missing some information that will save our lives.
+465)  CARLEY
+{angryc}Whatever, jerk.
+466)  LEE
+[keeping quiet] Any luck?
+467)  GLENN
+[keeping quiet] None yet.
+468)  CARLEY
+{thinkingA}[keeping quiet] Found one. Need one more.
+469)  LEE
+Looks like they found some batteries.
+470)  CARLEY
+[keeping quiet] Maybe the batteries are dead. I don't know. I'm usually pretty good with this stuff.
+471)  LEE
+[keeping quiet] Get that radio to work yet?
+472)  LEE
+[keeping quiet] How about you?
+473)  CARLEY
+[asking the player because the other guy is a dope] You want to have a look?
+474)  GLENN
+[keeping quiet] I deliver pizza.
+475)  
+All right.
+485)  
+All right.
+476)  
+I should focus on the others.
+487)  
+I should focus on the others.
+477)  LEE
+[keeping quiet] All right.
+481)  CARLEY
+[keeping quiet] All right.
+486)  LEE
+[keeping quiet] All right.
+491)  CARLEY
+[keeping quiet] All right.
+478)  LEE
+[keeping quiet] I should focus on the others.
+488)  LEE
+[keeping quiet] I should focus on the others.
+479)  GLENN
+{thinkingB}[keeping quiet] Maybe we just have to take the whole thing apart?
+490)  GLENN
+{thinkingB}[keeping quiet] Maybe we just have to take the whole thing apart?
+480)  CARLEY
+{disgustB}Uhhhg... [keeping quiet, exasperated with Glenn]
+489)  CARLEY
+{disgustB}Uhhhg... [keeping quiet, exasperated with Glenn]
+482)  LEE
+How's it going?
+483)  GLENN
+Not great.
+484)  CARLEY
+Want to have a look?
+492)  CARLEY
+{happyD}You fixed it.
+493)  CARLEY
+{angryA}I'm going to see about securing this place.
+494)  LEE
+Wasn't going to say anything.
+495)  LEE
+Yeah, unfortunately.
+497)  GLENN
+Me too.
+498)  RADIOVOICE
+All citizens have been asked to secure themselves in their homes, reports that the military-
+499)  CARLEY
+{thinkingA}[embarrassed, terse] Shut up.
+500)  LEE
+Batteries were in backwards.
+501)  LEE
+Hmm. Nothing.
+502)  LILLY
+{fearB}SHIT! TURN THAT OFF! TURN IT OFF!
+503)  LEE
+There's nothing in here I need.
+504)  LEE
+There's nothing in here I need.
+505)  CLEMENTINE
+{fearA}Yeah.
+506)  LEE
+You have to go to the bathroom?
+507)  
+Go on in.
+512)  LEE
+Go on in.
+525)  LEE
+Go on in.
+508)  
+Can't you hold it?
+509)  
+What's stopping you?
+514)  LEE
+What's stopping you?
+510)  CLEMENTINE
+{normalB}Someone's in there.
+515)  CLEMENTINE
+{normalB}Someone's in there.
+511)  CLEMENTINE
+{thinkingA}Oh.
+517)  CLEMENTINE
+{thinkingA}Oh.
+513)  LEE
+It's just locked.
+516)  LEE
+It's just locked.
+518)  LEE
+You need to find a key. Check behind the counter.
+520)  LEE
+I guess the girl has to go. [to the bathroom]
+521)  LEE
+The keys should be back there somewhere.
+522)  LEE
+Well, keep poking around.
+523)  CLEMENTINE
+{sadA}Nope.
+524)  LEE
+The keys weren't in the drawer?
+526)  LEE
+Good, she found the bathroom keys.
+527)  CLEMENTINE
+{normalB}Keys for the bathroom. {sadA}I have to pee.
+528)  CLEMENTINE
+{normalC}Ok.
+529)  LEE
+What are you looking for?
+530)  LEE
+It's locked.
+531)  LEE
+I think the keys are back there somewhere.
+532)  CLEMENTINE
+{sada}I guess. {thinkinga}Or someone is taking a real long time.
+533)  LEE
+[to himself] We get this in front of that window over there and things'll be a bit safer.
+642)  LEE
+[to himself] We get this in front of that window over there and things'll be a bit safer.
+534)  LEE
+Lee grabs the bookshelf and shimmies it away from the wall.
+643)  LEE
+Lee grabs the bookshelf and shimmies it away from the wall.
+535)  LEE
+[pushing a heavy thing] Ugh!
+547)  KENNY
+[pushing a heavy thing] Ugh!
+536)  LEE
+[pushing a heavy thing]Oof!
+537)  LEE
+[pushing a heavy thing] Hrrmph!
+549)  KENNY
+[pushing a heavy thing] Hrrmph!
+538)  LEE
+[pushing a heavy thing]Urrg!
+539)  LEE
+[pushing a heavy thing] Hrrrg!
+540)  KENNY
+{angryA}There we go!
+541)  KENNY
+{happyB}Great, could use a hand!
+542)  KENNY
+Push!
+543)  KENNY
+{disgustA}This is a heavy sumbitch!
+544)  KENNY
+{disgustA}Ugh! Could use a hand!
+545)  KENNY
+{angryB}Lee! Little help!
+546)  KENNY
+{angryB}Someone help me out here!
+548)  KENNY
+[pushing a heavy thing] Oof!
+550)  KENNY
+[pushing a heavy thing] Arrrgh!
+551)  KENNY
+[pushing a heavy thing] Grrrhh!
+552)  LEE
+{angryA}That window won't keep 'em out!
+553)  LEE
+{angrya}This window's gonna go!
+554)  LEE
+That should hold for a while.
+555)  LEE
+{angryA}These window's could barely keep out teenagers, let alone a bunch of living corpses.
+556)  CARLEY
+{fearA}Get these boards up! You hammer, I'll hold!
+644)  CARLEY
+{fearA}Get these boards up! You hammer, I'll hold!
+557)  CARLEY
+{fearA}We don't have much time!
+558)  CARLEY
+{fearb}Let's go, let's go!
+559)  CARLEY
+{FearB}Get over here and help!
+560)  CARLEY
+{angryB}Come over here, jackass!
+561)  CARLEY
+{angryB}Quit dicking around and help me!
+562)  LEE
+I'll stay out here for now. Best to not go disappearing.
+563)  LEE
+[to himself] I'm needed out here.
+564)  LEE
+[pickup3]Heard or seen anything?
+565)  DOUG
+{NormalA}Nothing, luckily. {HappyA}Want to step outside, have a look around?
+566)  LEE
+{HappyA}Ha, I'm not suicidal yet.
+567)  DOUG
+{AngryA}No, the gate out there is closed. {HappyA}We can hang out in front of the store and be fine.
+568)  LEE
+{NormalA}Oh, {ThinkingA}huh.
+569)  
+Let's have a look around.
+574)  
+Let's have a look around.
+616)  
+Let's have a look around.
+570)  
+Not now.
+575)  
+Not now.
+619)  
+Not now.
+571)  LEE
+{AngryA}Agreed.
+572)  DOUG
+{HappyA}Cool, {AngryB}and... we'll keep it down. Don't need to bring 'em back this way with any unnecessary noises.
+573)  LEE
+{NormalB}Sure, let's go have a look around.
+576)  DOUG
+{ThinkingA}All right, let me know if you want to.
+577)  LEE
+{ThinkingB}Eh, not right now...
+578)  DOUG
+{HappyA}Ok.
+618)  DOUG
+{HappyA}Ok.
+579)  LEE
+{AngryA}Let's have a look around.
+617)  LEE
+{AngryA}Let's have a look around.
+580)  DOUG
+{AngryA}All right.
+620)  DOUG
+{AngryA}All right.
+581)  LEE
+{ThinkingB}Not now.
+621)  LEE
+{ThinkingB}Not now.
+582)  DOUG
+{NormalB}Good, {HappyA}want to go have a look around outside?
+583)  LEE
+{thinkingA}How are we doing?
+584)  LEE
+That's the gate that locks outside.
+585)  KENNY
+{angryA}I'm going to check in there and make sure there's not a back entrance that's vulnerable!
+586)  LEE
+{fearA}They're breaking through the glass!
+587)  LEE
+{angryB}We don't have much time left!
+588)  LEE
+{fearb}They're coming through!
+589)  CARLEY
+{normalB}There, we're good!
+590)  LEE
+Well done.
+591)  CARLEY
+{thinkingA}How is he?
+592)  LILLY
+{sadA}I don't know.
+593)  LEE
+NO!
+594)  CARLEY
+{fearC}NO! NOOOO!
+595)  LILLY
+[hushed] We'll get this kid out of here.
+597)  
+Window
+598)  
+Bookshelf
+599)  
+Front Door
+600)  
+Office
+601)  
+Battery
+602)  
+Towel
+603)  
+Water
+604)  
+Broken knob
+605)  
+Antenna
+606)  
+Volume
+607)  
+Tuner
+608)  
+Batteries
+609)  
+Battery door
+610)  
+On/Off
+611)  
+Drawer
+612)  
+Mess
+613)  
+Gate
+614)  LEE
+{NormalC}Hey, I came across an axe.
+615)  DOUG
+{HappyB}Excellent. Want to head back out?
+622)  KENNY
+[pickup1] {FearA}Everyone all right?
+623)  LEE
+{SadA}Yeah. {NormalD}We had some close calls but Glenn is fine, and... {SadB}well, yeah... we're ok.
+624)  CARLEY
+{ThinkingA}And things back here?
+625)  KENNY
+[pickup1] [how are things here?] {FearA}Quiet.
+626)  LEE
+{NormalC}}I'm ok.
+627)  CLEMENTINE
+{ThinkingA}Can I have my walkie-talkie back?
+628)  LEE
+[taken off guard] {SadA}Oh, yeah. Um... here. Look, {ThinkingB}we took a fall out there and--
+629)  CLEMENTINE
+{FearB}It's broken?
+630)  LEE
+{SadB}I'm sorry.
+631)  CLEMENTINE
+{SadC}But what about Glenn's?
+632)  CLEMENTINE
+[upset, really trying to keep it in] {cryingA}But my par... this is how I...
+633)  LEE
+{ThinkingB}We'll try to find you another one.
+634)  LEE
+{SadA}I'm going to hold onto this until we get Glenn back, ok?
+635)  LEE
+{NormalB}I'll take good care of it.
+636)  LEE
+You two are making it so there's not much choice.
+637)  GLENN
+[pickup1]
+908)  GLENN
+[pickup1]
+638)  KENNY
+[pickup1] I'm not letting somebody else get eaten today.
+639)  KENNY
+[pickup1] Even if he is an asshole.
+640)  KENNY
+[pickup1] Especially a good friend.
+641)  GLENN
+[pickup1] Let's go!
+651)  KENNY
+[pickup1] Doug! You hold the door! Those boarded up windows should be good; let's get that other window barricaded!
+652)  KENNY
+[pickup1] Doug! You hold the door! That window looks barricaded well enough; let's get these others boarded up FAST!
+653)  LEE
+[pickup1] No need to mess with it.
+654)  
+Zombie
+655)  
+Bottle of Water
+656)  
+Board
+657)  
+Energy Bar
+658)  
+Radio
+661)  LEE
+[pickup1] [to kenny] Go focus on more important things.
+662)  KENNY
+[pickup1] As long as this maniac stays away from us.
+663)  
+He will if he knows what's good for him.
+664)  LEE
+[pickup1]He will if he knows what's good for him.
+665)  LARRY
+[pickup1] [spitting mad, flabbergasted] You dumb piece of shit...
+666)  LEE
+[pickup1]He's just worried about his kid too.
+667)  
+He's just worried about his kid too.
+668)  KENNY
+[pickup1] [pissed] You're right.
+669)  LARRY
+[pickup1] This isn't over, asshole!
+670)  LEE
+[pickup1] [to Kenny] Things were a lot quieter in here when you were over there and he was over here.
+671)  LEE
+[pickup1][to larry] Now keep quiet, you prick.
+672)  LARRY
+[pickup1] You watch your mouth, boy!
+673)  LEE
+[pickup1] Look, I'm worried too but we gotta keep it down.
+674)  LARRY
+[pickup1] It's just a fucking selfish thing to do. What about me and my daughter?
+675)  
+Now keep quiet, you prick.
+676)  
+Look, I'm worried too but we gotta keep it down.
+677)  LEE
+[pickup1] End this, ok?
+678)  LEE
+[pickup1] End this, ok?
+679)  LEE
+[pickup1] End this, ok?
+680)  LARRY
+[pickup1] Ok. All right. You understand though.
+681)  LEE
+[pickup1] I get it. We just have to be cool.
+682)  LARRY
+[pickup1] Well I appreciate your "consideration;" for what it's worth.
+683)  LEE
+[pickup1] It's no problem.
+684)  LARRY
+[pickup1] But I don't need a guy like YOU on my side.
+685)  GLENN
+Man... There isn't a single fresh battery left in this place. It's been looted pretty well.
+686)  DOUG
+[pickup1][urgent] Got it!
+687)  DOUG
+[pickup1][urgent] Done!
+688)  DOUG
+[pickup1][urgent] I need help over here!
+689)  GLENN
+[pickup1] [pickup1] I've got a few cans of gas for your pickup in the trunk of my car.
+690)  KENNY
+[pickup1] Good to hear it.
+691)  KENNY
+[pickup1] Our "friend" is still in and out over there. He won't survive anymore stress.
+692)  LEE
+[pickup1] The next order of business is getting those pills out of the pharmacy.
+693)  KENNY
+[pickup1] Everyone else should just get comfy and keep it down.
+694)  KENNY
+[pickup1] Now get him those pills.
+697)  LILLY
+[pickup1][hushed, angry1]When I SAY "that door stays shut no matter what" I fucking MEAN it.
+698)  LILLY
+[pickup1] [hushed, angry]We don't know who these people are; they could be dangerous!
+699)  
+We have kids.
+700)  
+We're ok.
+701)  
+Chill out, lady.
+702)  LARRY
+[pickup1]Ho-ly SHIT.
+703)  LILLY
+[pickup1][hushed]Carley and Glenn just ran out there!
+704)  LARRY
+[pickup1]Goddammit Lilly, you have to control these people!
+705)  LARRY
+[pickup1][hushed] Worse, they could've led them right to us!
+706)  LARRY
+[pickup1] I don't give a flying fuck! We're in a warzone!
+707)  LEE
+[pickup1][hushed, zombies outside] We have kids with us.
+708)  LARRY
+[pickup1] I see ONE little girl...[looks around]
+709)  CARLEY
+[pickup1][angry, hushed, comma, from previous]They would've died out there!
+710)  CARLEY
+[pickup1][angry1, hushed] Where the hell is your humanity?!
+711)  LARRY
+[pickup1][angry1, hushed]Then we let 'em!
+712)  LEE
+[pickup1][hushed argument] We're not dangerous; we're just regular folks.
+713)  LEE
+[pickup1][hushed argument] [annoyed]Whoa, chill the fuck out, lady. We're just people trying to avoid those things, just like you.
+719)  LARRY
+[pickup1][angry, "he wasn't bitten"]Hell he wasn't!
+720)  LARRY
+[pickup1]We let one in, you stupid shits!
+721)  LILLY
+[pickup1][hushed, angry] If those things don't care how old you are, we shouldn't either.
+722)  CARLEY
+[pickup1] [hushed, PISSED] Who the fuck ARE you?
+723)  GLENN
+[pickup1][hushed, tense, angry]That is some cold shit.
+724)  GLENN
+[pickup1][hushed, tense, angry] We can't stop helping people.
+725)  
+I understand.
+726)  
+That's nuts.
+727)  
+You're a cold bitch.
+728)  LEE
+[pickup1][hushed, stern]I get that, but we can't turn on who's left.
+729)  LILLY
+[pickup1][hushed, stern] DO you get it? We've already lost--
+730)  LEE
+[pickup1][hushed, quick] What is it?
+731)  CLEMENTINE
+[pickup1][hushed, embarassed] I...I have to pee.
+736)  GLENN
+[pickup1][hushed, stern]I'd go out there again in a second.
+737)  CARLEY
+[pickup1][hushed, stern]I would too.
+738)  LILLY
+[pickup1] [hushed, stern]I bet you would.
+739)  LILLY
+[pickup1][hushed, stern]You're a dumb, careless kid.
+740)  LEE
+[pickup1] That's nuts; Kenny, we've got to get out of here.
+741)  KENNY
+[pickup1] I'm right with you pal; let's get Katjaa and Duck and--
+742)  LEE
+[pickup1] You're a cold bitch.
+743)  LEE
+{HappyC}I've got the keys.
+754)  LEE
+{HappyC}I've got the keys.
+744)  LILLY
+{HappyD}Great! God, you're amazing.
+755)  LILLY
+{HappyD}Great! God, you're amazing.
+745)  LILLY
+{HappyC}Let's get in there.
+748)  LILLY
+{HappyC}Let's get in there.
+757)  LILLY
+[pickup1]We can't trust anybody. We already know that.
+758)  LILLY
+[pickup1] [angry]What's DANGEROUS is a bunch of people running outside and drawing their attention to us.
+759)  KENNY
+[pickup1][angry] Lee's right. We're just regular folks, but WE actually like helping people.
+760)  LILLY
+[pickup1] [angry, not too loud]Don't come in here and swear at me!
+761)  LEE
+[pickup1] [angry]I'll say whatever I want if you start threatening these people.
+762)  LILLY
+[pickup1][stern]This is about survival, do you guys not see what's happening?
+763)  LILLY
+[pickup1][stern] The hell he, or ANYONE will.
+764)  CARLEY
+[pickup1][stern] You'll have to excuse her.
+765)  GLENN
+[pickup1] They've got kids, Lilly.
+766)  KENNY
+[pickup1] [in an argument]Lee, can you believe this lady?
+767)  KENNY
+[pickup1] [angry]Maybe you should go join 'em, then. You'll have something in common!
+768)  LILLY
+[pickup1] Those things outside don't care.
+769)  
+She's an asshole.
+770)  
+She's not wrong.
+771)  
+She's the leader.
+772)  LEE
+[pickup1] She's the leader here.
+773)  LEE
+[pickup1] This is how somebody is not really in control acts though.
+774)  LILLY
+[pickup1] If you were in my shoes you'd be th--
+775)  LEE
+[pickup1] [argument] And we appreciate it. Now let's settle down.
+776)  LEE
+[pickup1] [argument]She's not wrong. They took a risk.
+777)  LILLY
+[pickup1] [argument]Yes we did.
+778)  LEE
+[pickup1] [argument] She's an asshole, that's for sure.
+779)  LILLY
+[pickup1] That's what it takes.
+780)  KENNY
+[pickup1] [argument] I can see the resemblance. My son won't grow up to be a raging fucking lunatic, that's for certain.
+781)  LARRY
+[pickup1] [argument] That lady's my daughter.
+782)  LARRY
+[pickup1] [argument] Son?
+787)  
+It's him or Duck.
+788)  KENNY
+[pickup1] [panicked, angry]Lee, what do we do about this guy?
+789)  
+Reason with him.
+790)  
+Kick his ass.
+791)  LILLY
+[pickup1] Dad, it's just a boy, it's--
+792)  CARLEY
+[pickup1] Everyone CHILL THE FUCK OUT!
+809)  CARLEY
+[pickup1] Everyone CHILL THE FUCK OUT!
+793)  LILLY
+[pickup1] [argument]Nobody is doing ANYTHING.
+808)  LILLY
+[pickup1] [argument]Nobody is doing ANYTHING.
+794)  LARRY
+Shut up, Lilly!
+807)  LARRY
+Shut up, Lilly!
+795)  LEE
+[pickup1][argument] It's either him or your son. I say it's him.
+796)  KENNY
+[pickup1] [argument]Goddamn right; out on HIS ass with those THINGS.
+797)  LEE
+[pickup1] [argument] We reason with him.
+798)  CHRIS
+'Sup.
+799)  
+Yo
+800)  SEAN
+Yo, your face.
+801)  CHRIS
+YOU MADE ME CRY YOU SON OF A BITCH.
+802)  CHRIS
+What are you doing?
+803)  KENNY
+[pickup1] [argument] With the bloody end of an axe-handle, maybe! Nobody threatens my boy.
+804)  KENNY
+[pickup1] [seething]That's what I'm thinking.
+805)  LEE
+[pickup1] We kick his ass.
+806)  KENNY
+[pickup1][argument] With or without you, I'm protecting my kid with my LIFE.
+811)  LARRY
+[pickup1][angry]But right now we're about to be TRAPPED in here with one of those things.
+812)  LARRY
+[pickup1][angry] He's bitten! That's how you TURN.
+813)  KATJAA
+[pickup1][angry] He's not bitten!
+814)  KATJAA
+[pickup1][angry] Lee, stop this! It's upsetting him!
+815)  KENNY
+[pickup1][angry] What the hell are you talkin' about?
+824)  
+It's his SON.
+825)  
+Settle down, now.
+826)  
+If it was your girl?
+827)  
+Sit down, or else.
+828)  KENNY
+[pickup1][argument]I'm gonna kill, him, KAT. Just worry about Duck!
+841)  KENNY
+[pickup1][argument]I'm gonna kill, him, KAT. Just worry about Duck!
+829)  LARRY
+[pickup1][argument] NEVER woulda' happened.
+830)  LARRY
+[pickup1][argument] She's not some snot nosed toddler, ok? She's United States Air Force.
+831)  KENNY
+[pickup1][argument] Oh fuck you AND her!
+832)  LEE
+[pickup1][argument] What if this was your daughter?
+833)  LEE
+[pickup1][argument] Sit down, or that's IT.
+834)  LARRY
+[pickup1][argument] You gonna whoop me? You and what homo parade?
+835)  KENNY
+[pickup1][argument] This one.
+836)  LARRY
+[pickup1][argument] HA, that's good!
+837)  LARRY
+[pickup1][argument] [over your shoulder] Little boy! Before you EAT your mommy, you can watch your dad get his nose broken.
+838)  LARRY
+[pickup1][argument] Do you? You're not fucking acting like it!
+839)  LILLY
+[pickup1][argument] Dad, we get it, it's a big deal.
+840)  LARRY
+[pickup1][argument] Oh, I'm "upsetting" him? Upsetting is getting eaten alive!
+842)  LEE
+[pickup1][across the room]Yeah?
+843)  CLEMENTINE
+[pickup1][across the room, sort of hushed though] Lee?
+844)  LEE
+[pickup1][dismissive, across the room] It's just locked. Key's behind the counter. Probably.
+845)  CLEMENTINE
+[pickup1][across the room]There's someone in there.
+846)  KENNY
+[pickup1][argument] No, you're just the guy arguing for killing a kid!
+847)  LARRY
+[pickup1][argument] Hey, I'm not the bad guy here, I'm just looking out for my daughter!
+848)  LARRY
+[pickup1][argument] He's covered in muck! She'll find the bite. WATCH.
+849)  KATJAA
+[pickup1][argument] [from across the room]No! I'm cleaning him up! There's no bite! He's fine!
+850)  LARRY
+[pickup1][argument] And if she DOES?
+851)  KENNY
+[pickup1][argument] She won't.
+852)  LEE
+[pickup1] But it looks it like she's losing control of her people.
+853)  KATJAA
+[pickup1] KENNY! STOP HIM!
+854)  LARRY
+[pickup1] He's covered in their blood! You'll find the bite. [cont,]
+855)  LARRY
+[pickup1] We gotta throw him out! Or smash his head in!
+856)  KENNY
+[pickup1] [seething]Shut up.
+857)  LARRY
+[pickup1] Don't you fucking people get it? We've already SEEN this happen. We let someone with a bite stay and-and WE all end up bitten!
+858)  
+He's just a boy.
+859)  
+Deal with it.
+860)  
+We do what you say.
+861)  LEE
+[pickup1] He's a little boy; I think we can handle him.
+862)  LARRY
+[pickup1] A little boy?! He'll be an uncontrollable man eater!
+863)  KENNY
+[pickup1] It's not gonna happen!
+868)  KENNY
+[pickup1] It's not gonna happen!
+864)  LARRY
+[pickup1] It is and we're tossing him out NOW!!!
+867)  LARRY
+[pickup1] It is and we're tossing him out NOW!!!
+865)  LEE
+[pickup1] Then we deal with it then. But right now we're just freaking everybody out.
+866)  LARRY
+[pickup1] Then get ready to deal with it because that boy is BITTEN.
+869)  LEE
+[pickup1]Then we do what you say. We toss him out and save the group.
+870)  KENNY
+[pickup1] Lee?! What the fuck man?
+871)  LEE
+[pickup1] What other choice is there?
+872)  LARRY
+[pickup1] FINALLY. Someone gets some sense. But we can't wait - we are tossing him out NOW!!!
+873)  LARRY
+[pickup1] The first thing he'll do is sink his teeth into his mom's face.
+874)  LARRY
+[pickup1]Then once she's dead, he'll probably pounce on YOUR little girl.
+875)  LARRY
+[pickup1] She'll turn fast and then they'll be three.
+876)  LARRY
+[pickup1] And that, boy, is the ballgame.
+877)  LARRY
+[pickup1] Which pretty much seals the deal for me. We're throwin' him out!
+878)  
+Hit him, Kenny. [Stop him]
+879)  
+NO! [Stop him.]
+880)  
+You're right. [Let him.]
+881)  
+I'm sorry, Kenny. [Let him.]
+882)  KENNY
+[pickup1] Happily.
+883)  LEE
+[pickup1] Knock this guy out.
+884)  LEE
+[pickup1][hyper aggressive] NO. You don't touch that boy, you don't TOUCH anybody.
+885)  LEE
+[pickup1] [hyper aggressive] I've got a little girl I'm trying to protect in here too. You want to get violent you old fuck?! Well, COME ON. You better have a plan to kill me though, because it's ME before anyone else in here.
+886)  LEE
+[pickup1] I'm sorry, Kenny. He's right. This is about survival.
+891)  LEE
+[pickup1] I'm sorry, Kenny. He's right. This is about survival.
+887)  KENNY
+[pickup1] [losing it] LEE?! This is my boy Lee! My boy! We can't!
+889)  KENNY
+[pickup1] [losing it] LEE?! This is my boy Lee! My boy! We can't!
+888)  LEE
+[pickup1] You're right, man. That boy is a time bomb.
+890)  LARRY
+[pickup1] Then it's settled.
+922)  LILLY
+[pickup1]Hold them back! WE NEED BOARDS ON THOSE WINDOWS!
+923)  LILLY
+[pickup1]GO GO GO! You have to fight them back!
+924)  CLEMENTINE
+[pickup1][scream, a window explodes]
+925)  GLENN
+[pickup1]HOLY SHIT!
+926)  LILLY
+[pickup1][alt] I'll be right behind you!
+927)  LILLY
+[pickup1][alt] Carley, get in there too and keep your gun drawn!
+928)  LILLY
+[pickup1] Doug! Get her and the kids into the office and lock yourselves in!
+929)  KENNY
+[pickup1] We gotta barricade that!
+930)  LARRY
+[pickup1] Come on you sonofabitch!
+931)  CARLEY
+[pickup1][urgent] Ok!
+932)  LILLY
+[pickup1] DAD! Help him!
+933)  LILLY
+[pickup1]USE THIS!
+934)  LILLY
+[pickup1] Drive them back!
+935)  GLENN
+[pickup1]GET'EM LEE!
+936)  LILLY
+[pickup1] Get em back!
+937)  LILLY
+[pickup1] Get 'em!
+938)  LILLY
+[pickup1]Kill it!
+939)  LILLY
+[pickup1] [asking player to hit a zombie]Come on!
+940)  GLENN
+[pickup1] [urgently lifting up a board and holding it to a window]
+941)  LILLY
+[pickup1] Now!
+942)  LILLY
+[pickup1] Next one!
+943)  LEE
+[pickup1][bashing a zombie in the face with a fire extinguisher]
+944)  LEE
+[pickup1][bashing a zombie in the face with a fire extinguisher]
+946)  LEE
+[pickup1][bashing a zombie in the face with a fire extinguisher]
+945)  LILLY
+[pickup1] Go!
+947)  LEE
+[pickup1] Fuck!
+948)  LILLY
+[pickup1] Find something else!
+949)  LILLY
+[pickup1] That'll work!
+950)  LEE
+[pickup1][bashing a zombie in the face with a gumball machine, heavy]
+951)  LILLY
+[pickup1] GOOD!
+952)  KENNY
+LEE!
+953)  LEE
+[pickup1][getting grabbed by zombies] AHHH!
+954)  GLENN
+[pickup1] NO!!!
+955)  LEE
+[pickup1] [struggling to push a zombies off of you]
+956)  LEE
+[pickup1][finally breaking free of a zombie]
+957)  LARRY
+[pickup1][urgent, exerting self] PUSH!
+958)  LEE
+[pickup1][huge windup and smash of a zombie in the face]
+959)  KENNY
+[pickup1][whispering] They're not stopping.
+960)  LILLY
+[pickup1][whispering] Let's just think. We can do this --
+961)  LARRY
+[pickup1][whispering] They're going to get in.
+962)  LEE
+[pickup3][hushed] Is that the military?
+963)  LILLY
+[pickup1][wondering] I don't know.
+964)  GLENN
+[pickup1] Thank God for whatever it is.
+965)  KATJAA
+[pickup1] Honey; oh my god, are you ok?
+966)  KENNY
+[pickup1] We're fine; for now.
+967)  LARRY
+[pickup1] We almost DIED because of this bitch and her itchy trigger finger! That was stupid! That was--[giant chest pain]
+968)  LEE
+[pickup1] What's wrong with him?!
+969)  LARRY
+[pickup1] My pills...
+970)  LARRY
+[pickup1]Ahh!
+971)  KATJAA
+[pickup1] [urgent] Uh-um… Nitroglycerin pills?
+972)  LILLY
+[pickup1] YES. We're out. We've been trying to get into the pharmacy since we got here! Please, try to get in there! Behind the counter, where the pills are!
+973)  LILLY
+[pickup1] DAD!!!
+974)  LILLY
+[pickup1] It's his heart!
+975)  KATJAA
+[pickup1] Take your dad and try to keep him calm and rested.
+976)  LEE
+[pickup1] I'm on it.
+977)  LARRY
+[pickup1] [in pain, chest grabbing, breathing]
+978)  LILLY
+[pickup1] [distressed]Ok.
+979)  KATJAA
+[pickup1]Lee, he needs those pills.
+980)  KENNY
+[pickup1] Work on getting those pills.
+981)  KENNY
+[pickup1]We're gonna have to think about how we're getting everyone out of here with my truck on empty.
+982)  LEE
+[pickup1] {ThinkingA}{body-b}The pills are in there.
+983)  LEE
+[pickup1] {DisgustA}{body-b}There's no getting in there from out here. That grate does its job.
+984)  LEE
+[pickup1] {ThinkingA}{body-b}Probably can't hack through there.
+985)  LILLY
+[pickup1] Find something!
+986)  LILLY
+[pickup1] Not THAT!
+987)  LEE
+[pickup1] Well you don't have to be a bitch about it.
+988)  LEE
+EXITING TO MACON STREET!!
+989)  
+Kenny, Katjaa, and Duck
+990)  
+Give Food To
+991)  TEMP
+We're going to skip past the exciting part now. Just trust that the zombies have somehow been repelled.
+992)  LEE
+[pickup3] There are no batteries in this thing.
+1058)  LEE
+[pickup3] There are no batteries in this thing.
+993)  CARLEY
+[pickup1][surprised] What now?
+1055)  CARLEY
+[pickup1][surprised] What now?
+994)  LEE
+[pickup3] It's not working because there aren't any batteries in it.
+995)  CARLEY
+[pickup1] [sigh] Well, yeah. Just...shut up.
+996)  LEE
+[pickup3] You know that there are no batteries in that thing.
+1059)  LEE
+[pickup3] You know that there are no batteries in that thing.
+997)  CARLEY
+[pickup1] Yeah, of course, I mean, yeah. [a beat] No.
+1056)  CARLEY
+[pickup1] Yeah, of course, I mean, yeah. [a beat] No.
+998)  LEE
+[pickup3] I can try to find some. Needs two.
+1060)  LEE
+[pickup3] I can try to find some. Needs two.
+999)  CARLEY
+[pickup1] Thanks, I wouldn't even really know what to look for.
+1057)  CARLEY
+[pickup1] Thanks, I wouldn't even really know what to look for.
+1000)  RADIO PICKUP
+[continuous, should play over the scene]: As the unknown affliction continues to spread unchecked, the estimated death toll continues to skyrocket.
+1069)  RADIO PICKUP
+[continuous, should play over the scene]: As the unknown affliction continues to spread unchecked, the estimated death toll continues to skyrocket.
+1001)  CARLEY
+[pickup1] You fixed it!
+1068)  CARLEY
+[pickup1] You fixed it!
+1002)  RADIO PICKUP
+[continuous, should play over the scene]:WABE urges you to stay indoors, and avoid any contact with individuals you suspect may have been exposed.
+1067)  RADIO PICKUP
+[continuous, should play over the scene]:WABE urges you to stay indoors, and avoid any contact with individuals you suspect may have been exposed.
+1003)  CARLEY
+[pickup1] The station is ok!
+1061)  CARLEY
+[pickup1] The station is ok!
+1004)  RADIO PICKUP
+[continuous, should play over the scene] My producer is telling me we have to get off the air now.
+1064)  RADIO PICKUP
+[continuous, should play over the scene] My producer is telling me we have to get off the air now.
+1005)  CARLEY
+[pickup1] [hearing her friend on the radio]Steve...
+1066)  CARLEY
+[pickup1] [hearing her friend on the radio]Steve...
+1006)  RADIO PICKUP
+[continuous, should play over the scene]:WABE wishes you and your loved ones the strength to endure through this crisis.
+1063)  RADIO PICKUP
+[continuous, should play over the scene]:WABE wishes you and your loved ones the strength to endure through this crisis.
+1007)  RADIO PICKUP
+[continuous, should play over the scene]: God bless you all. God bless the United States of Amer---
+1065)  RADIO PICKUP
+[continuous, should play over the scene]: God bless you all. God bless the United States of Amer---
+1008)  LEE
+[pickup3] Batteries were in backwards.
+1062)  LEE
+[pickup3] Batteries were in backwards.
+1009)  GLENN
+[pickup2] [urgent, hushed] Uh... guys?
+1010)  LILLY
+[pickup1] [hushed] Everybody DOWN! Stay QUIET!
+1011)  LARRY
+[pickup1][hushed, pissed] They're gonna get in!
+1012)  KENNY
+[pickup1][hushed] SHUT UP.
+1013)  GLENN
+[pickup1] Then I'll head out and get gas.
+1014)  
+What's wrong with him?
+1015)  
+Was HE the one bitten?!
+1016)  
+I told him to calm down...
+1017)  
+[Remain Silent]
+1022)  
+[Remain Silent]
+1024)  
+[Remain Silent]
+1018)  LEE
+[pickup3] Was HE the one bitten?!
+1019)  LILLY
+[pickup1] [defensive]NO. Don't be crazy!
+1020)  LEE
+[pickup3] I did try to get him to calm down...
+1021)  LILLY
+[pickup1] [angry] Can it, asshole!
+1023)  LILLY
+[pickup1][panicked] HELLO?
+1025)  GLENN
+[pickup2] Alright, silence is consent. That's the plan.
+1026)  LEE
+[pickup3] {ThinkingA}{body-b}"Central High Takes State."  {DisgustA}{body-b}The paper's a week old. Feels like years.
+1027)  LEE
+[pickup3] {SadA}{body-b}I don't remember them very well.
+1028)  LEE
+[pickup3]{DisgustA}{body-b}It's all melted now.
+1029)  LEE
+[pickup3] {ThinkingA}{body-b}It's not damaged; {NormalD}{body-b}I'm glad this place didn't get looted.
+1030)  LEE
+[pickup3]{NormalD}{body-b}Looks like nobody got a chance to donate anything before this all went down.
+1031)  LEE
+[pickup3] {HappyA}{body-b}Looks like he still never raised those prices.
+1032)  LEE
+[pickup3]{DisgustA}{body-b}I hate those things.
+1033)  LEE
+[pickup3] {DisgustA}{body-b}No "I'm sorry to hear your loved one was eaten by the living dead," cards.
+1034)  
+Newspaper
+1035)  
+Cork Board
+1036)  
+Photographs
+1037)  
+Newspaper Clippings
+1038)  
+Ice Cream Menus
+1039)  
+ATM
+1040)  
+Food Box
+1041)  
+Soda Fountain
+1042)  
+Copy Machine
+1043)  
+Greeting Cards
+1044)  
+Flip the Radio Over
+1046)  
+Turn Up
+1047)  
+Turn Down
+1048)  
+Fold
+1049)  
+Extend
+1050)  
+Examine
+1051)  
+Examine
+1052)  
+Use Battery in
+1053)  
+I say, it might be advisable to consult with your colleague Carley vis-a-vis the Motor Inn situation!
+1054)  
+Rescue
+1070)  
+Talk to Carley.
+1071)  
+...

@@ -1,0 +1,100 @@
+1)  LEE
+[gathering himself] {fearA} Man...
+2)  CLEMENTINE
+{fearA} Did you kill it?
+3)  
+Yes.
+4)  
+I don't know. I think so.
+5)  
+Something else did.
+7)  LEE
+{normalD}{body-c2}Yes.
+8)  LEE
+{normalB} I think so too.
+9)  CLEMENTINE
+{sadA} {body-handsopen} It's okay. I think she was a monster.
+10)  CLEMENTINE
+{fearB} {body-handonwrist} Sometimes they come back.
+11)  LEE
+[disbelief] {surpriseA} Have you killed one?
+12)  LEE
+{thinkingB} {body-c2} I don't know. {sadA} I think so.
+13)  LEE
+{thinkingB} {body-c2}I think something else did. {normalD} Before me, {sadA} I think.
+14)  CLEMENTINE
+{sadC} {body-handonwrist}I heard her scream two nights ago. {fearA} Maybe one of the monsters got her.
+15)  LEE
+[delicately, talking to a little girl about how she heard someone get eaten by a zombie, she says maybe that person is dead.] {surpriseB} Two nights ago? {sadB} Yeah, that's probably what happened.
+16)  LEE
+There's someone outside.
+17)  CLEMENTINE
+{cryingA} Oh.
+18)  CLEMENTINE
+{sadA} {body-handsopen}Yeah.{sadC} I want my parents to come home now.
+19)  CLEMENTINE
+Someone alive!
+20)  LEE
+Yeah, let's go check it out.
+21)  LEE
+{sadC} I think that might be a little while, {normalD} you know?
+22)  LEE
+{sadA} {body-c2}You've been all by yourself through this?
+23)  CLEMENTINE
+[No] {sadB}{body-fists} No. {fearA} But they get shot a lot.
+24)  LEE
+{disgustA} But I gotta sit down for a minute and just, you know, gather myself.
+25)  LEE
+{normalC} Look, I don't know what happened. {thinkingA} But I'll look after you until then.
+26)  CLEMENTINE
+{fearB}No! Here's not good, {fearA}especially not when it's dark.
+27)  CLEMENTINE
+[tentative] {sadB} Ok... I guess that's ok.
+28)  LEE
+{surpriseA} Where then?
+29)  LEE
+{normalD} Hi there.
+30)  
+Look for help, before it gets dark.
+31)  CLEMENTINE
+[pickup1] [nervous, scared] What should we do now?
+32)  
+Get out of here once the sun goes down.
+33)  LEE
+[pickup3] We should look for help... [follows up with "now" or "later"]
+34)  CLEMENTINE
+[pickup1] Yeah, it's not safe at night.
+45)  CLEMENTINE
+[pickup1] Yeah, it's not safe at night.
+35)  LEE
+[pickup3] Let's go. Stay close to me.
+41)  LEE
+[pickup3] Let's go. Stay close to me.
+44)  LEE
+[pickup3] Let's go. Stay close to me.
+50)  LEE
+[pickup3] Let's go. Stay close to me.
+36)  LEE
+[pickup3] We need to find help before it gets dark.
+43)  LEE
+[pickup3] We need to find help before it gets dark.
+37)  CLEMENTINE
+[pickup1] That sounds good.  We can hide in my treehouse until then.
+49)  CLEMENTINE
+[pickup1] That sounds good.  We can hide in my treehouse until then.
+38)  LEE
+[pickup3] We need to get out of this neighborhood; its not safe. We're less likely to be seen if we move at night.
+48)  LEE
+[pickup3] We need to get out of this neighborhood; its not safe. We're less likely to be seen if we move at night.
+39)  CLEMENTINE
+[pickup1] [nervous]My parents might come home.
+47)  CLEMENTINE
+[pickup1] [nervous]My parents might come home.
+40)  LEE
+[pickup3] We won't go far. We'll try to find a shelter and come back here with others.
+51)  LEE
+[pickup3] We won't go far. We'll try to find a shelter and come back here with others.
+42)  LEE
+[pickup3] [talking to clementine] It'll be a tough climb with this leg but that's a good idea.
+46)  LEE
+[pickup3] [talking to clementine] It'll be a tough climb with this leg but that's a good idea.
