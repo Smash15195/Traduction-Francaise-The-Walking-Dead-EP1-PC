@@ -15,21 +15,21 @@
 8)  LEE
 {HappyA}Definitely.{HappyC} Clementine can handle it.
 9)  KENNY
-{DisgustA}Shit.
+{DisgustA}Merde.
 10)  DOUG
-{FearB}The door's not locked.
+{FearB}La porte n'est pas fermé !
 11)  KENNY
 {AngryA}Get on it! {NormalB}I'll be back as fast as I can.
 12)  GLENN
-Lee, come hold the door!
+Lee, viens tenir la porte !
 13)  GLENN
-We can't let 'em get in!
+Nous ne pouvons pas les laisser entrer !
 14)  CARLEY
 Get the lead out and get over here!
 15)  CARLEY
-Little help here!
+Un peu d'aide ici !
 16)  DOUG
-Come on!
+Aller !
 17)  DOUG
 We've got to hold this door until Ken comes back!
 18)  GLENN
@@ -67,13 +67,13 @@ I'll go see what's wrong. You'll be ok?
 34)  LEE
 {SadA}Here you go.
 35)  KATJAA
-GLENN! GLENN, HELP!
+GLENN! GLENN, A L'AIDE !
 36)  GLENN
 {FearB}	Shit shit shit! I... {FearC}I gotta go!
 37)  DOUG
 {FearC}Lee, {FearD}we can't hold this alone!
 38)  GLENN
-I'm sorry, guys.
+Je suis désolé, les gars.
 39)  DOUG
 {FearD}We can't hold this by ourselves!
 40)  CLEMENTINE
@@ -87,7 +87,7 @@ Ok then...
 44)  DOUG
 {FearC}They're breaking through! {FearD}THEY'RE BREAKING THROUGH, LEE! HELP ME! MY GOD, I NEED YOUR HELP!
 45)  CARLEY
-LEE...I'm running out of bullets! The magazine is on the floor! HELP!
+LEE... Je n'ai plus de balle ! Le chargeur et tombé par terre ! A L'AIDE !
 46)  CARLEY
 [Big exhale, like 'phew'] {HappyD}Thanks.
 47)  DOUG
@@ -107,7 +107,7 @@ LEE...I'm running out of bullets! The magazine is on the floor! HELP!
 54)  CLEMENTINE
 {FearD}AHHHHHHH! [Zombies have grabbed a friend.]
 55)  DOUG
-{FearD}OH SHIT OH SHIT OH SHIT!
+{FearD}OH MERDE OH MERDE OH MERDE !
 56)  CARLEY
 [Lots of screaming, being eaten alive].
 57)  DOUG
@@ -276,9 +276,9 @@ Whoopsy...
 125)  LILLY
 Shh!
 126)  CARLEY
-[hushed] We're trying to find batteries for this radio - we need to know what's going on.
+[hushed] Nous essayons de trouver des piles pour cette radio - nous avons besoin de savoir ce qui se passe.
 127)  LEE
-[hushed] That's a good idea.
+[hushed] C'est une bonne idée.
 128)  LEE
 [hushed, angry] Just keep it down!
 129)  LARRY
@@ -380,31 +380,31 @@ I'll see if I can find anything to clean him up.
 172)  LEE
 I'll see if I can find anything to clean him up.
 159)  
-Exit
+Sortie
 171)  
-Exit
+Sortie
 1045)  
-Exit
+Sortie
 164)  
-This should help.
+Ca peut aider.
 174)  KATJAA
-{happyc}[panicked] Ah, god, thank you.
+{happyc}[panicked] Ah, mon dieu, merci.
 176)  KATJAA
-{happyc}[panicked] Oh, god, thank you.
+{happyc}[panicked] Oh, mon dieu, merci.
 660)  KATJAA
-{happyc}[panicked] Oh, god, thank you.
+{happyc}[panicked] Oh, mon dieu, merci.
 177)  KATJAA
 [panicked, to herself]{FearA} It's ok baby, it'll be ok.
 178)  DUCK
-[panicked, in tears] {fearc}Mom, I'm not a zombie,{fearA} I'm not.
+[panicked, in tears] {fearc}Maman, Je ne suis pas un zombie,{fearA} je n'en suis pas un.
 179)  KATJAA
-{fearA}[panicked, to herself] I've got you, honey.
+{fearA}[panicked, to herself] Je t'ai chérie.
 180)  DUCK
 [duck is panicked, in tears and cries] [Duck sobs quietly, panicked.]
 181)  KATJAA
-{fearA}[panicked, hushed] Do you hurt, baby? {fearB}Anywhere?
+{fearA}[panicked, hushed] Tu es blessé bébé ? {fearB}Quelque part ?
 182)  DUCK
-[panicked, in tears] {fearA}No, I don't know, {fearB}mom, I'm scared!
+[panicked, in tears] {fearA}Non, je ne sais pas, {fearB}maman, j'ai peur !
 183)  LEE
 Some water or a rag would do some good.
 184)  LEE
@@ -450,57 +450,57 @@ He's either in shock or their blood does things we don't know about.
 197)  LEE
 We gotta get this shit off of him.
 198)  KATJAA
-{fearB}I know, I know!
+{fearB}Je sais, je sais !
 199)  KENNY
 [hushed, angry] Get the fuck back. LARRY: [hushed, angry] Get that kid out of here. KENNY: [hushed, angry] That kid is my son. LARRY: [hushed, angry] You're son's about to be a walking corpse. KENNY: [hushed, angry] He wasn't bitten, now just stand back.  LARRY: [hushed, angry] You're going to get us all killed. KENNY: Walk away, asshole. LARRY: [hushed, angry] We're finishing that kid as soon as he turns. KENNY: I said walk away. LARRY: [hushed, angry] You're not bringing a victim in here with my daughter. KENNY: [hushed, angry] You're not going near my son. IDLE FIGHT: LARRY: [hushed, angry] We'll use force. KENNY: [hushed, angry] I'll whoop your old ass. LARRY: [hushed, angry] Fuck you. KENNY: [hushed, angry] You want that? LARRY: [hushed, angry] I killed tougher kids than you in the war. KENNY: [hushed, angry] Killing another one makes you tough? LARRY: [hushed, angry] You son of a bitch. KENNY: [hushed, angry] Fucking prick. LARRY: [hushed, angry] You're a dumb piece of shit. KENNY: [hushed, angry] A dumb piece of shit who will beat the life out of you. LARRY: [hushed, angry] Try it. KENNY: [hushed, angry] You're not laying a finger on my boy.))
 200)  KENNY
 {angryB}[hushed, angry] Get the fuck back.
 201)  LARRY
-{angryC}[hushed, angry] Get that kid out of here.
+{angryC}[hushed, angry] Emmenez ce gamin loin d'ici.
 202)  KENNY
-{angryB}[hushed, angry] That kid is my son.
+{angryB}[hushed, angry] Ce gamin c'est mon fils.
 203)  LARRY
-{angryB}[hushed, angry] You're son's going to turn into one of THEM. {angryC}A...a...ZOMBIE.
+{angryB}[hushed, angry] Votre fils va se transformer en L'UN DEUX. {angryC}Un...un...ZOMBIE.
 204)  KENNY
-{angryB}[hushed, angry] He wasn't bitten, now just stand back.
+{angryB}[hushed, angry] Il n'a pas été mordu, maintenant reculez.
 205)  LARRY
-{angryB}[hushed, angry] You're going to get us all killed.
+{angryB}[hushed, angry] Vous allez tous nous faire tuer.
 206)  KENNY
-{angryB}Just walk away, asshole. This is a family matter.
+{angryB}Recule connard. Il s'agit d'une affaire de famille.
 207)  LARRY
-{angryB}[hushed, angry] Your "family matter" became a {angryC}group matter when you ran in here. {angryA}We're finishing that kid as soon as he turns.
+{angryB}[hushed, angry] Votre "affaire de famille" est devenu une {angryC}affaire de groupe quand vous l'avez ammener ici. {angryA}We're finishing that kid as soon as he turns.
 208)  KENNY
-{angryB}I said walk away.
+{angryB}J'ai dit de s'éloigner.
 209)  LARRY
-[hushed, angry] {angryB}I am not gonna let some punk keep a bite victim in the same room as my daughter.
+[hushed, angry] {angryB}Je ne vais pas laisser quelques punk garder une victime mordue dans la même pièce que ma fille.
 210)  LARRY
-{angryA}[hushed, angry] We'll use force.
+{angryA}[hushed, angry] Nous allons utiliser la force.
 211)  KENNY
-{angryC}[hushed, angry] I'll kill you.
+{angryC}[hushed, angry] Je vais te tuer.
 212)  LARRY
-{angryB}[hushed, angry] Fuck you.
+{angryB}[hushed, angry] Va te faire foutre.
 213)  KENNY
 {angryB}[hushed, angry] You don't think I'll do it? {angryC}You don't think I could stop you from hurting a child?
 214)  LARRY
 {angryb}[hushed, angry] I've taken care of tougher pieces of shit than you. I was in wars, goddammit!
 215)  LARRY
-{angryC}[hushed, angry] You son of a bitch, I'm a patriot.
+{angryC}[hushed, angry] Fils de pute, je suis un partiote.
 216)  KENNY
-{angryB}[hushed, angry] You're a  prick.
+{angryB}[hushed, angry] T'es qu'une queue.
 217)  LARRY
-{angryB}[hushed, angry] You're a worthless piece of shit.
+{angryB}[hushed, angry] T'es qu'une merde sans valeur.
 218)  KENNY
-{angryC}[hushed, angry] I will beat the life out of you if you go near my boy.
+{angryC}[hushed, angry] Je vais te tabasser à mort si tu t'approche de mon fils.
 219)  LARRY
-{angryB}[hushed, angry] Try it.
+{angryB}[hushed, angry] Essaye donc.
 220)  KENNY
-[hushed, angry] You're not laying a finger on my boy.
+[hushed, angry] Tu poseras pas un doigt sur mon fils.
 221)  KENNY
-{angryC}[hushed, angry] You're not gonna touch my son, you hear me?
+{angryC}[hushed, angry] Tu ne touches pas à mon fils, t'entends ?
 222)  KENNY
 {angryB}[hushed, angry] Murdering a bunch of folks doesn't make you tough.
 223)  LARRY
-{angryC}[snarls] Stay out of this.
+{angryC}[snarls] Reste en dehors de ça.
 224)  KENNY
 {angryB}[hushed, angry] I've got this, Lee.
 225)  LARRY
@@ -514,33 +514,33 @@ C'est Larry, hein ? C'est son fils.
 817)  LEE
 C'est Larry, hein ? C'est son fils.
 229)  LEE
-Let the woman handle her son. You two go sit down and shut up.
+Laissez la femme s'occuper de son fils. Allez vous assoir et fermez-là.
 230)  LEE
 To hell with it.
 231)  
-Leave
+Partir
 279)  
-Leave
+Partir
 451)  
-Leave
+Partir
 596)  
-Leave
+Partir
 232)  
-Kenny, you gotta relax.
+Kenny, tu dois te détendre.
 233)  
-Larry, this is his son here.
+Larry, c'est son fils.
 234)  
-Both of you chill out.
+Détendez-vous tout les deux.
 235)  KENNY
-{angryB}Aw, go to hell, Lee. {angryC}This piece of shit's trying to kill my boy!
+{angryB}Aw, va en enfer, Lee. {angryC}Ce fumier essaye de tuer mon garçon !
 236)  LARRY
-{angryA}He won't be your boy for long.
+{angryA}Il ne sera pas ton garçon pour longtemps.
 237)  LEE
-{angryB}We don't need talk like that. Kenny, {angryA}keep your goddamn cool.
+{angryB}Nous n'avons pas besoin de parler comme ça. Kenny, {angryA}garde ton sang froid bordel.
 238)  LARRY
-{angryB}Regardez autour de vous abruti. {angryA}J'ai ma fille avec moi, {angryC}VOUS avez votre fille avec vous. Alors sortez votre tête du cul, mon garçon.
+{angryB}Regardez autour de vous abruti. {angryA}J'ai ma fille avec moi, {angryC}VOUS avez une fille avec vous. Alors sortez votre tête du cul, mon garçon.
 816)  LARRY
-{angryB}Regardez autour de vous abruti. {angryA}J'ai ma fille avec moi, {angryC}VOUS avez votre fille avec vous. Alors sortez votre tête du cul, mon garçon.
+{angryB}Regardez autour de vous abruti. {angryA}J'ai ma fille avec moi, {angryC}VOUS avez une fille avec vous. Alors sortez votre tête du cul, mon garçon.
 239)  LEE
 Nous avons tous des êtres chers ici et on peut comprendre cela sans tuer personne. Il y a une autre manière de faire.
 818)  LEE
@@ -550,41 +550,41 @@ Nous avons tous des êtres chers ici et on peut comprendre cela sans tuer personn
 819)  LARRY
 {angryA}Ouais, avec une pelle.
 241)  KENNY
-{angryB}That's my boy too, Lee. {angryC}And this son of a bitch is trying to kill him.
+{angryB}C'est mon fils aussi, Lee. {angryC}Et cet enfoiré essaye de le tuer.
 242)  LARRY
-{angryA}He's already dead.
+{angryA}Il est déjà mort.
 243)  LEE
-There's a better way to deal with this, fellas.
+Il y a une meilleurs façon de regler ce problème les gars.
 244)  LARRY
-{angryB}[steaming, to himself] I can't believe we're gonna just let that boy sit there until he starts eating us...
+{angryB}[steaming, to himself] Je ne peux pas croire que nous allons juste laisser ce garçon assis là jusqu'à ce qu'il commence à nous manger...
 245)  LILLY
-{sadA}Give them some space, dad.
+{sadA}Donne lui un peu d'espace, papa.
 246)  LARRY
-{angryA}[steaming, to himself] We should've never let these bastards in here.
+{angryA}[steaming, to himself] Nous ne devrions pas laisser ces salauds ici.
 247)  LILLY
-{fearA}I know dad, but {thinkinga}let's just deal with what's in front of us.
+{fearA}Je sais papa, mais {thinkinga}occupons nous juste ce qu'il y a en face de nous.
 248)  LARRY
-{angryB}[steaming, to himself]  I can't believe you just let this happen.
+{angryB}[steaming, to himself]  Je ne peux pas croire que tu laisse faire.
 249)  LILLY
-{fearA}Dad, they just {angrya}came in. Glenn went out there and--
+{fearA}Papa, ils sont juste {angrya}entrés. Glenn est sortie est--
 250)  LARRY
-{angryC}YOU should've stopped them.
+{angryC}TU aurais dû les arrêter !
 251)  LARRY
-{angryA}[steaming, to himself] As soon as that boy bites his mama, we gotta be ready.
+{angryA}[steaming, to himself] Dès que ce garçon mord sa maman, nous devons êtres prêts.
 252)  LILLY
-{angryB}All right, dad. {disgustB}Ok.
+{angryB}Très bien papa. {disgustB}Ok.
 253)  LARRY
-{angryA}[steaming, to himself] We're a goddamn buffet for this kid! {angryb}We're trapped in here, {angryC}laid out like an appetizer platter.
+{angryA}[steaming, to himself] Nous somme un putin de buffet pour se gamin ! {angryb}iNous somme piégés ici, {angryC}exposé comme un plateau apéritif.
 254)  LARRY
-[steaming, to himself]  {angryB}I'm not going to let some jackass talk to me like that.
+[steaming, to himself]  {angryB}Je ne vais pas laisser ces idiots me parler comme ça.
 255)  LILLY
-{angryA}Knock it off!
+{angryA}Laisse tomber !
 256)  LILLY
-{angryA}Dad! Stop! {fearA}Will someone separate these two?
+{angryA}Papa ! Arrête ! {fearA}Quelqu'un peut séparer ces deux là ?
 257)  KATJAA
-{fearB}Lee! Keep this man away from us!
+{fearB}Lee! Tiens ce type loin de moi !
 258)  KATJAA
-{fearB}Lee! Please do something!
+{fearB}Lee! S'il te plait, fais quelque chose !
 259)  LEE
 Just settle down. We just need to figure out if anything happened to the kid.
 820)  LEE
@@ -596,13 +596,13 @@ Settle down.
 822)  LARRY
 {angryA}The moment we "settle down" is the moment that little shit starts chewing on people.
 262)  KENNY
-{angryb}Look at him! He's in shock! {angryc}He's fine!
+{angryb}Regardez-le ! Il est sous le chock ! {angryc}Il va bien !
 823)  KENNY
-{angryb}Look at him! He's in shock! {angryc}He's fine!
+{angryb}Regardez-le ! Il est sous le chock ! {angryc}Il va bien !
 263)  LARRY
-{angryB}He's covered in blood! {angryC}There's no chance he's not fucked.
+{angryB}Il est couvert de sang ! {angryC}Il n'y a aucune chance qu'il ne soit pas foutu.
 821)  LARRY
-{angryB}He's covered in blood! {angryC}There's no chance he's not fucked.
+{angryB}Il est couvert de sang ! {angryC}Il n'y a aucune chance qu'il ne soit pas foutu.
 264)  LEE
 [angry, hushed] You two. [quieter, there's a kid around] Shut the fuck up.
 265)  LEE
