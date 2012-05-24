@@ -538,9 +538,9 @@ Détendez-vous tout les deux.
 237)  LEE
 {angryB}Nous n'avons pas besoin de parler comme ça. Kenny, {angryA}garde ton sang froid bordel.
 238)  LARRY
-{angryB}Regardez autour de vous abruti. {angryA}J'ai ma fille avec moi, {angryC}VOUS avez une fille avec vous. Alors sortez votre tête du cul, mon garçon.
+{angryB}Regardez autour de vous abruti. {angryA}J'ai ma fille avec moi, {angryC}VOUS avez votre fille avec vous. Alors sortez votre tête du cul, mon garçon.
 816)  LARRY
-{angryB}Regardez autour de vous abruti. {angryA}J'ai ma fille avec moi, {angryC}VOUS avez une fille avec vous. Alors sortez votre tête du cul, mon garçon.
+{angryB}Regardez autour de vous abruti. {angryA}J'ai ma fille avec moi, {angryC}VOUS avez votre fille avec vous. Alors sortez votre tête du cul, mon garçon.
 239)  LEE
 Nous avons tous des êtres chers ici et on peut comprendre cela sans tuer personne. Il y a une autre manière de faire.
 818)  LEE
