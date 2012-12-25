@@ -1,0 +1,108 @@
+1)  LEE
+{NormalA}{body-A}{DisgustA}{body-F}Hey there.
+2)  CLEMENTINE
+{NormalA}[shy] Hi.
+4)  LEE
+{NormalD}{body-F}Any word from Glenn?
+5)  CLEMENTINE
+{sadA}Nothing. {FearA}Is he ok?
+6)  LEE
+{normalD}Yeah, I think so. {thinkingB}You're doing a good job.
+7)  
+Topic in sequence
+28)  
+Topic in sequence
+8)  
+Can I get you anything?
+9)  
+We should get to know each other.
+10)  LEE
+{ThinkingB}{body-F}Can I get you anything?
+11)  CLEMENTINE
+{NormalC}I'm ok.
+12)  CLEMENTINE
+{thinkingA}Maybe I'm a little hungry.
+13)  LEE
+{ThinkingA}Still, huh?
+14)  CLEMENTINE
+[embarassed] {sadC}Yeah. It wasn't much.
+15)  LEE
+{thinkingA} I know, Clem. {thinkingB}I'll see if I can find something else for you.
+16)  LEE
+{thinkingA}I'll see about that.
+17)  LEE
+{ThinkingB}{Body-f}So...uh...
+18)  CLEMENTINE
+{thinkingA}Are you ok?
+19)  LEE
+{SurpriseA}What? {HappyB}Uh, yeah, yeah, I-I'm fine. I just uhh,{thinkingA}[has no idea how to make conversation with a little girl] I'm good.
+20)  CLEMENTINE
+{NormalD}That's good.
+21)  LEE
+{sadA}Yeah, I think so. [awkward, again, no idea how to make convo with little girl] {thinkingA}Being good is good. {NormalD}Despite the circumstances.
+22)  CLEMENTINE
+{thinkingA}{normalD}Yep.
+23)  
+Exit
+24)  LEE
+{SadA}{Body-F}Well, sit tight.
+25)  CLEMENTINE
+{NormalC}Ok.
+26)  LEE
+{SadA}{Body-F}Let me know if you need anything.
+27)  CLEMENTINE
+{NormalB}Ok.
+29)  
+How's your finger?
+30)  
+I know I'm not your dad...
+31)  LEE
+{SadA}{Body-F}How's your finger, Clem?
+32)  CLEMENTINE
+{normalB}Good. {HappyA}It doesn't hurt so much anymore.
+33)  LEE
+{HappyA}Good.
+34)  LEE
+{SadC}{Body-F}I know I'm not your dad... but {SadB}if you need anything. I'm your guy, ok?
+35)  CLEMENTINE
+{sadB}Ok. Same.
+36)  LEE
+{happyA}You're my guy?
+37)  CLEMENTINE
+[embarrassed] {thinkingA}Oh...no. {HappyA}You know...
+38)  LEE
+{happyA}We're gonna try to take care of each other.
+39)  CLEMENTINE
+[agreeing] {HappyB}Yes. Deal.
+40)  LEE
+No more word from Glenn?
+41)  CLEMENTINE
+Nope.
+42)  LEE
+{SadA}{body-F}Everything ok?
+43)  CLEMENTINE
+Mmhmm.
+44)  LEE
+{SadA}{Body-F}It's not much, {HappyA}but here you go, Clem.
+45)  CLEMENTINE
+{NormalC}Thank you.
+46)  LEE
+{HappyA}Of course.
+47)  
+An
+48)  
+Any word from Glenn?
+49)  
+I'm sorry about your radio.
+50)  LEE
+{NormalC}Maybe we can find you another one {ThinkingA}or something...
+51)  LEE
+{SadB}{body-F}I'm sorry about your radio.
+52)  CLEMENTINE
+[upset/angry but saying she's not] {angryB}It's ok.
+53)  CLEMENTINE
+[upset/angry]{angryB} Yeah. Maybe.
+54)  
+Talk to
+55)  
+Give Food to

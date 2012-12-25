@@ -1,0 +1,230 @@
+1)  LEE
+[YELL, BIG]{FearA} Hello? {SurpriseB} Anybody?!
+2)  LEE
+Son of a bitch!<<id:{9F783173-C747-48C0-99DE-8CA69C0A1E47}>>
+3)  LEE
+Test
+4)  LEE
+{DisgustA} {body-A}No ladder... {ThinkingA}I'm not getting up there anyway, {NormalD} {body-C}this leg the way it is.
+5)  LEE
+[Calling up to the treehouse] {SurpriseB} {body-B}Anybody up there?
+6)  LEE
+[calling up to a treehouse] {SurpriseA} {body-B}Hello? {ThinkingB}Anybody in there?
+7)  LEE
+[calling up to a treehouse] {body-B}{ThinkingB}I thought I saw a little girl in the forest... {SurpriseC}Are you up there? {AngryD}{body-C}I'm not one of those things.
+8)  LEE
+[calling up to a treehouse] {SadA} {body-b} I guess it's empty.
+9)  LEE
+{ThinkingB} {body-B} I wonder if anybody's home.
+10)  LEE
+{AngryB} {body-B} Screw it. {ThinkingB} I'm just going to go in.
+11)  LEE
+{surpriseA} {body-B} Hello? {ThinkingA} Anybody home? {FearB}I need a little help.
+12)  LEE
+{SurpriseB} {body-B} Hellooo. There's {ThinkingA}something going on.
+13)  LEE
+{SadB} {body-B} Doesn't seem like anybody's home.
+14)  LEE
+{ThinkingA} {body-B} Maybe it's unlocked.
+15)  LEE
+[to nobody in particular] {ThinkingA} {body-B}Coming in. {FearA} Don't shoot, {SadB}ok?
+34)  LEE
+[to nobody in particular] {ThinkingA} {body-B}Coming in. {FearA} Don't shoot, {SadB}ok?
+16)  LEE
+[to himself] Maybe there is something on there.
+17)  LEE
+Something went down in Savannah, too. I hope Macon's all right.
+18)  ANSWERING MACHINE
+Three new messages.
+19)  ANSWERING MACHINE
+Message one. Left at five-forty-three p.m.
+20)  MOM
+Hey, Sandra, this is Diana. We're still in Savannah. Ed had a little 'incident' with some crazy guy near the hotel, so we had to get him back to the ER and have it checked out. Anyway, he's not feeling well enough to drive back tonight, so we're staying an extra day. Thanks so much for looking after Clementine, and I promise we'll be back in time before your spring break!
+21)  ANSWERING MACHINE
+Message two. Left at eleven-nine-teen p.m.
+22)  MOM
+Oh my God, finally! I don't know if you've tried to reach us; all the calls are getting dropped. They're not letting us leave and aren't telling us anything about Atlanta. Please, please, just leave the city and take Clementine with you back to Marietta. I've got to get back to the hospital. Please let me know that you're safe.
+23)  ANSWERING MACHINE
+Message three. Left at six-fifty-one a.m.
+24)  MOM
+Clementine? Baby, if you can hear this, call the police. That's 911. We will always love y-
+25)  DIR
+The message cuts out.
+26)  ANSWERING MACHINE
+No new messages.
+27)  CLEMENTINE
+Let's go see!
+28)  CLEMENTINE
+Yeah!
+29)  LEE
+{ThinkingA}Someone is out there.
+30)  LEE
+{SurpriseA} {body-B}Did you hear that?
+31)  LEE
+{ThinkingB} {body-C}Ok, but be careful -- {NormalD}keep an eye out.
+32)  LEE
+{ThinkingA} {body-B} Maybe I should just check inside the house, {ThinkingB}through the glass door, {NormalB}{body-A}before wandering out into the neighborhood.
+33)  LEE
+{FearA} {body-B}There's someone out front. {ThinkingA}We're not going back up there.
+35)  LEE
+[pickup1][pained] {DisgustA} {body-B}I don't even like the woods.
+36)  LEE
+[pickup1] [pained] [Sarcastic] {HappyA} {body-B}Maybe I'll just go for a dip. [in the pool]
+37)  LEE
+[pickup1] [pained] {FearA} {body-B}I'd fill one of those tea cups with some bourbon if I could.
+38)  LEE
+[pickup1][pained] [to himself] {FearA} {body-A}What the fuck happened to everybody?
+39)  LEE
+[pickup1][pained] {FearB} {body-C}I can't go back out there.
+40)  LEE
+[pickup1][pained BIG yell] HELLOOOO? ANYBODY?
+41)  LEE
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{FearB}HELP!
+42)  LEE
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help]{Body-B}{SadB}Somebody? {FearA}YELL IF YOU CAN HEAR ME!
+43)  LEE
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{SurpriseA}IS THERE ANYBODY HERE?!
+44)  LEE
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{DisgustA}Strange man here! Bleedin' in your backyard!
+45)  LEE
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{AngryA}THIS WOULD NORMALLY GET A MAN ARRESTED… Again.
+46)  LEE
+[pickup1][pained, sad, lost alone, looking for help] {Body-B}{SadA}Please... Please...{SadB}someone… someone… anybody…
+47)  
+Treehouse
+48)  
+Gate
+49)  
+Tea Set
+50)  
+Pool Cover
+51)  
+Woods
+52)  
+Fence
+53)  
+Sliding Glass Door
+54)  
+Look At
+104)  
+Look At
+55)  
+Talk to
+56)  
+Look at
+57)  
+Open
+106)  
+Open
+58)  LEE
+[pickup3] [quiet] Now let's stay quiet; we'll head out to the front yard and follow the road out of the neighborhood.
+59)  LEE
+[pickup3] It'll be ok. Stay near me and we'll move as fast as we can.
+60)  CLEMENTINE
+[pickup1] [scared, quiet] Ok.
+61)  CLEMENTINE
+[pickup1][just being shot at, close to Lee, hiding] Are we going to die?
+62)  MITCHELL
+[distant, offscreen] I found the bastard!
+63)  
+No.
+64)  
+I don't know.
+65)  
+They're after me, not you.
+66)  
+[Remain Silent]
+75)  
+[Remain Silent]
+110)  
+[Remain Silent]
+67)  LEE
+[pickup3][hushed, hiding from someone trying to kill you, frazzled to hell] No, I'm sure we're fine.
+68)  LEE
+[pickup3] [hushed, hiding from someone trying to kill you, frazzled to hell] I don't know. I'm sorry.
+69)  CLEMENTINE
+[pickup1][scared, quiet] I..I...
+70)  LEE
+[pickup3][quiet, just having been shot at] They're after me, not you.
+71)  CLEMENTINE
+[pickup1] [quiet, scared] Why? [she isn't answered]
+72)  CLEMENTINE
+[pickup1][super quiet,stressed, eyes squeezed shut, hiding] I want my dad.
+111)  CLEMENTINE
+[pickup1][super quiet,stressed, eyes squeezed shut, hiding] I want my dad.
+73)  SHAWN
+[pickup1] Dude, he won't listen to that.
+74)  MITCHELL
+[offscreen] Stay down! Georgia State Patrol!
+76)  
+Ok!
+77)  
+I'll come quietly!
+78)  
+We're friendly!
+79)  LEE
+[pickup3] [projecting] [don't move!] OK!
+80)  LEE
+[pickup3][projecting][don't move] I'll come quietly!
+81)  LEE
+[pickup3][projecting][don't move]There's a little girl here!
+83)  LEE
+[pickup3][projecting][don't move]There's a little girl here!
+82)  LEE
+[pickup3][projecting][don't move] We're friendly!
+84)  SHAWN
+[pickup1] DUDE; those things aren't afraid of bullets, these are survivors!
+85)  MITCHELL
+We fucking got him!
+86)  LEE
+[pickup3] Neither of us are.
+87)  MITCHELL
+Oh shit! You're not one of those things!
+88)  MITCHELL
+Wait; why'd you say you'd come quietly?
+89)  MITCHELL
+[correcting someone, curtly]It's Officer Mitchell.
+99)  MITCHELL
+[correcting someone, curtly]It's Officer Mitchell.
+103)  MITCHELL
+[correcting someone, curtly]It's Officer Mitchell.
+113)  MITCHELL
+[correcting someone, curtly]It's Officer Mitchell.
+90)  SHAWN
+[pickup1] We're sorry about that. Well, Andre's sorry about that.
+98)  SHAWN
+[pickup1] We're sorry about that. Well, Andre's sorry about that.
+102)  SHAWN
+[pickup1] We're sorry about that. Well, Andre's sorry about that.
+115)  SHAWN
+[pickup1] We're sorry about that. Well, Andre's sorry about that.
+91)  MITCHELL
+I almost took your head off.
+100)  MITCHELL
+I almost took your head off.
+114)  MITCHELL
+I almost took your head off.
+92)  LEE
+[pickup3] Just confused, you know. Didn't want any trouble.
+93)  MITCHELL
+Aww man, no shit. I'm sorry about that.
+97)  MITCHELL
+Aww man, no shit. I'm sorry about that.
+94)  LEE
+[pickup3] You're the law, you know? You don't mess with that.
+95)  LEE
+[pickup3] I thought I was being arrested.
+96)  SHAWN
+[pickup1] Goddamn, Andre. He's scared shitless.
+112)  SHAWN
+[pickup1] Goddamn, Andre. He's scared shitless.
+101)  MITCHELL
+Oh damn, you've got a little girl.
+105)  
+Knock
+107)  
+I was confused.
+108)  
+You're the law, man.
+109)  
+I thought I was being arrested.

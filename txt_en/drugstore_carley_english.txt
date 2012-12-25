@@ -1,0 +1,262 @@
+1)  LEE
+{NormalB}{body-A}Hey Carley.
+2)  LEE
+{NormalB}{body-A}Hey there.
+3)  CARLEY
+{ThinkingA}{body-StandA}Well you don't fuck with a reporter, {HappyA}especially one that's three days out from her last cup of coffee.
+4)  LEE
+{HappyA}{body-E}You're a pretty good shot.
+6)  CARLEY
+{NormalB}{Body-StandA}You got it. {ThinkingA}You?
+7)  LEE
+{SadA}{body-C}You ready to head out?
+8)  LEE
+{ThinkingA}{body-B}Yeah. [let's go]
+9)  LEE
+{ThinkingB}{body-A}In a minute.
+10)  CARLEY
+{NormalC}Let's go.
+11)  CARLEY
+{HappyA}Ok, let me know.
+12)  
+Exit
+14)  
+Topic in sequence
+15)  LEE
+{HappyA}{body-E}You seem to handle yourself pretty well.
+16)  LEE
+{ThinkingA}{body-A}How'd you end up here?
+17)  CARLEY
+{SadA}She was an asshole, but, {SadB}you know.
+18)  LEE
+{HappyB}{body-E}I can't tell.
+19)  CARLEY
+{HappyA}{Body-StandA}Ha, really? I'm a disaster.
+20)  LEE
+{SadA}{body-C}Yeah.
+21)  LEE
+{SadB}{body-C}I'm sorry.
+22)  CARLEY
+{SadA}My news editor was eaten about five feet away from me, and {FearA}I would've joined her if it wasn't for that {SadA}dorky guy on watch over there.
+23)  
+You handle yourself well.
+24)  
+That guy saved you?
+25)  LEE
+{DisgustB}{body-C}That guy saved you?
+26)  LEE
+{HappyA}{body-C}You can never tell who the heroic ones are going to be, I suppose.
+27)  LEE
+{SurpriseA}{body-B}Huh?
+28)  CARLEY
+{HappyA}He's kind of cute, {ThinkingA}in that parent's basement sort of way.
+29)  CARLEY
+{HappyB}{body-B}Yeah, can you believe it? {FearA}Those creeps, or-or ghouls or {AngryB}whatever the hell they are, they were pulling our van apart and that guy, {FearA}Doug, {HappyA}just came to the rescue.
+30)  CARLEY
+{FearA}Huh? {HappyA}Oh...nothing.
+31)  CARLEY
+{ThinkingB}Right.
+32)  CARLEY
+{HappyA}Local?
+33)  CARLEY
+{NormalC}{Body-StandB}We drove up to cover the Cherry Blossom festival. {ThinkingA}Real hard-hitting stuff.
+34)  LEE
+{FearA}{body-C}No, not really.
+35)  CARLEY
+{ThinkingA}Huh, that right.
+36)  LEE
+{HappyA}{body-A}Sounds worth it.
+37)  LEE
+{NormalA}{body-E}Athens.
+38)  LEE
+{ThinkingB}{body-B}I better get back to it.
+39)  CARLEY
+{NormalB}Yep.
+40)  CARLEY
+{HappyB}That's right. {ThinkingB}Well, until some piece of shit politicians yank our funding, and {ThinkingA}I hit the blogosphere.
+41)  3L. LEE
+Thanks, by the way.
+42)  CARLEY
+{SadA}{Body-StandA}Yeah, and I've got shit for recording equipment and {HappyA}from the looks of it, there isn't going to be any shortage of first-hand accounts.
+43)  LEE
+{ThinkingA}{body-E}You do radio?
+44)  CARLEY
+Don't mention it. Just remember what I said.
+45)  LEE
+Yeah, I will.
+46)  LEE
+{NormalD}{body-E}Story of the century here, huh?
+48)  
+Story of the century here, huh?
+66)  
+Story of the century here, huh?
+68)  
+Story of the century here, huh?
+49)  LEE
+{NormalD}{body-A}Thanks, by the way.
+50)  CARLEY
+{NormalA}{body-StandA}Don't mention it. {AngryA}Just remember what I said.
+51)  LEE
+{HappyA}{body-E}Yeah, I will.
+52)  CARLEY
+{ThinkingA}Are you sure your girl doesn't need it?
+128)  CARLEY
+{ThinkingA}Are you sure your girl doesn't need it?
+53)  LEE
+{HappyA}{body-A}You're welcome.
+131)  LEE
+{HappyA}{body-A}You're welcome.
+54)  CARLEY
+{ThinkingB}{Body-StandA}Oh, uh, thanks.
+130)  CARLEY
+{ThinkingB}{Body-StandA}Oh, uh, thanks.
+55)  LEE
+{NormalB}{body-A}Here, I've been finding some stuff to eat.
+129)  LEE
+{NormalB}{body-A}Here, I've been finding some stuff to eat.
+56)  LEE
+{NormalD}{body-B}Thanks.
+132)  LEE
+{NormalD}{body-B}Thanks.
+57)  LEE
+{NormalD}{body-A}She's good.{SadA} I've been trying to keep her fed and watered.
+133)  LEE
+{NormalD}{body-A}She's good.{SadA} I've been trying to keep her fed and watered.
+58)  CARLEY
+{HappyB}{Body-StandA}You're a good caretaker.
+134)  CARLEY
+{HappyB}{Body-StandA}You're a good caretaker.
+59)  CARLEY
+{HappyA}{Body-StandB}Yeah, give it to her. {ThinkingA}I can take care of myself.
+135)  CARLEY
+{HappyA}{Body-StandB}Yeah, give it to her. {ThinkingA}I can take care of myself.
+60)  LEE
+{HappyA}{body-B}Ok.
+136)  LEE
+{HappyA}{body-B}Ok.
+61)  LEE
+{NormalA}{body-A}Oh, uh, {ThinkingB}yea she might, I suppose.
+137)  LEE
+{NormalA}{body-A}Oh, uh, {ThinkingB}yea she might, I suppose.
+62)  LEE
+[pickup1] Can I do anything for you, Carley?
+63)  CARLEY
+[pickup1] [DIstrusting] I'm fine, thanks.
+64)  
+Yeah.
+65)  
+In a minute.
+67)  
+You ready to head out?
+69)  
+Talk to
+70)  
+Give Food to
+71)  
+How'd you end up here?
+72)  
+What are you working on?
+74)  
+Are you ok?
+75)  LEE
+[pickup3] Nah. [couldn't figure it out]
+76)  CARLEY
+[pickup1] Couldn't figure it out, huh?
+77)  LEE
+[pickup3] Yeah, give it a try.
+78)  CARLEY
+[pickup1] Eh, I'll keep trying.
+79)  LEE
+[pickup3] What are you messing around with there?
+80)  CARLEY
+[pickup1] A radio. I can't get it to work though.
+81)  LEE
+[pickup3] Here, let me have a look.
+82)  LEE
+[pickup3] I can try to find some. Needs two.
+83)  CARLEY
+[pickup1] Yeah, of course, I mean, yeah. [a beat] No.
+84)  LEE
+[pickup3] You know there are no batteries in that thing.
+85)  CARLEY
+[pickup1] Thanks, I wouldn't even really know what to look for.
+86)  
+I'm looking for batteries for your radio.
+87)  LEE
+[pickup3] I'm still looking for batteries for that thing.
+88)  CARLEY
+[pickup1] Thanks, I appreciate it.
+89)  LEE
+[pickup3] Let me have a look at that thing.
+119)  LEE
+[pickup3] Let me have a look at that thing.
+90)  LEE
+[pickup3] Yeah, these are no good.
+91)  CARLEY
+[pickup1] It needs the big, stumpy ones.
+92)  LEE
+[pickup3] I found this remote in the office but I'm pretty sure the batteries won't fit.
+93)  CARLEY
+[pickup1] Go ahead.
+120)  CARLEY
+[pickup1] Go ahead.
+94)  LEE
+[pickup3]
+95)  CARLEY
+[pickup1] [stern]I'm fine.
+96)  LEE
+[pickup3] That radio signoff didn't sound too good. Are you ok?
+97)  
+[Remain Silent]
+98)  
+You don't have to be...
+99)  
+Really? Everyone's dead!
+100)  
+Alright then.
+101)  LEE
+[pickup3] You don't have to be... it's traumatic.
+102)  CARLEY
+[pickup1] I'm sure some people got out. Maybe they're all being rescued. Then again, maybe not.
+103)  LEE
+[pickup3] You're really "fine"? All of your colleagues are probably dead.
+104)  CARLEY
+[pickup1] You don't think I know that?!? Of course I'm not fucking fine! God, Lee. Just, leave me alone.
+105)  LEE
+[pickup3] Alright, then. We don't need to talk about it.
+106)  CARLEY
+[pickup1] Thanks. There's nothing I can do now anyway.
+107)  CARLEY
+[pickup1] [follow up, emotional] ...I'm fine... [sigh] I'll be fine.
+108)  CARLEY
+[pickup1] What do you want? I told you to leave me alone.
+110)  CARLEY
+[pickup1] Great, thanks.
+111)  LEE
+[pickup3] This battery should fit the radio.
+112)  LEE
+[pickup3] I'll find another one.
+113)  CARLEY
+[pickup1] Should be able to get it to work now.
+114)  LEE
+[pickup3] And here's another one.
+115)  
+Still busted?
+116)  
+Let me have a look at that.
+117)  CARLEY
+[pickup1][frustrated] Yeah, I can't figure it out.
+118)  LEE
+[pickup3] It's still not working?
+121)  
+Show remote to
+122)  
+Give battery to
+124)  
+I found a battery.
+126)  
+I found a battery.
+125)  
+Here's another battery.
+127)  
+Here's another battery.

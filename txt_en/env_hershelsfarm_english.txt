@@ -1,0 +1,1104 @@
+1)  JAKE
+Oh man I'm such a fart. KAFUCKINGBOOM!
+2)  HERSHEL
+[pickup1][utterly relieved]Thank God, you're ok.
+3)  SHAWN
+{sadA}{body-standB} I was worried it'd be bad here, too.
+4)  HERSHEL
+{thinkingA} We haven't seen a thing. City problem, it seems. {happyA}{body-standhandships} And you've brought guests. What can we do for you?
+5)  LEE
+{normalD}{body-A} Your boy's a lifesaver.
+6)  LEE
+{sadA} We uhh... need a place to stay.
+7)  LEE
+{thinkingA} We just need a little... help. We won't stay long.
+8)  LEE
+{sadA} We're looking for anywhere safe.
+9)  
+Your boy is a lifesaver.
+10)  
+We need a place to stay.
+11)  
+We just need some help.
+12)  
+We're looking for anywhere safe.
+13)  HERSHEL
+[sarcastic] {normalB} Glad he could be of help to somebody.
+14)  HERSHEL
+{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+16)  HERSHEL
+{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+17)  HERSHEL
+{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+18)  HERSHEL
+{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+368)  HERSHEL
+{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+534)  HERSHEL
+{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+15)  HERSHEL
+{normalA} Good.
+19)  SHAWN
+{normalC} He's hurt and he's trying to get to Macon. I told him you could patch him up.
+20)  LEE
+{disgustA} My leg's a little banged up. {fearA} Shawn said you might be able to wrap it, at least.
+21)  HERSHEL
+{happyA}{body-standA} I can help you out.  Shawn, run on in and check on your sister. You, take a seat up on the porch and I'll go see what I have.
+22)  HERSHEL
+{normalC} Let's have a look. [a beat...] {disgustA} Yeah, this is swollen to hell.
+23)  LEE
+{thinkingB} It HURTS like hell.
+24)  LEE
+{normalC} It's not too bad.
+25)  LEE
+{normalC} Could be worse.
+26)  HERSHEL
+{sadA} I bet it does
+27)  HERSHEL
+[Rhetorical] {happyA} Tough guy, huh?
+28)  HERSHEL
+{thinkingA} That's what it sounds like. Seems like things got awful bad in the cities.
+29)  HERSHEL
+{normalA} Well you don't say much. {happyA}  Wish I had five just like you.
+523)  HERSHEL
+{normalA} Well you don't say much. {happyA}  Wish I had five just like you.
+30)  
+It hurts like hell.
+31)  
+It's not too bad.
+32)  
+Could be worse.
+33)  HERSHEL
+{thinkingA} What'd you say your name was?
+34)  LEE
+{happyA} It's Lee.
+35)  LEE
+{angryA} Doesn't matter, right?
+36)  LEE
+{angryA} I didn't.
+37)  
+It's Lee.
+38)  
+Doesn't matter.
+39)  
+I didn't.
+40)  HERSHEL
+{happyA} Nice to meet you, Lee. I'm Hershel Greene.
+48)  HERSHEL
+{happyA} Nice to meet you, Lee. I'm Hershel Greene.
+524)  HERSHEL
+{happyA} Nice to meet you, Lee. I'm Hershel Greene.
+544)  HERSHEL
+{happyA} Nice to meet you, Lee. I'm Hershel Greene.
+41)  HERSHEL
+{disgustA} Huh. Well, if you're going to be here overnight I'm going to need it. {angryA} Unless you'd rather hit the road.
+42)  LEE
+{thinkingA} It's Lee.
+43)  HERSHEL
+{happyA} Well Lee -- just Lee, I take it? I'm Hershel Greene.
+44)  HERSHEL
+{angryA} Well, now's the time.
+45)  HERSHEL
+{angryA} I'm gonna need a name.
+526)  HERSHEL
+{angryA} I'm gonna need a name.
+542)  HERSHEL
+{angryA} I'm gonna need a name.
+46)  LEE
+{normalB} It's Lee.
+525)  LEE
+{normalB} It's Lee.
+543)  LEE
+{normalB} It's Lee.
+47)  HERSHEL
+{normalC} That wasn't so hard, was it?
+527)  HERSHEL
+{normalC} That wasn't so hard, was it?
+545)  HERSHEL
+{normalC} That wasn't so hard, was it?
+49)  HERSHEL
+{sadA} How'd this happen?
+50)  LEE
+[Lie] {thinkingA} I fell trying to get away from one of those things.
+51)  LEE
+[short] {sadA} Car accident.
+52)  LEE
+{sadA} I just twisted it.
+53)  LEE
+{thinkingA} I don't even remember. {sadA} It's crazy back there in the city.
+528)  LEE
+{thinkingA} I don't even remember. {sadA} It's crazy back there in the city.
+54)  
+I fell.
+55)  
+Car accident.
+56)  
+Jumping a fence.
+409)  LEE
+Jumping a fence.
+57)  
+I don't remember.
+58)  HERSHEL
+{thinkingA} That so. [doubting]
+59)  HERSHEL
+{thinkingA} That so. [doubting]
+60)  HERSHEL
+{thinkingA} That so. [doubting]
+61)  HERSHEL
+{thinkingA} Huh. It must be.
+529)  HERSHEL
+{thinkingA} Huh. It must be.
+62)  HERSHEL
+Huh. It must be.
+63)  LEE
+{sadA} I found her on own just outside of Atlanta.
+64)  LEE
+{happyA} Thanks. She's {thinkingA} not my daughter.
+65)  HERSHEL
+{thinkingA} Oh?
+66)  SHAWN
+{sadA} {body-standB} Hey dad, {thinkingB} so I'm thinking, first thing tomorrow, we gotta reinforce the fence around the farm.
+67)  HERSHEL
+[pickup1]House is full up with mine. We've got another displaced family of three sleeping in the barn. You and your daughter are welcome to rest there, when we're done here.
+68)  LEE
+{normalB} I'm looking after her until we {normalC}find her parents.
+69)  HERSHEL
+{disgustA} That doesn't seem necessary.
+70)  SHAWN
+[pickup1] I don't know what you saw on TV, or heard on the radio, but there's some {fearA}serious...[keeps it down with a kid around] {thinkingA} SHIT hitting the fan.
+71)  
+Your son is right.
+72)  
+I wouldn't worry too much.
+73)  LEE
+{normalA} Your son's right. {angryA} You're going to want to fortify this place.
+74)  LEE
+{thinkingA} I wouldn't worry too much.  We're pretty far from the city, it seems like that's where it's the worst.
+75)  SHAWN
+{angryA} Dad, I'm serious. {sadA} Lee, come on, tell him what you saw out there, man.
+76)  HERSHEL
+{happyA} Stuff like that doesn't happen around here, Shawn.
+77)  LEE
+{fearA} I watched a man let himself get run over without blinking an eye.
+78)  LEE
+{fearA} I saw a cop come back from the dead.
+79)  LEE
+{fearA} I got chased by two undead monsters. Zombies, {thinkingA} as dumb as it sounds.
+80)  LEE
+{fearA} Teenage girl with her guts spilled out on the floor stood up from the dead and tried to bite me.
+81)  
+I watched a man let himself get run over.
+82)  
+A man got run over.
+83)  
+A dead cop crawling on the ground.
+84)  
+Dead people, walking.
+85)  
+A girl with her guts spilled out.
+86)  SHAWN
+{sadB} Come on, tell him.
+87)  SHAWN
+{angryA} Tell him!
+88)  LEE
+[giving in] {normalD} All right.
+89)  HERSHEL
+{happyA} Well, I'm all done here. It should start to feel better tomorrow.
+90)  LEE
+{normalA} All right then.
+91)  LEE
+{happyA} Thanks.
+92)  HERSHEL
+{normalB} There's blankets and such in the barn. We'll be seeing you bright and early.
+93)  HERSHEL
+{happyB} Goodnight, Clementine.
+94)  HERSHEL
+{angryA} I already said ok.
+95)  CLEMENTINE
+{happyB} Goodnight.
+96)  HERSHEL
+{sadA} Well, do what you think you should.  {normalA} We've got plenty of chores as it is.
+97)  SHAWN
+{normalA} Lee and those folks in the barn can help out in the morning. {thinkingA} We gotta do it, really.
+98)  CLEMENTINE
+[mumbled sleep talk] {fearB} They're-they're out there... eating... I don't want to go...
+99)  LEE
+[kind of to himself] {normalA} The barn is safer {thinkingA} but not any comfier.
+100)  LEE
+{happyA} I know what it smells like.
+101)  LEE
+[quiet] {sadA} Shh. You're dreaming.
+102)  CLEMENTINE
+[dreaming, asleep, mumbled] Sorry, dad.
+103)  CLEMENTINE
+{normalA} I'm glad I'm not in the treehouse toni...
+104)  CLEMENTINE
+{thinkingB} It smells like...
+105)  MAN
+Lee, you're a good a guy, you know that?
+106)  OTHER MAN
+[SCREAM]
+112)  WOMAN
+[SCREAM]
+113)  GIRL
+[SCREAM]
+114)  MAN
+[SCREAM]
+107)  MAN
+What, what are you gonna do?
+108)  WOMAN
+[Screaming, horribly][WHAT DID YOU DO?]
+109)  WOMAN
+[Laughs]
+110)  KENNY
+Hey, get up.
+547)  KENNY
+Hey, get up.
+548)  KENNY
+Hey, get up.
+111)  WOMAN
+I love you, baby.
+115)  WOMAN
+Oh hons! Don't be ridiculous... I'll be right back...
+116)  OTHER MAN
+[Authoritative, like a cop] Sir, get up.
+117)  KENNY
+{happyA} We better get going or we won't hear the end of it.
+118)  KENNY
+{happyB} But I bet your daddy scared 'em all away, huh?
+119)  KENNY
+{normalB} I'm Kenny.
+120)  KENNY
+{happyA}{body-standA} Good morning, pal. {thinkingA} Looks like there's a little work to be done and {happyB}I guess we're helping out.
+121)  LEE
+{thinkingA} I'm not her father, actually. {happyA} Name's Lee.
+122)  CLEMENTINE
+{thinkingB} I'm itchy.
+123)  LEE
+[groggy] [Yawns]
+124)  KENNY
+{happyC} Well you slept in a barn, little lady. Lucky you don't have spiders in your hair.
+125)  CLEMENTINE
+{fearB} [gasp]
+126)  DUCK
+Dad! We're gonna build a fence! There's a tractor and everything!
+127)  KENNY
+{happyB} That's my boy, Ken Junior. We call him Duck, though.
+128)  LEE
+{thinkingB} Duck?
+129)  LEE
+{happyA} Dodging or quacking?
+130)  LEE
+{thinkingB} Where do parents name their kids Duck?
+131)  
+Duck?
+132)  
+Dodging or quacking?
+133)  
+Where do parents name their kid "duck"?
+134)  LEE
+{normalC} That's a valuable trait lately.
+135)  KENNY
+{normalB} Yea. Nothing bothers him. {happyA} Like water off a duck's back, y'know.
+136)  KENNY
+{thinkingA} No kidding. {sadA} But frankly, I think it's because he's dumb as a bag of hammers.
+137)  KENNY
+{happyC} But he makes up for it with enthusiasm.
+138)  DUCK
+[from offscreen] DAAAAD!
+140)  DUCK
+[from offscreen] DAAAAD!
+139)  KENNY
+{happyA} Quacking.
+141)  KENNY
+{thinkingA} See?
+142)  KENNY
+{happyA} We're from Fort Lauderdale. {normalC} We were on our way back before things up and went bananas.
+143)  KENNY
+{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+315)  KENNY
+{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+321)  KENNY
+{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+322)  KENNY
+{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+326)  KENNY
+{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+522)  KENNY
+{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+538)  KENNY
+{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+144)  KENNY
+{happyA} The word is you were on your way to Macon.
+317)  KENNY
+{happyA} The word is you were on your way to Macon.
+319)  KENNY
+{happyA} The word is you were on your way to Macon.
+323)  KENNY
+{happyA} The word is you were on your way to Macon.
+329)  KENNY
+{happyA} The word is you were on your way to Macon.
+521)  KENNY
+{happyA} The word is you were on your way to Macon.
+539)  KENNY
+{happyA} The word is you were on your way to Macon.
+145)  LEE
+{normalC} My family is from there.
+314)  LEE
+{normalC} My family is from there.
+320)  LEE
+{normalC} My family is from there.
+324)  LEE
+{normalC} My family is from there.
+327)  LEE
+{normalC} My family is from there.
+519)  LEE
+{normalC} My family is from there.
+541)  LEE
+{normalC} My family is from there.
+146)  KENNY
+{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+316)  KENNY
+{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+318)  KENNY
+{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+325)  KENNY
+{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+328)  KENNY
+{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+520)  KENNY
+{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+540)  KENNY
+{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+147)  LEE
+{happyA} Sure, we'll... tag along.
+148)  LEE
+{normalD} Maybe, we'll see how things shake out with this Hershel guy.
+149)  LEE
+{normalC} I'll see what the girl would like.
+150)  LEE
+{happyA} Thanks, but no thanks.
+151)  
+Sure, we'll tag along.
+152)  
+Maybe. Let's see how things turn out.
+153)  
+I'll ask the girl.
+154)  
+No thanks.
+155)  KENNY
+{happyB} It's a plan then.
+156)  KENNY
+{happyC} Ha, good luck with that. He's a hard ass.
+157)  KENNY
+{happyC} Ah, [sarcasm, he's talking about a little girl]Gotta consult the missus. {happyA} I understand.
+158)  KENNY
+{sadA} Damn, friend. {normalB} You must be some kind of something if you think you two can survive out there on your own.
+159)  KENNY
+[introducing someone after hearing her name for the first time] {happyC} Clementine.
+160)  DUCK
+{surprisedA} On the tractor? {happyC} Cool!
+161)  SHAWN
+{normalB}{body-standA} Well, we should get to work. {sadA} We've all seen what those things can do out there so the faster we get this fence up, the better.
+162)  SHAWN
+{happyC} Yeah? Well I need a good foreman. {sadA} You can sit on the tractor and yell at me whenever I take a water break.
+163)  KATJAA
+{happyA} I can keep an eye on your little girl here on the porch. We can visit.
+164)  CLEMENTINE
+[shy, quiet] Thanks.
+165)  LEE
+{normalB} Clementine.
+166)  KATJAA
+{happyD} That is a very pretty name.
+167)  SHAWN
+{normalC} My dad's over at the barn doing some work, so he could use some help too. {happyA} For now, Duck and I will hop to it.
+168)  KENNY
+{happyA} Honey, Duck, this is Lee and uh, {thinkingA} what's the girl's name?
+169)  DUCK
+{happyB}{body-standA}  I want to build a fence.
+170)  LEE
+{happyA} Ok, I'd appreciate that.
+171)  LEE
+{thinkingA} I don't know if that's a good idea.
+172)  LEE
+{sadA} If you see anything, you get inside and lock the door.
+173)  
+Ok, thanks.
+174)  
+I don't know if that's a good idea.
+175)  
+If you see anything, get inside.
+176)  KATJAA
+{happyC} My pleasure.
+177)  KENNY
+{normalA} She'll be ok, Lee. My wife might not look like much, {happyA}but I'd rather meet a pack of flesh-eaters in a dark alley than Katjaa in her mama lion mode.
+181)  KENNY
+{normalA} She'll be ok, Lee. My wife might not look like much, {happyA}but I'd rather meet a pack of flesh-eaters in a dark alley than Katjaa in her mama lion mode.
+178)  KATJAA
+{normalA} Best to keep her out of trouble. {happyA}Plus we'll be safest near the house.
+179)  LEE
+{happyA} That ok with you, Clementine?
+180)  KATJAA
+{fearA} Of course.
+182)  KENNY
+[overcome, having just saved his son] I got you!
+191)  KENNY
+[overcome, having just saved his son] I got you!
+194)  KENNY
+[overcome, having just saved his son] I got you!
+288)  KENNY
+[overcome, having just saved his son] I got you!
+306)  KENNY
+[overcome, having just saved his son] I got you!
+311)  KENNY
+[overcome, having just saved his son] I got you!
+551)  KENNY
+[overcome, having just saved his son] I got you!
+183)  SHAWN
+KENNY! HELP LEE!
+189)  SHAWN
+KENNY! HELP LEE!
+264)  SHAWN
+KENNY! HELP LEE!
+338)  SHAWN
+KENNY! HELP LEE!
+341)  SHAWN
+KENNY! HELP LEE!
+345)  SHAWN
+KENNY! HELP LEE!
+184)  LEE
+I CAN'T MOVE THIS BY MYSELF!
+190)  LEE
+I CAN'T MOVE THIS BY MYSELF!
+263)  LEE
+I CAN'T MOVE THIS BY MYSELF!
+340)  LEE
+I CAN'T MOVE THIS BY MYSELF!
+343)  LEE
+I CAN'T MOVE THIS BY MYSELF!
+348)  LEE
+I CAN'T MOVE THIS BY MYSELF!
+185)  SHAWN
+KENNY!!!
+187)  SHAWN
+KENNY!!!
+261)  SHAWN
+KENNY!!!
+337)  SHAWN
+KENNY!!!
+344)  SHAWN
+KENNY!!!
+346)  SHAWN
+KENNY!!!
+186)  LEE
+[pushing with all of his might] I'm trying...
+188)  LEE
+[pushing with all of his might] I'm trying...
+262)  LEE
+[pushing with all of his might] I'm trying...
+339)  LEE
+[pushing with all of his might] I'm trying...
+342)  LEE
+[pushing with all of his might] I'm trying...
+347)  LEE
+[pushing with all of his might] I'm trying...
+192)  SHAWN
+LEE, HELP ME! PLEASE!
+292)  SHAWN
+LEE, HELP ME! PLEASE!
+308)  SHAWN
+LEE, HELP ME! PLEASE!
+310)  SHAWN
+LEE, HELP ME! PLEASE!
+352)  SHAWN
+LEE, HELP ME! PLEASE!
+353)  SHAWN
+LEE, HELP ME! PLEASE!
+357)  SHAWN
+LEE, HELP ME! PLEASE!
+193)  SHAWN
+They're almost through!
+290)  SHAWN
+They're almost through!
+305)  SHAWN
+They're almost through!
+312)  SHAWN
+They're almost through!
+350)  SHAWN
+They're almost through!
+356)  SHAWN
+They're almost through!
+359)  SHAWN
+They're almost through!
+195)  SHAWN
+GET THIS TRACTOR OFF OF ME!
+291)  SHAWN
+GET THIS TRACTOR OFF OF ME!
+304)  SHAWN
+GET THIS TRACTOR OFF OF ME!
+309)  SHAWN
+GET THIS TRACTOR OFF OF ME!
+349)  SHAWN
+GET THIS TRACTOR OFF OF ME!
+355)  SHAWN
+GET THIS TRACTOR OFF OF ME!
+360)  SHAWN
+GET THIS TRACTOR OFF OF ME!
+196)  LEE
+Now Shawn!
+289)  LEE
+Now Shawn!
+197)  SHAWN
+AHHHH!
+362)  SHAWN
+AHHHH!
+198)  SHAWN
+AAHH! [gurgling, being eaten all over the neck and face] AHH!!!
+363)  SHAWN
+AAHH! [gurgling, being eaten all over the neck and face] AHH!!!
+199)  SHAWN
+It just rolled onto me! AHHH!
+200)  LEE
+Can we drive it off?!
+201)  SHAWN
+Just get it off!
+202)  LEE
+I don't know how to drive this thing!
+203)  SHAWN
+JUST PUSH!
+204)  KENNY
+They've got Duck! THEY'VE GOT HIM!
+274)  KENNY
+They've got Duck! THEY'VE GOT HIM!
+205)  LEE
+KENNY, I need your help!
+273)  LEE
+KENNY, I need your help!
+206)  LEE
+Free  your son and then HELP!
+207)  LEE
+KENNY, PLEASE. I'm going to need your help!
+208)  LEE
+COME ON...COME ON...
+277)  LEE
+COME ON...COME ON...
+209)  LEE
+GRRRRR! [pushing tractor hard]
+272)  LEE
+GRRRRR! [pushing tractor hard]
+210)  LEE
+GRRRRAAAA!!! [pushing as hard as you can]
+211)  LEE
+How are these things to drive?
+212)  DUCK
+Awesome![how is that to drive?]
+213)  SHAWN
+Pain in the ass, mostly. Big, heavy as hell and slower than uh...
+214)  SHAWN
+It's just whatever scraps I could find around the property.
+215)  SHAWN
+Dad's been asking me to haul that stuff to the dump for weeks. Glad I didn't.
+216)  KENNY
+It's not the most reliable pick-up in the world, but it gets the job done.
+217)  KENNY
+It's actually a piece of shit, but hauls all right.
+218)  LEE
+Do you uh… think this thing will keep them out?
+219)  SHAWN
+Not yet; I'm planning on coming back through on "fortification pass" if you will. We'll lock this place up good.
+220)  HERSHEL
+[explodes] {angryD} GET THE FUCK OUT OF HERE.
+221)  HERSHEL
+{angryC} SORRY? {angryB} Your son is alive. You don't get to be sorry.
+222)  KENNY
+{sadB}{body-standA} I'm sorry.
+223)  HERSHEL
+[quiet, snarling, about to explode] {disgustA}{body-standB} Get out.
+224)  HERSHEL
+{angryD} And YOU. You didn't even try to help.
+225)  LEE
+{sadC}{body-A} I'm sorry.
+226)  LEE
+{sadB}{body-A} I panicked.
+227)  LEE
+{sadA}{body-A} I was worried about the boy.
+228)  LEE
+{sadB}{body-A} I thought I could help them both.
+229)  
+I'm sorry.
+230)  
+I panicked.
+231)  
+I was worried about the little boy.
+232)  
+I thought I could help them both.
+233)  HERSHEL
+{disgustA} Look at him.
+234)  HERSHEL
+{angryC} LOOK AT HIM.
+235)  HERSHEL
+{angryB} Sorry is no damn good.
+236)  HERSHEL
+{angryC} Remember THAT next time you panic.
+237)  HERSHEL
+{angryC} But you weren't worried about THAT.
+238)  HERSHEL
+{disgustA} You thought wrong. {fearA} And now...
+239)  HERSHEL
+{disgustA} You've got nothing to say to him, do you?
+240)  HERSHEL
+You've got nothing to say to that???
+241)  HERSHEL
+{fearA} You tried to help him, {angryC} but this piece of shit let him die.
+242)  
+...
+243)  
+It's my fault.
+244)  
+It's nobody's fault.
+245)  
+It's Kenny's fault.
+246)  LEE
+{sadC}{body-A} I wasn't strong enough. I'm sorry.
+247)  LEE
+{sadA}{body-A} You can't blame Kenny.
+248)  LEE
+{angryA}{body-A} If Kenny had helped, your son would be alive.
+249)  HERSHEL
+[crying, losing it] {sadB} Please, just go. {angryD} Get out and never come back.
+537)  HERSHEL
+[crying, losing it] {sadB} Please, just go. {angryD} Get out and never come back.
+250)  KENNY
+{fearA} You've got that ride to Macon if you want it.
+251)  HERSHEL
+{sadB} You don't need to say anything. {angryA}You tried.
+536)  HERSHEL
+{sadB} You don't need to say anything. {angryA}You tried.
+252)  HERSHEL
+{disgustA} If your girl is ever trapped you better hope you get stronger or your {angryA}friends aren't cowards.
+253)  HERSHEL
+{angryC} The hell I can't. You watch your back. {disgustA}Wait until it's your daughter and you need his help.
+254)  HERSHEL
+{angryB} And that's why I'll wish you were dead for the rest of my life.
+255)  SHAWN
+[avoiding a topic of convo] I'm good.
+256)  LEE
+Sure don't. I can give you a hell of a critique of the US Farm Bill though.
+257)  SHAWN
+You know how to drive it?
+258)  
+Tractor
+259)  
+Truck
+260)  
+Wood
+265)  LEE
+[pickup1] [urgent] I'll get Shawn! [you save the other guy]
+361)  LEE
+[pickup1] [urgent] I'll get Shawn! [you save the other guy]
+266)  KENNY
+[pickup1] [urgent] I've got you son!
+267)  LEE
+[pickup1] [urgent!]
+268)  SHAWN
+Get it off of me!
+301)  SHAWN
+Get it off of me!
+269)  KENNY
+[pickup1][panicked] Get this thing off of him!
+270)  LEE
+We're gonna get this thing off you!
+271)  SHAWN
+Fuck, they're coming man, they're coming!
+275)  SHAWN
+Fuck, it's crushed! Move this thing!
+297)  SHAWN
+Fuck, it's crushed! Move this thing!
+303)  SHAWN
+Fuck, it's crushed! Move this thing!
+550)  SHAWN
+Fuck, it's crushed! Move this thing!
+276)  LEE
+[pickup1] [lee struggles to pull a guy free from underneath a tractor]
+549)  LEE
+[pickup1] [lee struggles to pull a guy free from underneath a tractor]
+278)  LEE
+[you bash into something with your shoulder]
+283)  LEE
+[you bash into something with your shoulder]
+279)  LEE
+[Lee hits something with his fist]
+284)  LEE
+[Lee hits something with his fist]
+280)  KENNY
+[pickup1] Help me pull him!
+285)  KENNY
+[pickup1] Help me pull him!
+281)  DUCK
+DON'T LET 'EM TAKE ME!
+286)  DUCK
+DON'T LET 'EM TAKE ME!
+282)  KENNY
+[pickup1] KNOCK THAT THING BACK! [a zombie]
+287)  KENNY
+[pickup1] KNOCK THAT THING BACK! [a zombie]
+516)  KENNY
+[pickup1] KNOCK THAT THING BACK! [a zombie]
+293)  KENNY
+[pickup1] What the hell's wrong with you?
+307)  KENNY
+[pickup1] What the hell's wrong with you?
+313)  KENNY
+[pickup1] What the hell's wrong with you?
+351)  KENNY
+[pickup1] What the hell's wrong with you?
+354)  KENNY
+[pickup1] What the hell's wrong with you?
+358)  KENNY
+[pickup1] What the hell's wrong with you?
+294)  DUCK
+[a bunch of panicked/trapped/I don't want to die sounds1]
+295)  DUCK
+[a bunch of panicked/trapped/I don't want to die sounds1]
+296)  SHAWN
+My leg is stuck!
+298)  SHAWN
+KENNY! FUCK! HELP ME!
+299)  SHAWN
+LEE, please help me!
+300)  SHAWN
+HELP! FUCK! HELP!
+302)  LEE
+[pickup1] I'll try to pull you out! [super panicked]
+330)  
+Kenny
+335)  
+Kenny
+331)  
+Duck
+332)  
+Zombie
+333)  
+Shawn
+334)  
+Push Tractor
+336)  
+Help Kenny
+364)  HERSHEL
+[pickup1] Been quiet as usual the past couple days. Ol' Breckon down the way thinks his mare's gone lame but that ain't nothing new.
+365)  HERSHEL
+[pickup1]You've brought a couple guests.
+366)  SHAWN
+[pickup1] I told him we could help him out.
+535)  SHAWN
+[pickup1] I told him we could help him out.
+367)  LEE
+[pickup1] We'd really appreciate it.
+533)  LEE
+[pickup1] We'd really appreciate it.
+369)  HERSHEL
+[pickup1] So it's just you and your daughter then.
+370)  SHAWN
+[pickup1] Oh, not his daughter, he's the babysitter.
+371)  SHAWN
+[pickup1] Oh, not his daughter, he was her neighbor.
+372)  SHAWN
+[pickup1] Oh, not his daughter, he's... well... Just some guy who found her alone.
+373)  SHAWN
+[pickup1] Oh, not his daughter, he's.. a good Samaritan. [sincere]
+374)  HERSHEL
+[pickup1][talking to a little girl] Honey, do you know this man?
+375)  CLEMENTINE
+[pickup1] [small, shy, nervous] Yes.
+376)  HERSHEL
+[pickup1] Ok then.
+377)  HERSHEL
+[pickup1] Well, looks like you hurt your leg pretty bad there.
+378)  LEE
+[pickup1] Yeah, it's not doing so good.
+379)  LEE
+[pickup1] Pretty far.
+380)  CLEMENTINE
+[pickup1] [laying in bed. breaking the silence] I miss my mom and dad.
+381)  CLEMENTINE
+[pickup1] How far is Savannah?
+382)  LEE
+[pickup1] [sincere]I bet, Clem.
+383)  CLEMENTINE
+[pickup1][savannah is 'pretty far', quiet, in bed] Oh. Ok.
+384)  
+Shit.
+385)  
+Silent
+386)  
+You know...
+387)  CLEMENTINE
+[pickup1][it smells like...] Doo-dee.
+394)  CLEMENTINE
+[pickup1][it smells like...] Doo-dee.
+553)  CLEMENTINE
+[pickup1][it smells like...] Doo-dee.
+388)  LEE
+[pickup1] Yeah, it does smell like doo-dee.
+552)  LEE
+[pickup1] Yeah, it does smell like doo-dee.
+389)  
+Manure
+390)  LEE
+[pickup1][it smells like...] Manure.
+391)  LEE
+[pickup1][it smells like...] Shit.
+392)  LEE
+[pickup1][it smells like... trying to endear yoursefl to a little girl] Uhh… Poo.
+393)  LEE
+[pickup1][it smells like...] I know what it smells like.
+395)  CLEMENTINE
+[pickup1] Manure?
+396)  CLEMENTINE
+[pickup1] Like when a horse... plops?
+397)  LEE
+[pickup1] Just like that.
+398)  CLEMENTINE
+[pickup1][small, disapointed you has to sleep in a place that smells like poop] Eww...
+399)  CLEMENTINE
+[pickup1] That was a swear.
+400)  CLEMENTINE
+[pickup1][a little kid gasp when an adult swears]
+401)  LEE
+[pickup1] I know it was.
+402)  LEE
+[pickup1] I'm sorry; shouldn't talk like that.
+403)  CLEMENTINE
+[pickup1] My dad says "droppings."
+404)  SHAWN
+[pickup1] I don't think anyone knows how big it is yet.
+405)  HERSHEL
+[pickup1]You and the little girl are welcome to rest in there.
+406)  HERSHEL
+[pickup1] I didn't catch your name, darlin'.
+407)  CLEMENTINE
+[pickup1] Clem-Clementine.
+408)  HERSHEL
+[pickup1] Can't imagine what you've been through, Clementine.
+410)  HERSHEL
+[pickup1] Running from something? [suspicious]
+411)  LEE
+Just like everybody else.
+412)  HERSHEL
+[pickup1] [Agreeing] Yeah,
+413)  LEE
+I got chased by a couple of dead people.
+414)  LEE
+[awkward] Ok, that'd be preferable.
+415)  HERSHEL
+[pickup1] We'll clean it, re-dress it and you'll be fine.
+416)  HERSHEL
+[pickup1] If your leg gets hot or the swelling doesn't go down; you're probably dealing with an infection.
+417)  HERSHEL
+[pickup1] We'll probably just have to shoot you.
+418)  LEE
+[pickup1] What do we do then?
+419)  HERSHEL
+[pickup1] Where were you headed? Before the car accident?
+420)  HERSHEL
+[pickup1] {thinkingA} What type'a danger has the girl seen?
+421)  
+Home.
+422)  
+Nowhere.
+423)  
+Just out.
+424)  
+Out of Atlanta.
+425)  LEE
+{normalD} Home.
+426)  HERSHEL
+[pickup1] Where's home?
+427)  LEE
+I grew up in Macon.
+428)  HERSHEL
+[pickup1] I hope you're family's ok.
+429)  LEE
+{thinkingA} Nobody.
+436)  LEE
+{thinkingA} Nobody.
+446)  LEE
+{thinkingA} Nobody.
+449)  LEE
+{thinkingA} Nobody.
+430)  HERSHEL
+[pickup1] You said "we," that's all.
+439)  HERSHEL
+[pickup1] You said "we," that's all.
+444)  HERSHEL
+[pickup1] You said "we," that's all.
+450)  HERSHEL
+[pickup1] You said "we," that's all.
+431)  HERSHEL
+[pickup1] Who were you with, the girl? [puzzled]
+438)  HERSHEL
+[pickup1] Who were you with, the girl? [puzzled]
+443)  HERSHEL
+[pickup1] Who were you with, the girl? [puzzled]
+452)  HERSHEL
+[pickup1] Who were you with, the girl? [puzzled]
+432)  LEE
+{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+437)  LEE
+{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+445)  LEE
+{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+451)  LEE
+{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+532)  LEE
+{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+433)  HERSHEL
+With the supposed apocalypse startin'?
+434)  LEE
+Hadn't started yet.
+435)  LEE
+{normalD} Just out for a drive.
+440)  HERSHEL
+[pickup1] The news says stay.
+441)  LEE
+Yeah, well that's a mistake.
+442)  LEE
+{normalD} I was getting out of Atlanta.
+447)  LEE
+{thinkingA} Nowhere.
+530)  LEE
+{thinkingA} Nowhere.
+448)  HERSHEL
+Heard of it but never been there.
+531)  HERSHEL
+Heard of it but never been there.
+453)  
+Plenty.
+454)  
+Who knows.
+455)  
+She's safe now.
+456)  
+Nothing bad.
+457)  LEE
+{sadA} The kind there's a lot of.
+458)  HERSHEL
+[pickup1] I still just can't imagine it.
+464)  HERSHEL
+[pickup1] I still just can't imagine it.
+459)  LEE
+Consider yourself lucky.
+463)  LEE
+Consider yourself lucky.
+460)  LEE
+She had a few lonely days with nothing but the dead keeping her company.
+462)  LEE
+She had a few lonely days with nothing but the dead keeping her company.
+461)  LEE
+{sadA} Who knows.
+465)  LEE
+{surpriseA} What choice is there?
+466)  HERSHEL
+[pickup1] You're serious about taking care of her then?
+467)  LEE
+{normalD} She's safe now.
+468)  LEE
+{angryA} I'm not some kidnapper, all right? I'm just trying to help.
+469)  LEE
+{normalD} Nothing bad.
+470)  HERSHEL
+[pickup1] I just hope she's not in any now.
+471)  HERSHEL
+[pickup1] We can just leave it at that.
+472)  LEE
+I'm not her dad. Name's Lee.
+473)  LEE
+Towards Macon, I suppose.
+474)  HERSHEL
+[pickup1]Come tomorrow, which way you think you're headed?
+475)  
+Look At
+476)  
+Look At
+512)  
+Look At
+514)  
+Look At
+477)  CHET
+Hey, Shawn... I'm a' run on home. My mama's gonna be in a snit.
+478)  SHAWN
+[pickup1] No sweat, man. I'll catch you tomorrow night.
+479)  CHET
+It was nice to meet ya both.
+480)  SHAWN
+[pickup1][down] Yeah.
+481)  MITCHELL
+Take care, you two.
+482)  MITCHELL
+I'm sorry, Shawn. Chet was a good dude.
+483)  SHAWN
+[pickup1][down] One of the best.
+484)  MITCHELL
+Say hi to your dad for me.
+485)  SHAWN
+[pickup1] I wouldn't have made it back without Chet.
+486)  SHAWN
+[pickup1][down] I ran into Andre outside of Atlanta. And uh...Chet...he got killed.
+487)  HERSHEL
+[pickup1] I'm sorry, Shawn.
+488)  SHAWN
+[pickup1] Those things got him. Dad, I don't know what's going on.
+489)  HERSHEL
+[pickup1] No. You're kidding.
+490)  HERSHEL
+[pickup1] Well, I'm glad you took him with you then.
+491)  
+[Remain Silent]
+493)  
+[Remain Silent]
+492)  
+[Remain silent]
+494)  
+Nobody.
+495)  
+A police officer.
+497)  HERSHEL
+[pickup1] Awful nice of him.
+498)  LEE
+[pickup3] I was with a police officer. He was giving me a ride.
+499)  LEE
+[pickup3] I'm an awful nice guy.
+500)  LEE
+[pickup3] Yeah, it is.
+501)  HERSHEL
+[pickup1] Is that so.
+502)  HERSHEL
+[pickup1]You said we, that's all. Was just making conversation.
+503)  HERSHEL
+[pickup1] Asked you a question...
+504)  HERSHEL
+[pickup1] With what happened to your friend, maybe that's not a bad idea.
+505)  SHAWN
+[pickup1] Duck and I will hop to it.
+506)  SHAWN
+[pickup1] [hurt, mortally] I'm ok pop...I'm ok...
+507)  HERSHEL
+[pickup1] I can fix you, don't worry, we'll stitch you up.
+508)  SHAWN
+[pickup1] It almost… almost got me, man. [it did get him] Lee tried to save me.
+509)  HERSHEL
+[pickup1] I know, son.
+510)  SHAWN
+[pickup1] I...[dies]
+511)  
+Push
+513)  
+Push
+515)  
+Help
+517)  
+Board
+518)  
+2 x 4
+546)  
+Fence

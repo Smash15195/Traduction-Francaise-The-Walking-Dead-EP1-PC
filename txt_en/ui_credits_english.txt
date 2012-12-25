@@ -1,0 +1,498 @@
+1)  
+Death of a Stepsister
+2)  
+Based on the Comic Book by
+Robert Kirkman, Tony Moore and Charlie Adlard
+
+
+
+WRITTEN BY
+Sean Vanaman
+
+DESIGNED AND DIRECTED BY
+Sean Vanaman
+Jake Rodkin
+
+LEAD PROGRAMMER
+Carl Muckenhoupt
+
+ART DIRECTOR
+Derek Sakai
+
+LEAD ANIMATOR
+Peter Tsaykel
+
+LEAD CINEMATIC ARTIST
+Eric Parsons
+
+LEAD ENVIRONMENT ARTIST
+Jonathon Banks
+
+STORY CONSULTANT
+Gary Whitta
+
+PROGRAMMING
+Chris Bauer
+Kevin Bruner
+James Dzierwa
+Charlie Huguenard
+Andrew Langley
+Tulley Rafferty
+Randy Tudor
+
+ANIMATION
+Marat Davletshin
+Armando Lluch
+Jessica Lozano
+Jeff Sarre
+Simon Tan
+Michael Tjosvold
+Chris Waltner
+
+CINEMATIC ARTISTS
+Sean Ainsworth
+Vahram Antonian
+Rebekah Gamin
+Nick Herman
+Daniel Farjam Herrera
+Dennis Lenart
+Nick Mastroianni
+Graham Ross
+Ryann Lynn Weller
+Marius Fietzek
+
+CONCEPT ARTISTS
+Jesse Maccabe
+Gray Rogers
+
+ENVIRONMENT ART 
+Drew Di Domenico
+Brian Gillies
+Erik Ose
+
+CHARACTER ART
+Steven Moore
+
+CHARACTER LIGHTING
+Leif Estes
+Derek Sakai
+
+TECHNICAL ART AND EFFECTS
+Brian Eby
+Nora Magyar	
+Michael Perretta
+
+USER INTERFACE
+Nat Dart
+Jake Rodkin
+
+EXECUTIVE PRODUCERS
+Dan Connors
+Kevin Bruner
+Kevin Boyle
+Brett Tosti
+
+ASSOCIATE PRODUCERS
+Kirsten Kennedy 
+Chris Schroyer
+
+ASSISTANT PRODUCER
+Bryan Roth
+
+SPECIAL PROJECTS PRODUCER
+John "Seg" Seggerson
+
+TECHNICAL DIRECTOR
+Zacariah Litton
+
+DIRECTOR OF PRODUCTION TECHNOLOGIES
+Jonathan Sgro
+
+DIRECTOR OF ART
+Dave Bogan
+
+DIRECTOR OF DESIGN
+Dave Grossman
+
+DIRECTOR OF PRODUCTION SERVICES
+Dave Felton
+
+QA PROJECT LEAD
+Jeff Armstead
+
+ASSISTANT QA SUPERVISOR
+Caleb M. Hoffman
+
+QA TESTING
+Alex Culang
+Trent Burg
+Chuck Jose
+John Douglas Joy
+Ben Knoll
+Daniel Morris
+Matthew Pedonti
+Jason Pimentel
+Mike Sherak
+Will Wheeler
+Calvin Huang
+Airyque Ervin
+Kelly Robertson
+Craig Dauterive 
+
+ADDITIONAL WRITING BY
+Sean Ainsworth
+Harrison G. Pink
+
+ADDITIONAL DESIGN BY
+Ryan Kaufman
+
+ADDITIONAL ANIMATION BY
+Jed Heuer
+Tim Reardon
+SuperGenius
+
+ADDITIONAL CINEMATIC ART BY
+Javier Espinoza
+Jason Latino
+Jolie Menzel
+
+ADDITIONAL ART BY
+Nat Dart
+John Douglas Joy
+Crystal Langley
+Graham Ross
+
+ADDITIONAL CHARACTER AND ENVIRONMENT MODELING BY
+DQ Entertainment International
+Chanho Lee
+Gun Park
+Shawn Shain
+Mark Sheppard
+
+ADDITIONAL ENVIRONMENT LIGHTING
+Leif Estes
+Derek Sakai
+
+LEAD SOUND DESIGNER
+Lazar Levine
+
+SOUND DESIGN
+Jack Fusting
+
+AUDIO IMPLEMENTATION
+Jack Fusting
+Lazar Levine 
+
+ZOMBIE VOCAL DIRECTION
+Jack Fusting
+Lazar Levine
+Nick Mastroianni
+
+ZOMBIE VOICES
+Sean Ainsworth
+Mark Barbolak 
+Susan DeMerit
+Nat Dart
+James Dzierwa 
+Javier Espinoza
+Shaun Finney
+Jack Fusting
+Rebekah Gamin
+Alan Johnson
+John Joy
+Ryan Kaufman
+Ben Knoll
+Andrew Langley
+Crystal Langley
+Lazar Levine
+Clarence Lum
+Nora Magyar
+Nick Mastroianni
+Jolie Menzel
+Eric Parsons
+Graham Ross
+Mary Stark
+Jonathan "JD" Straw
+Chris Waltner
+Ryann Lynn Weller
+Will Wheeler
+
+
+
+Bay Area Sound, Inc.
+
+MUSIC BY
+Jared Emerson-Johnson
+
+VOICE PRODUCER
+Julian Kwasneski
+
+VOICE DIRECTION
+Jared Emerson-Johnson
+Julian Kwasneski
+
+DIALOG RECORDING
+Jory K. Prum
+
+DIALOG EDITING
+Peter Drescher
+Jory K. Prum
+Amanda Rose Smith
+Julian Kwasneski
+
+
+
+MARKETING AND PUBLIC RELATIONS
+Steve Allison
+Richard Iggo
+Alan Johnson
+Jonathan Rosales
+Paolo Asuncion
+
+WEB DEVELOPMENT
+Paul Zabierek
+Stefan Antonowicz
+Sky Iouan
+Joshua LeBeau
+Todd Stritter
+Alfonse Surigao
+Jesse Wagstaff
+
+MARKETING MEDIA PRODUCER
+Shaun Finney
+
+PRODUCT SUPPORT
+Michael Parks
+
+IT DIRECTOR
+Stan Shambaugh
+
+BUILD & DISTRIBUTION ENGINEERING
+Tim Ingram
+William "Nate" Whiteside
+
+OPERATIONS
+Andre Blanadet
+Susan DeMerit
+Rhoda Gravador-Kao
+Kathy McElwee
+Serena Sinn
+
+PUBLISHING
+James Lamorticelli
+
+LEGAL
+Mark Barbolak
+
+
+
+CAST
+
+Lee Everett 
+Dave Fennoy
+
+Clementine
+Melissa Hutchison
+
+Glenn
+Nick Herman
+
+Hershel Greene
+Chuck Kourouklis
+
+Lilly
+Nikki Rapp
+
+Larry
+Terry McGovern
+
+Kenny
+Gavin Hammon
+
+Katjaa
+Cissy Jones
+
+Carley
+Nicole Vigil
+
+Doug
+Sam Joan
+
+Shawn Greene
+Peter Mussad
+
+Cop
+Mark Barbolak
+
+Duck
+Max Kaufman
+
+Irene
+Brett Pels
+
+Chet
+Brian Davis
+
+Officer Mitchell
+Jacob Battersby
+
+Clementine's Mom
+Rebecca Schweitzer
+
+Cop Radio
+Julian Kwasneski
+
+Radio Announcer
+Ruby Butterfield
+
+
+
+DESIGN CONTRIBUTIONS BY
+The Telltale Gang
+
+CREATED WITH THE TELLTALE TOOL
+Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Carlo Morgantini
+Randy Tudor
+Ben Ingram
+Bruce Wilcox
+Alex Montgomery
+
+Portions Copyright
+Firelight Technologies
+Portions Copyright
+(C) 2002 Jean-Marc Valin
+
+
+
+FOCUS TESTERS
+Heather Antonio
+Kimberly Antonio
+Carl Bondoc
+Kris Yvanna Bondoc
+Sharlene Bondoc
+Gianni Chiloiro
+Dixie David
+Simon Eves
+James Hibbitts
+Casey Lord
+Emily Morganti & Rosy
+Robert Nelson
+Matthew Pollett
+Andrew K. Pray
+Jacqueline Nicole Smith
+Yoninja
+
+
+
+SPECIAL THANKS
+Robert Kirkman
+Tony Moore
+Charlie Adlard
+Sina Grace
+David Alpert
+Daniel Kanemoto
+Hieroglyphics Crew
+Jason Lars Bergquist
+Ikumi Sato
+Julia Kriz
+Christina, Nathan and Katherine Boyle
+Dan and Diane Parsons
+Gwendolyn, Owen & Luke Sgro
+Mark Wesley
+Alisha Piccirillo
+Denise, Alexis, Ryan Tosti
+Harmony, Stephen, and Claire Sakai
+Mrs. Jung Won Cho and Cho Co ( Miss Floopy Doop Paws 2012)
+Sabrina Cecchini
+Marco Brezzo
+Meezy P
+Elisa, Nick, Justice & Liberty Tudor
+Mrs. Dr. Amelia Moore Vanaman
+Rashelle & Jeff Wilson
+Faranak Farjamrad Herrera
+Lia Farjam Herrera
+David & Cherie Herrera
+Cristina Herrera & Gustavo De Lafore
+Hassan & Zahra Farjamrad
+Bobby Farjamrad & Sahba Motallebi
+Carl and Evie Loschenkohl
+Ed & Karen Seggerson
+Carolyn & Jason Bronkema
+Cyn Ashton & Beverly Paganucci
+Shale Levine, Elizabeth Levine
+Micah Levine
+Elisa Pagliarulo
+Kyle Priess 
+Erin Ashe
+Andrew Pink
+Donna Pink
+The Joys, the Kicins, the Hermans, and Sage Herman-Joy
+Casey Lord and Ada Hoffman
+Lorin Smedley
+Tia & Jae
+The Otters
+Jordyn Taylor Braff, Mikey, Yoshi, & Jacob Braff
+Justin Barreras
+Josh Majdali
+Mindy Shambaugh and Ethan Shambaugh
+
+
+and You
+
+
+
+TELLTALE PETS
+Snarffles, Buddy, Lulu, Ziggy and Muttley, Brodie
+Gomez, Happy and Butters, Patches, Little Edward, Marty
+Ocelot the Cat, Tobie, Walter, Melody, Marlowe and Guenever
+Chippy, Mocha & Chai, Yoshi and Milani, Alpha - the betta fish
+Momo, Max the Dog, Kasumi, Mia & Brendan Q. Ferguson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Hieroglyphics logo is a trademark of Hieroglyphics LLC. All Rights Reserved.
+(C) 2012 Telltale, Inc. Based on the Comic Book 
+by Robert Kirkman, Tony Moore and Charlie Adlard. 
+THE WALKING DEAD is (C) 2012 Robert Kirkman, LLC. 
+Telltale and the Telltale Games logo are trademarks of Telltale, Inc. 
+All rights reserved.
+
+
+
+
+
+
+(C) 2012 Telltale, Inc.
+All rights reserved
+3)  
+Lock and load, weapons hot
+4)  
+A New Day

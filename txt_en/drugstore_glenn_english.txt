@@ -1,0 +1,224 @@
+1)  GLENN
+{SadA}{Body-StandA}You know.
+2)  LEE
+{NormalC}{Body-A}How are you doing, Glenn?
+3)  
+Back at the Motor Inn...
+4)  GLENN
+{SadA}I guess, but that's not me. {NormalB}I'm not giving up, not for anything.
+5)  GLENN
+{FearA}{Body-StandA}How can it be that bad so fast?
+6)  LEE
+{SadA}Good, man. Good.
+7)  LEE
+{ThinkingA}{Body-E}You know, when things are taken away, {angryC}people do crazy shit.
+8)  LEE
+{SadB}{Body-C}Back at the motor-inn...
+9)  
+What's your story, Glenn?
+68)  
+What's your story, Glenn?
+10)  LEE
+{ThinkingB}{Body-A}What's your story, Glenn?
+11)  GLENN
+{NormalB}{Body-StandA}I deliver pizza's around here. {SadA}I brought a couple to the Everett's a few times.
+12)  GLENN
+Sorry, {AngryA}I mean, the folks that owned this place. {SadA}Just really good people. {SadB}It sucks seeing this place like this.
+13)  LEE
+{SadA}{Body-B}[heavy] Isn't that the truth.
+14)  
+What's your next move?
+15)  GLENN
+{NormalA}{Body-StandA}I don't know. I mean, {HappyB}you guys seem ok.
+16)  LEE
+{ThinkingB}{Body-C}You just want to get out there and fix, I mean {SadA}save people or whatever you can do.
+17)  LEE
+{SadB}What about your family?
+18)  GLENN
+{SadA}Yeah, I...{SadB}I...
+19)  GLENN
+{HappyA}Exactly.
+20)  LEE
+{HappyA}Forget it, man. That's your business.
+21)  LEE
+{SadA}{Body-A}What's your next move?
+22)  GLENN
+{AngryA}I hate feeling like I can't do anything.
+23)  
+Exit
+24)  LEE
+{HappyB}{Body-B}Try to get some rest.
+25)  GLENN
+{HappyA}{Body-StandA}Ha, yeah right.
+26)  LEE
+{SadA}I'm ok; {HappyA}thanks.
+27)  GLENN
+{ThinkingA}{Body-StandA}You all right, Lee?
+28)  GLENN
+{HappyA}{Body-StandA}I'm cool. Not much of an appetite. {SadA}Maybe save it for one of the kids?
+29)  LEE
+{NormalB}Here, I found some snacks.
+30)  
+About what happened back there...
+32)  
+Thanks for bringing me back to the motor-inn.
+33)  LEE
+{ThinkingB}{Body-C}Have you seen anything sharp, like a saw?
+34)  GLENN
+[stern, pissed] {AngryA}{Body-StandA}Yeah. At the motel. The one we just left. {AngryB}With the girl who needed our help.
+35)  LEE
+{AngryA}Yeah--yeah Glenn, I know.
+36)  GLENN
+{DisgustA}So let's go back. {AngryB}Now. It's right in plain sight.
+37)  
+Ok, let's do it.
+52)  
+Ok, let's do it.
+38)  
+Have you seen anything sharp, like a saw?
+39)  LEE
+{AngryC}{Body-B}Ok. Fine, yeah, let's go.
+54)  LEE
+{AngryC}{Body-B}Ok. Fine, yeah, let's go.
+40)  GLENN
+{HappyA}{Body-StandA}Great, {SadA}I hope she's still ok.
+55)  GLENN
+{HappyA}{Body-StandA}Great, {SadA}I hope she's still ok.
+41)  GLENN
+{FearA}We could still save that girl; {AngryB}let's go!
+61)  GLENN
+{FearA}We could still save that girl; {AngryB}let's go!
+42)  GLENN
+{SadB}Come on, we can do this!
+62)  GLENN
+{SadB}Come on, we can do this!
+43)  
+That's crazy.
+57)  
+That's crazy.
+44)  LEE
+[to the group] {NormalC}Hey guys; I know this sounds crazy, {ThinkingA}but Glenn and I are headed out for a minute. {ThinkingB}We need an axe if we're going to help Larry.
+53)  LEE
+[to the group] {NormalC}Hey guys; I know this sounds crazy, {ThinkingA}but Glenn and I are headed out for a minute. {ThinkingB}We need an axe if we're going to help Larry.
+45)  LEE
+[to Clementine] {SadA}We'll be careful. {HappyA}Be right back.
+56)  LEE
+[to Clementine] {SadA}We'll be careful. {HappyA}Be right back.
+46)  LEE
+{AngryC}{Body-A}That's crazy; we can find something else.
+58)  LEE
+{AngryC}{Body-A}That's crazy; we can find something else.
+47)  GLENN
+{AngryA}{Body-StandA}OR we could go pick up exactly what we need {AngryB}and help someone while we're at it.
+59)  GLENN
+{AngryA}{Body-StandA}OR we could go pick up exactly what we need {AngryB}and help someone while we're at it.
+48)  LEE
+{AngryA}I'll think about it.
+60)  LEE
+{AngryA}I'll think about it.
+49)  
+There's an axe back at the inn?
+50)  LEE
+{SurpriseA}{Body-A}There's an axe back at the inn?
+51)  GLENN
+{SurprisedA}{Body-StandA}Yeah! Let's go get it!
+63)  LEE
+{NormalB}{Body-A}Thanks for, you know,{SadB} going back there with me.
+64)  GLENN
+{AngryB}{Body-StandA}Yeah, whatever.
+65)  LEE
+Glenn, {SadA}maybe her friends came for her; {AngryA}you don't know.
+66)  GLENN
+{SadB}Yeah, you're right. {DisgustA}We don't and we never will.
+67)  LEE
+[pickup1] I know the feeling, man.
+69)  
+Do you know the combination to the lock outside?
+70)  GLENN
+[pickup1]You're probably better off breaking it if you have to.
+71)  LEE
+[pickup1] Oh you know, I thought I'd go stretch my legs.
+72)  LEE
+[pickup1] Do you know the combination for the lock on the gate outside?
+73)  GLENN
+[pickup1] Why?!
+74)  
+Talk to
+75)  
+Give Food to
+77)  GLENN
+[pickup2] Why the hell would you do that?
+78)  LEE
+[pickup3] I know I did.
+79)  GLENN
+[pickup2] You let her do it, you know. You said give her the gun.
+80)  GLENN
+[pickup2] Why didn't you tell Carley to just give it to her?
+81)  LEE
+[pickup3] [sad, agreeing]Seems like.
+82)  GLENN
+[pickup2] I guess she really wanted that gun...
+83)  
+[Remain Silent]
+84)  
+[Remain Silent]
+85)  
+She was dead anyway.
+86)  
+Mercy.
+87)  
+She didn't want to live.
+88)  LEE
+[pickup3] She was dead anyway, all bitten up like that. It was over for her.
+89)  GLENN
+[pickup2] You better hope you're never bitten then.
+90)  LEE
+[pickup3] No shit.
+91)  LEE
+[pickup3] Mercy, man. I couldn't let her go on like that. We couldn't.
+92)  LEE
+[pickup3] I think it was over for her, Glenn.
+93)  GLENN
+[pickup1] You never know; you can't give up hope.
+94)  GLENN
+[pickup2] I...I guess.
+95)  LEE
+[pickup3] She didn't WANT to live. She would've found a way to end it.
+96)  LEE
+[pickup3] You can't make someone fight. We gave her the least painful option.
+97)  GLENN
+[pickup2] You can't even explain it yourself. Well you should know I wouldn't have done it.
+113)  GLENN
+[pickup2] You can't even explain it yourself. Well you should know I wouldn't have done it.
+98)  
+Would you?
+99)  
+People can't be giving up yet.
+100)  
+It was a waste of a bullet.
+101)  LEE
+[pickup3] Then you know why.
+102)  LEE
+[pickup3] Would you have given it to her?
+103)  GLENN
+[pickup2] No way.
+104)  LEE
+[pickup3] People can't be giving up. This will pass.
+105)  GLENN
+[pickup2] I'm with you. [i agree]
+106)  LEE
+[pickup3] I'm glad to hear it. [earnest]
+107)  LEE
+[pickup3] It would've been a waste of a bullet.
+108)  LEE
+[pickup3] She's gone now anyway.
+109)  GLENN
+[pickup2] Whoa, man. She was a person.
+110)  LEE
+[pickup3] She was dead anyway. I'm not in the euthanasia business.
+111)  GLENN
+[pickup2] [confused] What do you mean?
+112)  GLENN
+[pickup2] [response to silence from player]Well... I'm glad you didn't. Really.
+114)  GLENN
+[pickup2] [response to silence from player]Well... I'm glad you didn't. Really.

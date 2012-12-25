@@ -1,0 +1,104 @@
+1)  
+Carley
+2)  
+Clementine
+3)  
+Doug
+4)  
+Duck
+5)  
+Glenn
+6)  
+Kenny
+7)  
+Larry
+8)  
+Lilly
+9)  
+Katjaa
+10)  
+Shawn
+11)  
+Zombie
+12)  
+Help keep the door closed.
+13)  
+Hold <button> to hold the door.
+14)  
+Barricade the door.
+15)  
+Take the cane.
+16)  
+Save Carley or Doug.
+17)  
+Kick out the window.
+18)  
+Get your handcuffs off.
+19)  
+Scramble to safety.
+20)  
+Get away.
+21)  
+Look for something to save your life.
+22)  
+Run.
+23)  
+Get over the fence.
+24)  
+Look for help.
+25)  
+Check the machine.
+26)  
+Lock the door.
+27)  
+Ice Machine
+28)  
+Look At
+29)  
+Talk To
+30)  
+Use
+31)  
+Take
+32)  
+Open
+33)  
+Go
+34)  
+Move To
+35)  
+Push
+36)  
+Use Gear Shift
+37)  
+Unlock
+38)  
+Search
+39)  
+Look through
+40)  
+Exit
+52)  
+Exit
+41)  
+Examine
+42)  
+Move
+43)  
+Hershel
+44)  
+Help
+45)  
+Hit
+46)  
+Pick Up
+47)  
+Pull
+48)  
+Sean's Silence Text
+49)  
+...
+50)  
+Stomp
+51)  
+TO BE CONTINUED...

@@ -1,0 +1,601 @@
+1)  LEE
+{happyA}	This was my dad's cane. He'd zip around here on it from time to time.
+2)  CLEMENTINE
+{sadA}	Was he sick?
+3)  CLEMENTINE
+{thinkingA}What's that?
+4)  CLEMENTINE
+{happyB}	My dad gave it to me.
+5)  LEE
+{happyC}See, Dad's are smart like that.
+6)  LEE
+{happyC}Plus he knew how to make it look cool. Like you, with your hat.
+7)  LEE
+{happyB}Nah, he was ok. I actually saw him whoop shoplifters with it. This cane's protected this place better than any guard dog ever could.
+8)  LEE
+[to himself] {sadA}I can't... {thinkingA}I can't think about them in here.
+9)  LEE
+[to himself]{thinkingA} My parents came in here hoping to survive...{fearA} but it looks like one of them was hurt. I wonder if it was my dad. Trying to be a hero, maybe. {sadA}Or protect her, at least.
+10)  LEE
+{normalB}	Luckily there's nothing I need in here.
+11)  LEE
+{happyC}There's a band-aid in there, I bet.
+12)  CLEMENTINE
+{happyB}	Oh, good.
+13)  LEE
+{normalB}A First Aid Kit.
+14)  LEE
+{happyB}Want to head back into the drugstore with me?
+15)  CLEMENTINE
+{happyB}	Ok.
+16)  CLEMENTINE
+{fearA}	Lee?
+17)  CLEMENTINE
+{fearB}You're not bad, right?
+18)  LEE
+[like, 'yeah, what is it?'] Yeah?
+19)  CLEMENTINE
+{fearB}	That lady said you killed someone.{sadA} Was that because he was one of the things trying to eat you?
+20)  LEE
+{surpriseA}I...{normalD}why are you asking me that?
+21)  
+No, he wasn't.
+22)  
+It's complicated.
+23)  
+Yeah, he was.
+24)  LEE
+{normalD}	No. He wasn't. [the guy you killed wasn't a zombie]
+25)  LEE
+{normalC}	It's complicated. Sometimes things happen or... {normalD}you do things and you can't explain them.
+26)  LEE
+{normalD}Yeah, he was.
+27)  LEE
+[was he a bad guy?] {angryB}He was.
+28)  CLEMENTINE
+[distrusting] {fearB}Was he bad?
+29)  CLEMENTINE
+[small, timid]{sadA} Oh.
+30)  LEE
+{happyA} Let's uh... head back to the others.
+36)  LEE
+{happyA} Let's uh... head back to the others.
+303)  LEE
+{happyA} Let's uh... head back to the others.
+31)  LEE
+{happyA}That's right.
+32)  CLEMENTINE
+{fearB}	And you had to protect yourself?
+33)  CLEMENTINE
+Oh, ok.
+35)  CLEMENTINE
+[doesn't get an answer - distrusting] {sadA}Well{thinkingA}...nevermind. It's nothing.
+302)  CLEMENTINE
+[doesn't get an answer - distrusting] {sadA}Well{thinkingA}...nevermind. It's nothing.
+37)  CLEMENTINE
+{thinkingA}Lee?
+38)  LEE
+{normalB}	Yeah?
+39)  CLEMENTINE
+{fearA}What if my parents come home and I'm not there?
+40)  LEE
+{surpriseA}They'll uhh... track us down. {thinkingA}Don't worry.
+41)  LEE
+{thinkingA}I don't think they will.
+42)  
+They'll find us.
+43)  
+I don't think they will.
+44)  CLEMENTINE
+{sadA}Yeah. Ok. {thinkingA}We should keep a look out.
+45)  LEE
+{happyA}They want you to be safe. {happyB}We'll find them if we can.
+46)  CLEMENTINE
+I've got my walkie-talkie in case they try that way.
+47)  CLEMENTINE
+[waiting for an answer]{ normalB}Lee?
+48)  CLEMENTINE
+[waiting for an answer] {angryA}I asked you a question...
+49)  LEE
+{thinkingA}	I ought to clear a path to opening that door.
+50)  LEE
+{normalC}	We better stay at it.
+51)  LEE
+[referring to his dad] {thinkingA}I wonder how many nights he spent at this desk. {sadA}Thousands.
+52)  CLEMENTINE
+[a little grunt, pushing a heavy thing]{fearA}Ugh!
+53)  LEE
+{happyA}	Here we go.{normalB} Watch your fingers in the drawers.
+54)  LEE
+{happyA}Sure.
+55)  CLEMENTINE
+{happyB}	Can I help?
+56)  LEE
+[to Clementine]{happyA} Better get this door clear, huh?
+57)  
+How are you doing?
+58)  LEE
+How are you doing?
+59)  
+How are you doing?
+60)  
+Things have been scary, huh?
+61)  LEE
+{normalD}Things have been scary, huh?
+62)  
+You don't need anything, right?
+63)  LEE
+{thinkingA}You don't need anything, right?
+64)  CLEMENTINE
+{sadA}It's not good.
+65)  LEE
+{thinkingA}	No, it's not.
+66)  CLEMENTINE
+But I think it'll be ok.
+67)  CLEMENTINE
+{happyB}Yeah. It's not that heavy.
+68)  LEE
+How about with everything outside.
+69)  LEE
+{sadA}	Neither do I, Clementine. {thinkingA}Nobody does, I don't think.
+70)  CLEMENTINE
+Yeah...
+71)  CLEMENTINE
+{thinkingA}I bet my dad does.
+72)  CLEMENTINE
+{sadA}It's not good. {fearA}I don't know why everyone is crazy.
+73)  LEE
+{thinkingB}But you're cool?{happyA}
+74)  LEE
+{happyA}	Ok, good to know. And you don't have any allergies or anything I should know about, right?{thinkingA} Don't kids have allergies or asthma or just general maladies?
+75)  CLEMENTINE
+I think so.
+76)  CLEMENTINE
+{thinkingA}My friend Alfred has a peanut allergy.
+77)  CLEMENTINE
+{thinkingA}	No. {sadA}I get hungry a lot.
+78)  CLEMENTINE
+[pushing a heavy thing] Ugh!
+79)  CLEMENTINE
+[out of breath for]
+80)  LEE
+{happyA}	All right, a little further.
+81)  
+Because they're dead.
+82)  
+I hope not. It's just complicated.
+83)  CLEMENTINE
+[out of breath for a second]{thinkingA} Do you have kids?
+84)  CLEMENTINE
+[pushing a heavy thing] {angryB}Ugh...grrr...ugh.
+85)  LEE
+{thinkingA}Ok, here we go.
+86)  CLEMENTINE
+{thinkingA}You don't have a family?
+87)  LEE
+{normalB}	No.
+88)  
+Lets just move this thing.
+89)  
+...What do your parents do?
+90)  
+Let's not talk about that. Do you play sports?
+300)  LEE
+Let's not talk about that. Do you play sports?
+91)  CLEMENTINE
+{normalA}Like… um... social studies?
+92)  LEE
+{happyA}	Those are good jobs.
+93)  LEE
+{happyA}Yeah, like that.
+94)  CLEMENTINE
+{normalD}	My mom is a doctor and my dad is an engineer.
+95)  CLEMENTINE
+{normalB}What's your job?
+96)  CLEMENTINE
+{thinkingA}	You didn't answer my question...
+97)  LEE
+[changing the subject] {happyB}What do your parents do?
+98)  LEE
+{thinkingA}	I, uh, teach history {happyA}and writing and things like that.
+99)  CLEMENTINE
+{normalA}	Do you like sports?
+100)  CLEMENTINE
+{normalD}	Why don't you want to talk about your family?
+101)  CLEMENTINE
+What's that?
+102)  CLEMENTINE
+[digesting] Oh. {happyB}Neat!
+103)  LEE
+{happyB}	I like football and I play squash with a buddy of mine.
+104)  CLEMENTINE
+{thinkingA}I play soccer, but I don't really like it.
+105)  LEE
+It's like indoor tennis without a net.
+106)  LEE
+{happyA}	I'm not crazy about it either.
+107)  CLEMENTINE
+[Short]{normalA}Oh. Ok. I'm sorry.
+108)  LEE
+{normalD}	Lets just move this thing.
+109)  LEE
+{happyA}	It's fine.
+110)  CLEMENTINE
+{thinkingA}Why don't you want to talk about your family? {sadA}Do they like... hate you?
+111)  
+I wouldn't blame them.
+112)  CLEMENTINE
+I'm just sorry for being mean.
+113)  LEE
+{sadB}	Because they're dead.
+114)  LEE
+{happyA}	You didn't know.
+115)  CLEMENTINE
+[gasp]{fearA} Oh. I'm sorry.
+116)  CLEMENTINE
+Why?
+117)  CLEMENTINE
+{fearB}But you love them, right?
+118)  LEE
+{thinkingA}	I hope not. It's just complicated, that's all.
+119)  LEE
+{angryB}	It just is.
+120)  LEE
+{happyA}	Yeah, of course.
+121)  LEE
+{normalD}We didn't fight. {sadB}We just didn't talk for a while.
+122)  LEE
+{thinkingA}	I wouldn't blame them.
+123)  CLEMENTINE
+{fearB}	Why? Did you fight?{sadB} I fight with my mom sometimes.
+124)  LEE
+{thinkingA}I got into some trouble and then I didn't talk to them for a while.{sadA} This used to be their store.{happyA}  But let's just keep that between you and me, ok?
+125)  CLEMENTINE
+{sadA}	Yeah.
+126)  LEE
+That's right. [a beat] Now let's get this done.
+127)  LEE
+{angryA}Look,{sadA} my family is gone and {angryB}I just wish things would've been different.
+128)  CLEMENTINE
+{thinkingA}Ok. Because of the trouble?
+129)  CLEMENTINE
+[getting your finger pinched ina  drawer, alt] {cryingB}OWW!
+130)  CLEMENTINE
+[getting your finger pinched in a drawer]{cryingB} OUCH!
+131)  CLEMENTINE
+[pushing a heavy thing] Ugh...grrr...ugh.
+132)  LEE
+[urgent, but not life threatening] {fearA}Are you ok?
+133)  LEE
+Is it bleeding?
+134)  CLEMENTINE
+{fearB}	A little.
+135)  CLEMENTINE
+{fearA}I hurt my finger.
+136)  LEE
+{normalD}I'll find you a bandage.
+137)  LEE
+{normalD}There's a photo over there.
+138)  CARLEY
+{thinkingA}	Find anything?
+212)  CARLEY
+{thinkingA}	Find anything?
+139)  LEE
+{thinkingA}It's a photo of the family who owned this place. {happyA}It might help us track down the keys to the office.
+216)  LEE
+{thinkingA}It's a photo of the family who owned this place. {happyA}It might help us track down the keys to the office.
+140)  LEE
+{angryA}Just a picture of whoever was here.
+218)  LEE
+{angryA}Just a picture of whoever was here.
+141)  LEE
+{normalC}	No, nothing.
+220)  LEE
+{normalC}	No, nothing.
+142)  
+...
+166)  
+...
+221)  
+...
+143)  
+No, nothing.
+219)  
+No, nothing.
+144)  
+Just a picture.
+217)  
+Just a picture.
+145)  
+A photo of the family the owned the place.
+215)  
+A photo of the family the owned the place.
+146)  CARLEY
+Let me have a look.
+213)  CARLEY
+Let me have a look.
+290)  CARLEY
+Let me have a look.
+291)  CARLEY
+Let me have a look.
+147)  LEE
+{thinkingA}	I don't know about that.
+214)  LEE
+{thinkingA}	I don't know about that.
+289)  LEE
+{thinkingA}	I don't know about that.
+292)  LEE
+{thinkingA}	I don't know about that.
+148)  CARLEY
+{thinkingA}	I know who you are.
+149)  CARLEY
+{angryA}You're Lee Everett. You're a professor at Athens who killed a State Senator who was sleeping with your wife. [a beat, explaining how she knows this] This is your parent's store; folks around town know the owner's son got himself a life sentence, but I'm a reporter for WABE in Atlanta.
+150)  CARLEY
+I paid attention to that trial. Maybe you're a murderer. But I don't really care. Frankly, that's a skill that might come in handy.
+151)  LEE
+{thinkingA}	Hmmph. [disregarding]
+226)  LEE
+{thinkingA}	Hmmph. [disregarding]
+152)  CARLEY
+Did you tell anyone out there who you were, or that you were tied to this place?
+153)  LEE
+{thinkingA}No. {normalC}I've been sticking to first names for a reason.
+228)  LEE
+{thinkingA}No. {normalC}I've been sticking to first names for a reason.
+154)  CARLEY
+Well, good.
+225)  CARLEY
+Well, good.
+305)  CARLEY
+Well, good.
+155)  CARLEY
+You seem like an ok guy, and the last thing we need is drama out there. You've got this little girl to take care of, and... [her eyes drift to Clementine, she's thinking about what would happen if Lee was in fact a bad guy] look, don't make me wrong on this.
+156)  LEE
+{angryA}I don't plan to.
+229)  LEE
+{angryA}I don't plan to.
+157)  CARLEY
+Good. Because if this lasts longer than a few days and you're a detriment to the group, then we'd have a problem.
+227)  CARLEY
+Good. Because if this lasts longer than a few days and you're a detriment to the group, then we'd have a problem.
+158)  LEE
+{angryB}	I hear you.
+232)  LEE
+{angryB}	I hear you.
+159)  CARLEY
+I'll just keep it to myself.
+230)  CARLEY
+I'll just keep it to myself.
+160)  LEE
+{happyA}	Thanks.
+235)  LEE
+{happyA}	Thanks.
+161)  LEE
+{thinkingB}How can I trust you?
+239)  LEE
+{thinkingB}How can I trust you?
+162)  LEE
+{angryA}	I don't trust you.
+242)  LEE
+{angryA}	I don't trust you.
+163)  
+Thanks.
+234)  
+Thanks.
+164)  
+How can I trust you?
+237)  
+How can I trust you?
+165)  
+I don't trust you.
+240)  
+I don't trust you.
+167)  CARLEY
+{happyC}	Don't worry about it.
+236)  CARLEY
+{happyC}	Don't worry about it.
+168)  CARLEY
+{normalB}You can't, {thinkingB}I suppose. {happyC}But you don't have many other options
+238)  CARLEY
+{normalB}You can't, {thinkingB}I suppose. {happyC}But you don't have many other options
+169)  CARLEY
+{thinkingA}Well, you better try.
+170)  LEE
+{normalB}	This door leads to the back alley.
+171)  LEE
+{thinkingA}	I better not go out there.
+172)  
+Locked and barricaded
+173)  
+Barricaded, have not learned that it's locked
+174)  LEE
+{thinkingA}That's the door to the pharmacy, we should be able to find pills for Larry in there.
+176)  LEE
+{thinkingA}We ought to clear this door for when we find the keys.
+178)  LEE
+{thinkingA}	It's locked, we need to track down the keys if we're going to help Larry.
+179)  LEE
+{thinkingA}	The keys are on that zombie out on the street.
+181)  LILLY
+[pickup1]We gotta hurry!
+182)  LEE
+Have keys
+183)  LEE
+{angryC}Ah, shit.
+184)  LILLY
+Oh no.
+185)  LEE
+{happyA} Ah, right.
+186)  LEE
+[to himself]{happyC} There's a first aid kit in here.
+187)  CLEMENTINE
+{fearA} Lee, my finger still hurts.
+188)  LEE
+{thinkingA}	I better get in there.
+190)  
+Photo
+191)  
+Bedding
+192)  
+Desk
+193)  
+Exit
+198)  
+Exit
+194)  
+Pharmacy
+195)  
+Window
+196)  
+abc
+197)  
+abc
+199)  
+Alley
+200)  LEE
+{happyB}	How are you doing?
+201)  LEE
+{fearA}Is it bleeding?
+202)  CLEMENTINE
+[pickup1]I've got my walkie-talkie in case they try that way.
+203)  CLEMENTINE
+{sadB}I'm just sorry for being mean.
+204)  CLEMENTINE
+{thinkingA}
+	Why?
+205)  
+Pallet
+206)  CLEMENTINE
+{normalA}	What's that?
+207)  LEE
+[pickup1] It was worth a shot. Keys it is, I guess.
+208)  LEE
+[pickup1] [to clementine] Stay close to me until then, ok?
+209)  
+Cabinet
+210)  
+First Aid Kit
+211)  
+Door to Pharmacy
+222)  CARLEY
+Did you tell anyone out there who you were or that you were tied to this place?
+223)  CARLEY
+You seem like an ok guy and the last thing we need is drama out there. You've got this little girl to take care of, and... [her eyes drift to Clementine, she's thinking about what would happen if Lee was in fact a bad guy] look, don't make me wrong on this.
+224)  CARLEY
+I paid attention to that trial. Maybe you're murderer. But I don't really care. Frankly, that's a skill that might come in handy.
+231)  CARLEY
+{angryA}	You're Lee Everett. You're a professor at Athens who killed a State Senator who was sleeping with your wife. [a beat, explaining how she knows this] This is your parent's store; folks around town know that the owner's son got himself a life sentence but I'm a reporter for WABE in Atlanta.
+233)  CARLEY
+{thinkingA}	I know who are you.
+241)  CARLEY
+{thinkingA}Well, you better try to.
+243)  
+Look at
+244)  
+Look at
+246)  
+Look at
+284)  
+Look at
+287)  
+Look at
+245)  
+Take
+247)  
+Search
+299)  
+Search
+248)  
+Open
+298)  
+Open
+249)  
+Use axe on
+250)  
+Examine
+251)  
+Examine
+252)  
+Move
+253)  LEE
+[pickup3] It's the remote to my dad's TV.
+254)  LEE
+[pickup3] Dad told me he bought that TV to watch baseball in here, but I caught him watching "his stories" more than a few times.
+255)  LEE
+[pickup3] That's what I figured.
+256)  LEE
+[pickup3] It's dad's TV.
+257)  LEE
+[pickup3] Dad kept that remote for that thing in here someplace.
+258)  
+[Remain Silent]
+274)  
+[Remain Silent]
+259)  
+No.
+260)  
+What's it to you?
+261)  
+It's the apocalypse. Who cares?
+262)  CARLEY
+[pickup1] To ME? I'm not the one with a felony record.
+263)  LEE
+[pickup3] What's it to you?
+264)  CARLEY
+[pickup1] If you don't think people will find any reason to turn on you, especially when the shit hits the fan, you're insane.
+265)  LEE
+[pickup3] The world is ending out there. Who cares who I am?
+266)  LEE
+[pickup3] Whatever.
+267)  CARLEY
+[pickup1] For your sake, I hope the answer is no.
+293)  CARLEY
+[pickup1] For your sake, I hope the answer is no.
+268)  
+I got in some trouble, but keep that between us.
+269)  
+I'm not a bad guy.
+270)  
+I... killed someone.
+271)  LEE
+[pickup3] I can relate.
+272)  LEE
+[pickup3] I'm not a bad guy, ok? Things happened and we didn't talk much after that.
+273)  CLEMENTINE
+[pickup1] My parents don't talk to me when I get in trouble.
+275)  CLEMENTINE
+[pickup1] And what happened?
+276)  LEE
+[pickup3] I... I... ki....  I got into a fight, once.
+277)  LEE
+[pickup3] And it ended really badly. After that I wasn't allowed to talk to my family.
+278)  CLEMENTINE
+[pickup1] That's so sad...
+279)  LEE
+[pickup3] Lets move this thing.
+280)  LEE
+[pickup3] Yeah, let's do it.
+295)  LEE
+[pickup3] Yeah, let's do it.
+296)  LEE
+[pickup3] Yeah, let's do it.
+281)  CLEMENTINE
+[pickup1][confused at lee's silence] I guess let's finish moving the desk, huh?
+294)  CLEMENTINE
+[pickup1][confused at lee's silence] I guess let's finish moving the desk, huh?
+297)  CLEMENTINE
+[pickup1][confused at lee's silence] I guess let's finish moving the desk, huh?
+282)  
+Remote
+283)  
+TV
+285)  
+Pick Up
+286)  
+Turn on
+288)  
+Drawer
+301)  
+Finger
+304)  GLENN
+Hey, I just moved all of this stuff out of the way.  Let's get in there!

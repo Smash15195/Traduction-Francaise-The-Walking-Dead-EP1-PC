@@ -1,0 +1,297 @@
+1)  
+A man can't be too careful in the choice of his enemies.
+2)  
+Happiness is a choice that requires effort at times.
+3)  
+Given a choice between grief and nothing, I'd choose grief.
+4)  
+Where there is no choice, we do well to make no difficulty.
+5)  
+The hardest hit, as everywhere, are those who have no choice.
+6)  
+You seem a little paranoid
+7)  
+You seem a little down
+8)  
+The officer doesn't like you very much
+9)  
+Guess you have nothing to say
+10)  
+You were polite to the deputy.
+11)  
+CHOICE:  The deputy thinks you're being defensive.
+12)  
+CHOICE:  The deputy thought you were polite.
+13)  
+CHOICE:  You played it cool.
+14)  
+You blew him off.
+15)  
+CHOICE:  You blew him off.
+16)  
+CHOICE:  The deputy doesn't like you much.
+17)  
+CHOICE:  You blew him off again.
+18)  
+CHOICE:  You chose silence.
+19)  
+She noticed you were concerned.
+20)  
+CHOICE:  You showed a little suspicion.
+21)  
+CHOICE:  You chose to reassure her.
+22)  
+CHOICE:  You snooped around a little.
+23)  
+CHOICE:  You found out a bit more about the family who lived here.
+24)  
+CHOICE:  Clementine is a little afraid of you.
+25)  
+CHOICE:  You showed 
+compassion for Clementine.
+26)  
+CHOICE:  You chose something.
+27)  
+CHOICE:  You chose the safety of daylight.
+28)  
+CHOICE:  You chose to wait until dark.
+29)  
+You lied to Shawn.
+127)  
+You lied to Shawn.
+30)  
+You told a white lie to make things easier.
+31)  
+CHOICE:  You were truthful.
+32)  
+Shawn drew his own conclusion.
+33)  
+CHOICE: You told a white lie.
+34)  
+CHOICE:  You lied to Shawn.
+35)  
+CHOICE:  You were friendly to Hershel.
+36)  
+CHOICE:  You were surly.
+37)  
+CHOICE:  You ignored Hershel.
+38)  
+CHOICE:  You told the truth.
+39)  
+CHOICE:  Hershel doubts your honesty.
+40)  
+CHOICE:  You lied to Hershel.
+41)  
+CHOICE:  You dodged the question.
+42)  
+CHOICE: You chose to save Duck.
+43)  
+CHOICE: You stood there, frozen in fear.
+44)  
+CHOICE: You tried to blame Kenny.
+45)  
+CHOICE: You tried to shield Kenny from blame.
+46)  
+CHOICE: You took the blame on yourself.
+47)  
+CHOICE: Hershel doesn't blame you anyway.
+48)  
+CHOICE: You chose to save Shawn.
+49)  
+CHOICE: You chose to be curious.
+50)  
+CHOICE: You chose to blow off the question.
+51)  
+CHOICE: You chose to joke about it.
+52)  
+CHOICE: You chose to be silent.
+53)  
+Hershel knows your name.
+54)  
+Hershel will remember that.
+56)  
+Hershel will remember that.
+55)  
+Hershel believes you.
+57)  
+Hershel made note of that.
+58)  
+Hershel doubts you.
+59)  
+You didn't answer his question.
+60)  
+He noticed what you said.
+61)  
+Lilly will remember what you called her.
+62)  
+Lilly noticed what you said.
+63)  
+Kenny will remember your loyalty.
+64)  
+Kenny noticed that.
+65)  
+Kenny noticed you didn't have his back.
+66)  
+You drew Larry's attention to Clementine.
+67)  
+Clementine was hurt by that.
+68)  
+Clementine understood.
+69)  
+Clementine noticed you ignored her.
+70)  
+TEST 5 SECOND DELAY
+71)  
+Hershel will definitely remember that.
+72)  
+Shawn thinks you're the babysitter now.
+73)  
+Shawn noticed what you said.
+74)  
+Clementine is really upset now.
+75)  
+You helped Clementine calm down a little.
+76)  
+The trooper heard that.
+77)  
+The trooper picked up on that.
+78)  
+Clem will remember you protected her.
+79)  
+Clementine will remember you didn't save her.
+80)  
+Hi.  There's a logic thingie here that gets set to Clem Is Good.  Does that mean anything?
+81)  
+You checked on Clementine.
+82)  
+You took care of Clementine.
+83)  
+Kenny appreciates your concern for Duck.
+84)  
+Carley will remember you said that.
+85)  
+Carley noticed your concern.
+86)  
+Kenny learned something about you.
+87)  
+Kenny noticed your silence.
+88)  
+You yelled at Carley.
+89)  
+Carley accepts your decision.
+90)  
+You helped the girl.
+91)  
+You refused the girl's request.
+92)  
+You chose to save Doug
+93)  
+You chose to save Carley.
+94)  
+The officer picked up on that.
+95)  
+The deputy picked up on that.
+96)  
+The officer tried to fill in the silence.
+97)  
+Carley will remember you trusted her.
+98)  
+Carley will remember you didn't trust her.
+99)  
+Clem feels hopeful about seeing her parents.
+100)  
+Clementine is hopeful.
+101)  
+Clementine is worried.
+102)  
+She wonders why you're not talking.
+103)  
+She'll remember you were nice to her.
+104)  
+You chose to save Shawn.
+105)  
+You chose to save Duck.
+106)  
+You made no choice.
+148)  
+You made no choice.
+107)  
+You took the blame on yourself.
+108)  
+You defended Kenny.
+109)  
+You blamed Kenny.
+110)  
+Hershel doesn't blame you anyway.
+111)  
+Clementine is okay.
+112)  
+You chose something.
+113)  
+The officer thinks you're being defensive.
+114)  
+You blew him off again.
+115)  
+The officer thought you were polite.
+116)  
+The officer noticed your silence.
+117)  
+You played it cool.
+118)  
+The deputy doesn't like you much.
+119)  
+You chose to be curious.
+120)  
+You chose to blow off the question.
+121)  
+You chose to joke about it.
+122)  
+You chose to be silent.
+123)  
+Clementine seems afraid.
+124)  
+You made Clementine feel better.
+125)  
+You chose the safety of daylight.
+126)  
+You chose to wait until dark.
+128)  
+You were truthful.
+129)  
+He picked up on that.
+130)  
+He picked up on that.
+131)  
+Clementine will remember that.
+132)  
+You showed an interest in his family.
+133)  
+You learned about Kenny's boat.
+134)  
+You learned Katjaa is a veterinarian.
+135)  
+Katjaa learned you were fired.
+136)  
+Katjaa will remember that.
+137)  
+You learned Clementine is a first grader.
+138)  
+Shawn disagrees.
+139)  
+Shawn noticed your silence.
+140)  
+Shawn won't forget that.
+141)  
+You said nothing.
+142)  
+You didn't side with Kenny.
+143)  
+You made a difficult choice.
+144)  
+Kenny will remember that.
+145)  
+Kenny will remember that.
+146)  
+Kenny will remember that.
+147)  
+You did nothing.

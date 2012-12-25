@@ -1,0 +1,94 @@
+1)  LEE
+Hey there, uh, Kenny.[first time really approaching the guy]
+2)  LEE
+Hey there.
+3)  KENNY
+Hey.
+4)  LEE
+{happyA}{body-A} Need any help?
+5)  LEE
+{normalD} How's your family doing?
+6)  LEE
+{thinkingA} So what's your family's plan?
+7)  LEE
+{happyA} See ya.
+8)  
+Need any help?
+9)  
+How's your son doing?
+43)  LEE
+How's your son doing?
+10)  
+What's your plan?
+11)  KENNY
+{happyA}{body-B} Do YOU need any help?
+12)  KENNY
+{normalB} Naw, I think I got it.
+29)  KENNY
+{normalB} Naw, I think I got it.
+13)  LEE
+{thinkingA} What do you mean?
+14)  KENNY
+{normalA} I mean, in taking care of that little girl. {sadA} You know what you're doing? You got kids of your own?
+16)  
+Silence
+17)  LEE
+{normalD} Nah, nah. No... no kids.  [sort of wistful]
+18)  LEE
+{normalB} I think I've got it handled ok.  {angryA} As long as I keep her safe, I think I'm doing alright.
+19)  LEE
+{happyA} I have no idea what I'm doing.
+20)  KENNY
+{happyB} Woulda liked one then.
+21)  LEE
+[casual, hiding emotion] {thinkingA} You know.
+22)  
+No kids.
+23)  
+I'm ok.
+24)  
+I have no idea.
+25)  KENNY
+{fearA} With those things out there, maybe, sure, that's enough. {thinkingA} But you gotta ask yourself if you're the type of guy who can do better than that{sadA} if her parents don't show up.
+26)  LEE
+{thinkingA} I'll keep that in mind.
+27)  KENNY
+{happyA} At least you're honest. {disgustA} Shit, better than I was when Duck showed up. {happyB} You'll figure it out.
+28)  KENNY
+{normalC} Well, whether you do or not, she's a sweetheart. {fearA} We saw some crazy shit getting here. The kind of stuff might mess up a little angel like that.
+48)  KENNY
+{normalC} Well, whether you do or not, she's a sweetheart. {fearA} We saw some crazy shit getting here. The kind of stuff might mess up a little angel like that.
+30)  KENNY
+{sadA} Good, I think. {normalB} Katjaa's got a sister up in Memphis; we were coming back from visiting her. {disgustA} We were in a gas station and some guy grabbed my boy.
+31)  KENNY
+[continued] {fearA} I thought he was kidnapping him. I was on the fucker in about two seconds and...  {happyB} Christ.  {normalC} Just lucky I was there. We saw a lot of bodies before we stumbled upon Hershel's. {angryA} But we're a tough family, Lee. Ain't nothing gonna faze us.
+32)  KENNY
+{happyB} We're doing good, thanks for asking.
+33)  KENNY
+{angryA} Get back on down to Lauderdale and let this mess get sorted out.
+37)  KENNY
+{angryA} Get back on down to Lauderdale and let this mess get sorted out.
+34)  KENNY
+{happyA} I'm a commercial fisherman, catching mackerel, dolphin, whatever's biting and paying.  {disgustA} Katjaa wouldn't be wild about it,{happyA} but the boat's not that bad.
+35)  LEE
+{normalD} You've got a boat?
+36)  KENNY
+{normalA} Government will start handing out shots and the national guard will do it's thing. {thinkingA} On the odd chance things got too bad, we could hop on my boat, I guess.
+38)  LEE
+Hey Kenny, you good?
+39)  KENNY
+Yep.
+40)  LEE
+Can I get you anything?
+41)  KENNY
+All good, thanks.
+42)  
+See ya.
+44)  LEE
+[pickup3] He seems like an all right dude.
+45)  LEE
+[pickup3] He's working on his truck.
+46)  
+Look At
+47)  
+Talk to
