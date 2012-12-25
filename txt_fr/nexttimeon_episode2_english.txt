@@ -1,0 +1,283 @@
+1)  KENNY
+Nous devons trouver de la nourriture, Lee. Rapidement.
+33)  KENNY
+Nous devons trouver de la nourriture, Lee. Rapidement.
+64)  KENNY
+Nous devons trouver de la nourriture, Lee. Rapidement.
+119)  KENNY
+Nous devons trouver de la nourriture, Lee. Rapidement.
+2)  ANDY
+[to Lee] Salut. Je m'appelle Andrew St. John.
+3)  ANDY
+Nous sommes de la laiterie St. John.
+53)  ANDY
+Nous sommes de la laiterie St. John.
+73)  ANDY
+Nous sommes de la laiterie St. John.
+4)  LEE
+C'est magnifique.
+56)  LEE
+C'est magnifique.
+5)  MARK
+Je me voyais rester ici pendant un bon moment.
+6)  BANDIT
+Vous avez essayé de nous baiser.
+7)  KENNY
+Quelque chose va se produire, Lee. Il va y avoir une guerre.
+46)  KENNY
+Quelque chose va se produire, Lee. Il va y avoir une guerre.
+77)  KENNY
+Quelque chose va se produire, Lee. Il va y avoir une guerre.
+8)  MARK
+[hit by arrow] Gaaaahhh !
+9)  BEN
+[panic]Il y en a trop !!
+10)  BEN
+[distraught]Rien de tout ça n'est arrivé !
+11)  CLEMENTINE
+[Scared!] Nooon !!
+12)  DAVID
+[Having is leg severed with an axe: (Please get it over with)] Lee ! S'il vous plait !!!
+13)  DAVID
+[Having is leg severed with an axe] [crying in pain]
+14)  LILLY
+[furious] Vous n'avez jamais aimé mon père ! Même de retour au drugstore quand tout le monde pensait que le gamin de Kenny avait été mordu, vous vous êtes dressé contre lui...
+15)  KENNY
+Lorsque vous avez tous pensé que Duck a été mordu...
+16)  KENNY
+Eh bien, je fais simplement la même chose.
+17)  LEE
+Les marcheurs ne m'inquiètent pas autant que les bandits.
+44)  LEE
+Les marcheurs ne m'inquiètent pas autant que les bandits.
+81)  LEE
+Les marcheurs ne m'inquiètent pas autant que les bandits.
+18)  KATJAA
+Je ne vous ai jamais remercié d'avoir sauvé Duck des marcheurs à la ferme d'Hershel.[Recorded during 101 pickups]
+19)  KATJAA
+[cont.]Vous choisirez les enfants cette fois.[Recorded during 101 pickups]
+20)  KATJAA
+Ne pas répétez pas ce qui s'est passé avec les marcheurs à la ferme de Hershel.[Recorded during 101 pickups]
+21)  LEE
+Comment tu vas, Clémentine ?
+24)  LEE
+Comment tu vas, Clémentine ?
+22)  CLEMENTINE
+J'ai vraiment faim, Lee.
+23)  CLEMENTINE
+J'ai vraiment faim, Lee.
+25)  DOUG
+{ThinkingA}Vous avez une sale gueule, Lee. {FearA}Quand avez-vous mangé pour la dernière fois ?
+26)  LEE
+{HappyA}Gardez-la.
+27)  DOUG
+{HappyA}Hé, je vous dois bien plus qu'une barre chocolatée a moitié mangée. {ThinkingA} Prenez-la.
+28)  CARLEY
+{ThinkingA} Je veux que vous preniez ça, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faible.
+29)  LEE
+{NormalB} Vous ne me devez rien, Carley.
+30)  LEE
+Je croyais que nous serions bien si nous survivions aux marcheurs. Mais je n'aurais jamais cru qu'ils allaient nous affamer.
+31)  LEE
+Je croyais que nous serions bien si nous survivions aux marcheurs. Mais je n'aurais jamais cru qu'ils allaient nous affamer.
+32)  MARK
+Je croyais que nous serions bien si nous survivions aux marcheurs. Mais je n'aurais jamais cru qu'ils allaient nous affamer.
+65)  MARK
+Je croyais que nous serions bien si nous survivions aux marcheurs. Mais je n'aurais jamais cru qu'ils allaient nous affamer.
+93)  MARK
+Je croyais que nous serions bien si nous survivions aux marcheurs. Mais je n'aurais jamais cru qu'ils allaient nous affamer.
+34)  KENNY
+Sur le chemin, j'ai eu des vertiges, les mains tremblantes, des sueurs froides. J'ai cru que j'allais m'évanouir.
+66)  KENNY
+Sur le chemin, j'ai eu des vertiges, les mains tremblantes, des sueurs froides. J'ai cru que j'allais m'évanouir.
+120)  KENNY
+Sur le chemin, j'ai eu des vertiges, les mains tremblantes, des sueurs froides. J'ai cru que j'allais m'évanouir.
+35)  LILLY
+Si les expéditions de chasse à proximité ne donnent rien, nous devrons partir plus loin.
+63)  LILLY
+Si les expéditions de chasse à proximité ne donnent rien, nous devrons partir plus loin.
+36)  ANDY
+Nous avons un peu de nourriture que nous pouvons partager.
+67)  ANDY
+Nous avons un peu de nourriture que nous pouvons partager.
+37)  LILY
+Ces gamins sont venus pour marchander un peu d'essence.
+70)  LILY
+Ces gamins sont venus pour marchander un peu d'essence.
+38)  DANNY
+On dirait qu'on pourrait tous l'utiliser.
+39)  ANDY
+[to Lee] Je suis Andrew St. John, et voici mon frère Dan.
+69)  ANDY
+[to Lee] Je suis Andrew St. John, et voici mon frère Dan.
+40)  KENNY
+[quietly] S'ils ont une réserve de nourriture, quelque part, nous devons savoir où et comment les prendre.
+75)  KENNY
+[quietly] S'ils ont une réserve de nourriture, quelque part, nous devons savoir où et comment les prendre.
+121)  KENNY
+[quietly] S'ils ont une réserve de nourriture, quelque part, nous devons savoir où et comment les prendre.
+41)  KENNY
+[quietly] Dans le cas où quelque chose arriverait.
+76)  KENNY
+[quietly] Dans le cas où quelque chose arriverait.
+122)  KENNY
+[quietly] Dans le cas où quelque chose arriverait.
+42)  LEE
+Cet endroit n'est plus sûr.
+78)  LEE
+Cet endroit n'est plus sûr.
+43)  KENNY
+Vrai ou pas. Une fois que nous aurons notre bouffe, nous pourrons faire un meilleur boulot de défense.
+80)  KENNY
+Vrai ou pas. Une fois que nous aurons notre bouffe, nous pourrons faire un meilleur boulot de défense.
+45)  BANDIT
+Ne croyez pas que je ne peux pas vous voir !
+47)  BRENDA
+Attendez un peu, Lee, les choses semblent tellement plus agréables après un repas et une bonne nuit.
+74)  BRENDA
+Attendez un peu, Lee, les choses semblent tellement plus agréables après un repas et une bonne nuit.
+125)  BRENDA
+Attendez un peu, Lee, les choses semblent tellement plus agréables après un repas et une bonne nuit.
+48)  BRENDA
+C'est le monde dans lequel nous vivons maintenant, j'imagine.
+124)  BRENDA
+C'est le monde dans lequel nous vivons maintenant, j'imagine.
+49)  BRENDA
+Assise ici, regardant au-delà de la ferme, je peux faire comme si les choses sont comme elles ont l'habitude d'être.
+123)  BRENDA
+Assise ici, regardant au-delà de la ferme, je peux faire comme si les choses sont comme elles ont l'habitude d'être.
+50)  LILLY
+[furious] Vous n'avez JAMAIS aimé mon père ! Même au retour au drugstore quand tout le monde pensait que le gamin de Kenny avait été mordu, vous vous êtes dressé contre lui... Mais ça ?! Vous n'avez pas le droit !!
+104)  LILLY
+[furious] Vous n'avez JAMAIS aimé mon père ! Même au retour au drugstore quand tout le monde pensait que le gamin de Kenny avait été mordu, vous vous êtes dressé contre lui... Mais ça ?! Vous n'avez pas le droit !!
+51)  KENNY
+Eh bien, je fais la même chose. Sauf que Duck n'a pas été mordu et nous SAVONS que ce gars-là ne va pas le faire.
+Quelque chose de gros espionne le bloc de sel à lécher.
+52)  KENNY
+Ne croyez pas que j'aie oublié ce que vous avez dit au drugstore... quand vous avez tous pensé que Duck avait été mordu...
+108)  KENNY
+Ne croyez pas que j'aie oublié ce que vous avez dit au drugstore... quand vous avez tous pensé que Duck avait été mordu...
+54)  LEE
+D'où venez-vous les gars ?
+68)  LEE
+D'où venez-vous les gars ?
+55)  DANNY
+Qu'est-ce que vous pensez de cet endroit ?
+71)  DANNY
+Qu'est-ce que vous pensez de cet endroit ?
+57)  DOUG
+Hé, je vous dois beaucoup plus qu'une barre chocolatée à moitié mangée. Prenez-la.
+130)  DOUG
+Hé, je vous dois beaucoup plus qu'une barre chocolatée à moitié mangée. Prenez-la.
+58)  DOUG
+Vous avez une sale gueule, Lee. Quand avez-vous mangé pour la dernière fois ?
+128)  DOUG
+Vous avez une sale gueule, Lee. Quand avez-vous mangé pour la dernière fois ?
+59)  LEE
+Gardez-la.
+129)  LEE
+Gardez-la.
+60)  CARLEY
+Bien ... Si vous la voulez, je l'aurai pour vous, d'accord ?
+134)  CARLEY
+Bien ... Si vous la voulez, je l'aurai pour vous, d'accord ?
+61)  CARLEY
+Je veux que vous preniez ça, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faible
+132)  CARLEY
+Je veux que vous preniez ça, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faible
+62)  LEE
+Vous ne me devez rien, Carley.
+72)  LEE
+C'est magnifique..
+79)  KENNY
+C'est ce que je dis.
+82)  BRENDA
+Je sais qu'ils ont faim mais attendez juste une minute. J'ai une grande surprise qui arrive !
+83)  DOUG
+Que faire si ces personnes reviennent ?
+84)  CARLEY
+Si nous prenons ça, nous ne valons pas mieux que des bandits.
+85)  CARLEY
+Nous ne savons pas si ces gens sont morts.
+86)  DOUG
+Donc, nous sommes des bandits, maintenant ?
+87)  CLEMENTINE
+Lee, on peut pas leur voler leur nourriture.
+88)  CLEMENTINE
+Lee, on peut pas leur voler leur nourriture.
+89)  MARK
+C'est des conneries. Vous avez sauvé sa vie -- non, toutes nos vies -- un paquet de fois ces derniers mois.
+90)  MARK
+Les choses peuvent, euh, devenir tendues de retour au camp. Lily et Kenny ont des façons de faire complètement différentes. Ca n'aurait pas été comme ça à Robins.
+91)  MARK
+Je veux dire -- quand vous avez trouvé Clémentine, pourquoi avez-vous pris cette responsabilité ?
+92)  MARK
+Alors, pourquoi l'avez-vous fait, Lee ?
+94)  MARK
+Et Larry n'aide pas. Qu'est-ce que ces types offrent ?
+95)  LEE
+Elle serait morte sans moi.
+96)  LEE
+Il pense que je suis un danger pour le groupe.
+97)  BEN
+[freaking out] Oh là, oh là....
+98)  BEN
+[freaking out] Ca ne peut pas se produire !
+99)  KENNY
+Comment il a fait pour perdre tout ce sang ? Il a été mordu ?
+100)  BEN
+Mordu ? Non ! Je le jure !
+101)  KENNY
+Avec tout ce sang et ces cris... Nous allons être encerclés d'une minute à l'autre.
+102)  BEN
+[freaking out] Allez, faites quelque chose !
+103)  TEST
+This is a test line for lipsync/wav data.
+105)  LEE
+Kenny... Rappelez-vous au drugstore où nous avons tous pensé que Duck avait été mordu... Je lui ai donné le bénéfice du doute... Nous devrions peut-être refaire de même.
+106)  KENNY
+C'était différent. Duck n'a pas été mordu. Mais, allons, nous SAVONS que ce gars ne le fera pas.
+107)  LEE
+Kenny, écoutez-
+109)  LEE
+Le mur parait bien, Doug.
+110)  DOUG
+Merci. J'ai aussi un peu travaillé sur le "système d'alerte" pour l'extérieur.
+111)  LEE
+Un système d'alerte ?
+112)  DOUG
+Eh bien... c'est juste des cordes avec des bidons attachés, mais hé, ça marche.
+113)  LEE
+Merci de garder les enfants ici.
+114)  CARLEY
+Ouais, eh bien, mon instinct me disait d'y aller et de voir ce qui se passait. Mais... ouais... les enfants n'ont pas besoin de voir ça.
+115)  CARLEY
+Oh ! Et faites moi une faveur : dites à Lilly de prendre un peu de repos. Vous et moi sommes censés être de garde ce soir. J'ai besoin de vous en forme.
+116)  KENNY
+[furious] Vous avez dit qu'il n'était pas mordu !
+117)  BEN
+Ce n'est pas la morsure qui fait ça ! Ouais, la morsure va vous tuer, mais...
+118)  BEN
+Vous revenez peu importe comment vous mourez. Si vous détruisez pas le cerveau, c'est ce qui arrive. C'est ce qui va se passer pour nous tous.
+126)  LEE
+Ces gens vont tout simplement retarder l'inévitable.
+127)  LEE
+Cet endroit va tomber en morceaux, comme partout ailleurs.
+131)  LEE
+Merci. J'apprécie.
+133)  LEE
+Vous ne me devez rien, Carley..
+135)  LEE
+J'apprécie.
+136)  KENNY
+On sait que ce gars ne le fera pas.
+137)  BANDIT
+Maintenant, on va prendre ce qu'on veut.
+138)  DAVID
+...
+139)  DAVID
+...
+140)  DAVID
+Non !
+141)  DAVID
+NON

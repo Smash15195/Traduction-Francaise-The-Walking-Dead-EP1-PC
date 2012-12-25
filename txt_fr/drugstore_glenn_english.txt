@@ -1,0 +1,224 @@
+1)  GLENN
+{SadA}{Body-StandA}Vous savez.
+2)  LEE
+{NormalC}{Body-A}Comment ça va, Glenn ?
+3)  
+A propos du Motor Inn...
+4)  GLENN
+{SadA}J'imagine, mais ce n'est pas moi. {NormalB}Je n'abandonnerai pas, pour rien au monde.
+5)  GLENN
+{FearA}{Body-StandA}Comment ça peut empirer si vite ?
+6)  LEE
+{SadA}Bien, mec. Bien.
+7)  LEE
+{ThinkingA}{Body-E}Vous savez, quand des choses vous sont enlevées, {angryC}les gens partent en vrille.
+8)  LEE
+{SadB}{Body-C}De retour au motor-inn...
+9)  
+Quelle est votre histoire, Glenn ?
+68)  
+Quelle est votre histoire, Glenn ?
+10)  LEE
+{ThinkingB}{Body-A}Quelle est votre histoire, Glenn ?
+11)  GLENN
+{NormalB}{Body-StandA}Je livre des pizzas par ici. {SadA}J'en ai amené quelques unes aux Everett quelques fois.
+12)  GLENN
+Désolé. {AngryA}Je veux dire, les gens qui possèdent cet endroit. {SadA}Des gens bien, simplement. {SadB}Ca craint se voir cet endroit dans cet état.
+13)  LEE
+{SadA}{Body-B}[heavy] C'est vrai.
+14)  
+Quelle est votre prochaine étape ?
+15)  GLENN
+{NormalA}{Body-StandA}Je sais pas. Je veux dire, {HappyB}vous autres avez l'air sympa.
+16)  LEE
+{ThinkingB}{Body-C}Vous voulez simplement vous tirer d'ici et guérir, je veux dire {SadA}sauver les gens ou quoi que ce soit que vous puissiez faire.
+17)  LEE
+{SadB}Et votre famille ?
+18)  GLENN
+{SadA}Ouais, je...{SadB}je...
+19)  GLENN
+{HappyA}Exactement.
+20)  LEE
+{HappyA}Oubliez ça. Ce ne sont pas nos affaires.
+21)  LEE
+{SadA}{Body-A}Qu'est-ce que vous comptez faire ensuite ?
+22)  GLENN
+{AngryA}Je déteste me sentir inutile.
+23)  
+Sortir
+24)  LEE
+{HappyB}{Body-B}Essayez de prendre un peu de repos.
+25)  GLENN
+{HappyA}{Body-StandA}Ah, ouais, c'est vrai.
+26)  LEE
+{SadA}Ca va; {HappyA}merci.
+27)  GLENN
+{ThinkingA}{Body-StandA}Tout va bien, Lee ?
+28)  GLENN
+{HappyA}{Body-StandA}C'est cool. Pas trop d'appétit. {SadA}Je vais peut-être en garder pour un des gamins ?
+29)  LEE
+{NormalB}Ici, j'ai trouvé des amuse-gueule.
+30)  
+A propos de ce qui s'était passé là-bas...
+32)  
+Merci de m'avoir ramené au motor-inn.
+33)  LEE
+{ThinkingB}{Body-C}Est-ce que vous avez vu quelque chose d'aiguisé, comme une scie ?
+34)  GLENN
+[stern, pissed] {AngryA}{Body-StandA}Ouais. Au motel. Celui que nous venons de quitter. {AngryB}Avec la fille qui avait besoin de notre aide.
+35)  LEE
+{AngryA}Ouais--ouais Glenn, je sais.
+36)  GLENN
+{DisgustA}Alors retournons-y. {AngryB}Maintenant. C'est bien en vue.
+37)  
+OK, faisons comme ça.
+52)  
+OK, faisons comme ça.
+38)  
+Est-ce que vous avez vu quelque chose d'aiguisé, comme une scie ?
+39)  LEE
+{AngryC}{Body-B}OK. C'est bon, ouais, allons-y.
+54)  LEE
+{AngryC}{Body-B}OK. C'est bon, ouais, allons-y.
+40)  GLENN
+{HappyA}{Body-StandA}Super, {SadA}j'espère qu'elle va toujours bien.
+55)  GLENN
+{HappyA}{Body-StandA}Super, {SadA}j'espère qu'elle va toujours bien.
+41)  GLENN
+{FearA}Nous pourrions toujours sauver cette fille ; {AngryB}allons-y !
+61)  GLENN
+{FearA}Nous pourrions toujours sauver cette fille ; {AngryB}allons-y !
+42)  GLENN
+{SadB}Allez, on peut y arriver !
+43)  
+C'est dingue.
+57)  
+C'est dingue.
+44)  LEE
+[to the group] {NormalC}Hé, les gars ; je sais que ça paraît fou, {ThinkingA}mais Glenn et moi on s'absente pendant une minute. {ThinkingB}Nous avons besoin d'une hache si nous allons aider Larry.
+45)  LEE
+[to Clementine] {SadA}On sera prudents. {HappyA}On revient tout de suite.
+56)  LEE
+[to Clementine] {SadA}On sera prudents. {HappyA}On revient tout de suite.
+46)  LEE
+{AngryC}{Body-A}C'est dingue; on peut trouver quelque chose d'autre.
+58)  LEE
+{AngryC}{Body-A}C'est dingue; on peut trouver quelque chose d'autre.
+47)  GLENN
+{AngryA}{Body-StandA}Ou bien nous pourrions aller ramasser exactement ce qu'il nous faut {AngryB}et aider quelqu'un pendant que nous y sommes.
+59)  GLENN
+{AngryA}{Body-StandA}Ou bien nous pourrions aller ramasser exactement ce qu'il nous faut {AngryB}et aider quelqu'un pendant que nous y sommes.
+48)  LEE
+{AngryA}Je vais y réfléchir.
+60)  LEE
+{AngryA}Je vais y réfléchir.
+49)  
+Il y a une hache au motel ?
+50)  LEE
+{SurpriseA}{Body-A}Il y a une hache au motel ?
+51)  GLENN
+{SurprisedA}{Body-StandA}Ouais ! Allons la prendre !
+53)  LEE
+[to the group] {NormalC} Hé, les gars ; je sais que ça paraît fou, {ThinkingA}mais Glenn et moi on s'absente pendant une minute. {ThinkingB}Nous avons besoin d'une hache si nous allons aider Larry.
+62)  GLENN
+{SadB} Allez, on peut y arriver !
+63)  LEE
+{NormalB}{Body-A}Merci pour, vous savez,{SadB} être retourné ici avec moi.
+64)  GLENN
+{AngryB}{Body-StandA}Ouais, peu importe.
+65)  LEE
+Glenn, {SadA}peut-être que ses amis sont venus la chercher; {AngryA}on ne sait pas.
+66)  GLENN
+{SadB}Ouais, vous avez raison. {DisgustA}On ne sait pas et on ne le saura jamais.
+67)  LEE
+[pickup1] Je connais ce sentiment, mec.
+69)  
+Vous connaissez la combinaison du cadenas dehors ?
+70)  GLENN
+[pickup1] Vous feriez mieux de le fracturer.
+71)  LEE
+[pickup1] Oh vous savez, je pensais que j'irais me dégourdir les jambes.
+72)  LEE
+[pickup1] Vous connaissez la combinaison du cadenas dehors ?
+73)  GLENN
+[pickup1] Pourquoi ?!
+74)  
+Parler à
+75)  
+Donner Nourriture à
+77)  GLENN
+[pickup2] Mais pourquoi faire ça ?
+78)  LEE
+[pickup3] Je sais que je l'ai fait.
+79)  GLENN
+[pickup2] Donnez-la lui, vous vous souvenez. Vous avez dit de lui donner l'arme.
+80)  GLENN
+[pickup2] Pourquoi ne pas avoir dit à Carley de simplement la lui donner ?
+81)  LEE
+[pickup3] [sad, agreeing]On dirait.
+82)  GLENN
+[pickup2] Je crois qu'elle voulait vraiment cette arme...
+83)  
+[Remain Silent]
+84)  
+[Remain Silent]
+85)  
+Elle était morte de toute façon.
+86)  
+Par pitié.
+87)  
+Elle ne voulait pas vivre.
+88)  LEE
+[pickup3] Elle était morte de toute façon, toute mordue comme ça. C'était fini pour elle.
+89)  GLENN
+[pickup2] Vous feriez mieux d'espérer ne jamais être mordu, alors.
+90)  LEE
+[pickup3] Sans déc'.
+91)  LEE
+[pickup3] Par pitié. Je pouvais pas la laisser partir comme ça. Nous ne pouvions pas.
+92)  LEE
+[pickup3] Je crois que c'est fini pour elle, Glenn.
+93)  GLENN
+[pickup1] On ne sait jamais; vous ne pouvez pas abandonner l'espoir.
+94)  GLENN
+[pickup2] Je... je crois.
+95)  LEE
+[pickup3] Elle ne VOULAIT pas vivre. Elle aurait trouvé une façon d'en finir.
+96)  LEE
+[pickup3] Vous ne pouvez pas forcer quelqu'un à lutter. Nous lui avons laissé le choix le moins douloureux.
+97)  GLENN
+[pickup2] Vous ne pouvez même pas vous l'expliquer. Eh bien vous devriez savoir que je ne l'aurais pas fait.
+113)  GLENN
+[pickup2] Vous ne pouvez même pas vous l'expliquer. Eh bien vous devriez savoir que je ne l'aurais pas fait.
+98)  
+Ah bon ?
+99)  
+Les gens ne peuvent pas encore abandonner.
+100)  
+On aurait gâché une balle.
+101)  LEE
+[pickup3] Alors vous savez pourquoi.
+102)  LEE
+[pickup3] La lui auriez-vous donnée ?
+103)  GLENN
+[pickup2] Certainement pas.
+104)  LEE
+[pickup3] Les gens ne peuvent pas abandonner. Ca passera.
+105)  GLENN
+[pickup2] Je suis avec vous. [i agree]
+106)  LEE
+[pickup3] Je suis content de l'entendre. [earnest]
+107)  LEE
+[pickup3] On aurait gâché une balle.
+108)  LEE
+[pickup3] Elle est partie maintenant, de toute façon.
+109)  GLENN
+[pickup2] Ouah, mec. C'était une personne.
+110)  LEE
+[pickup3] Elle était morte de toute façon. Je ne fais pas dans l'euthanasie.
+111)  GLENN
+[pickup2] [confused] Qu'est-ce que vous entendez par là ?
+112)  GLENN
+[pickup2] [response to silence from player]Eh bien... Je suis content que vous ne l'ayez pas fait. Vraiment.
+114)  GLENN
+[pickup2] [response to silence from player]Eh bien... Je suis content que vous ne l'ayez pas fait. Vraiment.

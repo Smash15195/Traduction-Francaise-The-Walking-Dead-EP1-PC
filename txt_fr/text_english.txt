@@ -1,0 +1,104 @@
+1)  
+Carley
+2)  
+Clémentine
+3)  
+Doug
+4)  
+Duck
+5)  
+Glenn
+6)  
+Kenny
+7)  
+Larry
+8)  
+Lilly
+9)  
+Katjaa
+10)  
+Shawn
+11)  
+Zombie
+12)  
+Aidez à garder la porte fermée.
+13)  
+Tenir <button> pour bloquer la porte.
+14)  
+Barricader la porte.
+15)  
+Prendre la canne.
+16)  
+Sauver Carley ou Doug.
+17)  
+Casser la fenêtre.
+18)  
+Enlever vos menottes.
+19)  
+Brouiller la sécurité.
+20)  
+S'en aller
+21)  
+Chercher quelque chose pour sauver votre vie.
+22)  
+Courir.
+23)  
+Franchir la clôture.
+24)  
+Chercher de l'aide.
+25)  
+Vérifier la machine.
+26)  
+Verrouiller la porte.
+27)  
+Machine à glace
+28)  
+Regarder
+29)  
+Parler à
+30)  
+Utiliser
+31)  
+Prendre
+46)  
+Prendre
+32)  
+Ouvrir
+37)  
+Ouvrir
+33)  
+Aller
+34)  
+Aller à
+35)  
+Pousser
+36)  
+Utiliser Levier de Vitesse
+38)  
+Chercher
+39)  
+Regarder à travers
+40)  
+Partir
+52)  
+Partir
+41)  
+Examiner
+42)  
+Bouger
+43)  
+Hershel
+44)  
+Aider
+45)  
+Frapper
+47)  
+Tirer
+48)  
+Sean's Silence Text
+49)  
+...
+50)  
+Piétiner
+51)  
+A SUIVRE...

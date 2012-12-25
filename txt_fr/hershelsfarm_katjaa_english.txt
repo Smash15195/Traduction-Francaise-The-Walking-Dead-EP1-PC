@@ -1,0 +1,165 @@
+1)  KATJAA
+Tu as de jolis cheveux !
+2)  CLEMENTINE
+Ils s'emmêlent beaucoup.
+3)  KATJAA
+C'est ton papa qui t'a donné ce chapeau ?
+4)  CLEMENTINE
+Mmhmm.
+5)  CLEMENTINE
+J'ai un poisson rouge "Cacahuète". Maman n'aime pas les chiens.
+6)  KATJAA
+Tu as des animaux de compagnie ?
+7)  KATJAA
+Oh, eh bien nous avons un labrador "Franklin" à Fort Lauderdale.
+8)  KATJAA
+Quelle est ta couleur préférée ?
+9)  CLEMENTINE
+Pourpre.
+10)  CLEMENTINE
+Ce sont mes préférés.
+11)  KATJAA
+Ooh, j'adore tes chaussures !
+12)  LEE
+Ho là, les filles.
+13)  LEE
+[warm] Hé.
+14)  
+Vous avez l'air détendues.
+15)  LEE
+{thinkingB} Ben, bien sûr.[like "duh"]
+16)  KATJAA
+{normalA} Quoi qu'il en soit, c'est un peu comme {thinkingA}si nous n'avions pas vu des gens se manger entre eux ces trois derniers jours. {happyA}C'est paisible ici, nan ?
+17)  CLEMENTINE
+{happyB} C'était facile.
+18)  LEE
+{thinkingA} Oh, euh, {happyB} c'était comment ?
+19)  LEE
+{fearA} J'veux dire, t'es une  {happyB}fortiche ?
+20)  KATJAA
+{happyB} Je pense que nous faisons bien. {happyC} Clémentine vient de me parler de son CE1.
+21)  LEE
+{normalC} Vous avez l'air détendues.
+22)  
+Comment c'était en ville ?
+23)  LEE
+{normalD} Comment avez-vous géré la traversée de la ville ?
+24)  KATJAA
+{fearA} Fini ?! {disgustA} Lee, il y a une chose horrible qui s'est produite {happyC}mais le monde n'est certainement pas fini.
+25)  KATJAA
+{thinkingB} Kenny... a conduit. {sadA} Nous avons vu passer tellement de gens qui avaient besoin d'aide. {sadB} Et... nous on... passé, devant eux. Comme...comme...
+26)  LEE
+{happyA} Bien.
+27)  LEE
+{sadB} Ca va. C'est bon, vous n'avez pas à en dire plus.
+28)  KATJAA
+{happyA} Qu'est-ce que vous faites, Lee ?
+29)  KATJAA
+{fearA} Je suis juste en état de choc. {happyC} Parler à votre fille donne une impression de retour à la normale.
+30)  LEE
+{normalB} J'enseignais à l'Université de Géorgie.
+31)  LEE
+{thinkingA} Non, pas d'études. {normalC} J'ai abandonné il y a un moment.
+32)  LEE
+[Lie] {normalD} Ouais, ma faute.
+33)  
+Non, JAMAIS.
+54)  
+Non, JAMAIS.
+34)  
+Ma faute.
+57)  
+Ma faute.
+35)  KATJAA
+{sadB} C'est dommage. {normalB} Eh bien, j'entends toujours les gens vouloir retourner à l'université, après un grand désastre. {happyB} Les gens ne veulent pas mourir ignorants, je suppose.
+55)  KATJAA
+{sadB} C'est dommage. {normalB} Eh bien, j'entends toujours les gens vouloir retourner à l'université, après un grand désastre. {happyB} Les gens ne veulent pas mourir ignorants, je suppose.
+36)  KATJAA
+{happyB} Vous serez de retour dans une salle de classe en un rien de temps.
+58)  KATJAA
+{happyB} Vous serez de retour dans une salle de classe en un rien de temps.
+37)  KATJAA
+{normalA} Eh bien, je pense juste que c'est important de rester optimiste autour [gesturing towards his daughter at your side] {happyC}de nos enfants.
+38)  KATJAA
+{happyC} Peut-être que vous devriez aller voir Hershel dans la grange, Il a été {disgustA}horriblement silencieux.
+39)  
+A tout à l'heure.
+40)  LEE
+{happyA} A tout à l'heure.
+41)  KATJAA
+[goodbye] {happyC} OK, Lee.
+42)  LEE
+On dirait que ces deux-là vont bien s'entendre.
+43)  LEE
+[sizing her up, to himself] Katjaa est gentille avec elle.
+44)  CLEMENTINE
+{happyA} Ouais.
+45)  LEE
+Tu as passé un bon moment avec Katjaa, Clémentine ?
+46)  LEE
+[having said a dumb thing] Ouais, OK.
+47)  LEE
+Euh, tu as besoin d'aller aux toilettes ou quelque chose comme ça ?
+48)  KATJAA
+{thinkingA} Lee, la jeune femme peut prendre soin d'elle-même !
+49)  
+Qu'est-ce que vous faites ?
+50)  KATJAA
+{happyC} Plus que vous ne pensez, en fait.
+51)  LEE
+{happyA} Peut-être un étrange alligator ?
+52)  KATJAA
+{happyB} Je suis vétérinaire à Fort Lauderdale -- {fearA} comme Hershel, {disgustA} dans les chiens et les chats mais pas les chevaux.
+53)  LEE
+{thinkingA} Alors euh, qu'est-ce que vous faites{happyA} quand... les cadavres ne se promènent pas ?
+56)  LEE
+{thinkingA} Non, jamais. {normalC} J'ai lâché il y a un moment
+59)  LEE
+[Lie] {normalD} Ouais, ma faute..
+60)  KATJAA
+{normalA} Eh bien, je pense juste que c'est important de rester optimiste pour [gesturing towards his daughter at your side] {happyC} nos petits.
+61)  KATJAA
+[pickup1] J'aimerai rentrer chez moi demain, mais même alors, je pourrais pas enlever les choses que nous -- les choses que Duck -- a traversé.
+62)  KATJAA
+[pickup1] Vous ne voulez pas revenir avant l'instant ou vous avez vécu tout ça ?
+63)  
+Qui ne le voudrait pas ?
+64)  
+Les choses arrivent pour une raison.
+65)  
+Ca allait mal avant.
+66)  KATJAA
+[pickup1]Toutes ces choses.
+67)  LEE
+{happyA} Ce sont les choses pour lesquelles nous vivons, non? {fearA} Avec celles disparues, à quoi bon ?
+68)  LEE
+{normalD} Pour n'importe qui le bon sens le voudrait. La famille, les barbecues et les bières avec les amis.
+69)  KATJAA
+[pickup1]Pas ce que nous avons vu.
+70)  LEE
+{normalD} Tout cela pourrait être la providence, vous savez.
+71)  LEE
+{thinkingA} Vous ne pouvez jamais réaliser quand quelque chose vous arrive ce qu'elle donnera; {happyA} peut-être que tout se passera bien.
+72)  KATJAA
+[pickup1]Votre optimisme est... rafraîchissant. Nouveau. Pour ces deux jours passés, du moins.
+73)  LEE
+{thinkingB} Mais n'était-ce pas le cas avant ? {angryA} Les banques, les politiques, les-les conneries -- toutes ces choses sont parties. {normalB} L'enfer peut prendre différentes couleurs.
+74)  LEE
+{disgustB} Les choses allaient mal avant et mal maintenant mais elles sont différentes, vous voyez ?
+75)  KATJAA
+[pickup1]Les gens se mangent entre eux.
+76)  KATJAA
+[pickup1]Les dernières pensées que j'ai eu avant de voir ce qui s'est passé étaient pour les bourrelets d'un shar pei de ma clinique. Je veux rentrer maintenant penser à cet idiot de chien.
+82)  KATJAA
+[pickup1]Les dernières pensées que j'ai eu avant de voir ce qui s'est passé étaient pour les bourrelets d'un shar pei de ma clinique. Je veux rentrer maintenant penser à cet idiot de chien.
+77)  KATJAA
+[pickup1]Nous avons besoin d'ESPERER que nous reprendrons nos boulots bientôt, Lee. De revenir à la normale. Ca ne peut pas rester comme ça.
+78)  KATJAA
+[pickup1] Nous serons tous bientôt chez nous.
+79)  KATJAA
+[pickup1] Nous serons tous bientôt chez nous.
+80)  
+Look At
+81)  
+Talk to
+
